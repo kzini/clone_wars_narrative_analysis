@@ -1,0 +1,1155 @@
+﻿1
+00:00:18,660 --> 00:00:21,230
+<i>War in the Inner Rim!</i>
+
+2
+00:00:21,300 --> 00:00:23,830
+<i>Rebel leader Steela Gerrera
+has joined forces</i>
+
+3
+00:00:23,900 --> 00:00:26,500
+<i>with General Tandin
+after boldly rescuing.</i>
+
+4
+00:00:26,570 --> 00:00:29,000
+<i>Onderon's former king from execution,</i>
+
+5
+00:00:29,070 --> 00:00:32,040
+<i>evading a trap set
+by Separatist ally King Rash</i>
+
+6
+00:00:32,110 --> 00:00:34,110
+<i>and the droid general Kalani.</i>
+
+7
+00:00:34,180 --> 00:00:36,920
+<i>Amid growing public support
+and rising unrest,</i>
+
+8
+00:00:36,980 --> 00:00:39,580
+<i>Ahsoka continues to monitor
+the rebels' efforts</i>
+
+9
+00:00:39,650 --> 00:00:41,750
+<i>as they rally around Ramsis Dendup</i>
+
+10
+00:00:41,820 --> 00:00:44,630
+<i>to restore his reign
+as the rightful king</i>
+
+11
+00:00:44,690 --> 00:00:46,120
+<i>and finally put an end</i>
+
+12
+00:00:46,190 --> 00:00:48,520
+<i>to the Separatist occupation
+of Onderon.</i>
+
+13
+00:01:03,540 --> 00:01:06,310
+I'm picking up
+an electromagnetic field.
+
+14
+00:01:06,380 --> 00:01:09,620
+Roger, roger.
+It's coming from there.
+
+15
+00:01:16,020 --> 00:01:17,380
+Whoa!
+
+16
+00:01:17,450 --> 00:01:22,090
+<i>My fellow subjects,
+I appear not as your king</i>
+
+17
+00:01:22,160 --> 00:01:24,890
+<i>but as a servant of Onderon.</i>
+
+18
+00:01:24,960 --> 00:01:27,930
+<i>We are in the midst
+of a great struggle.</i>
+
+19
+00:01:28,000 --> 00:01:30,800
+<i>The Confederacy has used
+the recent attacks</i>
+
+20
+00:01:30,870 --> 00:01:35,840
+<i>as an opportunity to tighten
+their hold on Onderon.</i>
+
+21
+00:01:35,910 --> 00:01:40,580
+<i>They have accused me of leading
+these so-called terrorists.</i>
+
+22
+00:01:40,640 --> 00:01:43,410
+<i>It is a lie they have engineered</i>
+
+23
+00:01:43,480 --> 00:01:46,150
+<i>to further restrict your independence</i>
+
+24
+00:01:46,220 --> 00:01:49,820
+<i>and use deadly force
+against our people.</i>
+
+25
+00:01:49,890 --> 00:01:53,620
+<i>The truth is, I have never
+met them before now.</i>
+
+26
+00:01:53,690 --> 00:01:58,030
+<i>I have come to know them
+as the true sons of Onderon.</i>
+
+27
+00:01:58,100 --> 00:02:01,160
+<i>They are unwilling
+to surrender our freedom</i>
+
+28
+00:02:01,230 --> 00:02:04,770
+<i>to those who conspire
+to take it from us.</i>
+
+29
+00:02:04,840 --> 00:02:09,540
+<i>Our destiny is tied to them
+and this planet.</i>
+
+30
+00:02:09,610 --> 00:02:13,110
+<i>We must all rise together
+to protect it.</i>
+
+31
+00:02:18,250 --> 00:02:19,580
+Uh-oh.
+
+32
+00:02:19,650 --> 00:02:23,020
+Why are they looking at us that way?
+
+33
+00:02:23,090 --> 00:02:26,290
+Hey!
+
+34
+00:02:26,360 --> 00:02:28,190
+What the? Blast them!
+
+35
+00:02:32,500 --> 00:02:34,630
+Ahh!
+
+36
+00:02:34,700 --> 00:02:36,000
+Uh-oh.
+
+37
+00:02:56,690 --> 00:02:58,560
+The people are
+turning against the droids.
+
+38
+00:02:58,630 --> 00:03:00,230
+There's rioting in the streets now.
+
+39
+00:03:00,290 --> 00:03:02,560
+That's a beautiful thing.
+
+40
+00:03:02,630 --> 00:03:06,300
+We need to keep the battle
+to the outskirts of the city.
+
+41
+00:03:06,370 --> 00:03:08,540
+Less structures and people.
+
+42
+00:03:08,600 --> 00:03:11,940
+But less clankers.
+Their main force is in Iziz.
+
+43
+00:03:12,010 --> 00:03:13,510
+We should join the fight down there
+
+44
+00:03:13,580 --> 00:03:15,450
+and take it straight to King Rash.
+
+45
+00:03:15,510 --> 00:03:19,480
+We all want victory, but not
+at the cost of innocent lives.
+
+46
+00:03:19,550 --> 00:03:22,250
+If we fight door to door,
+no one is safe.
+
+47
+00:03:22,320 --> 00:03:24,580
+This is war, Steela.
+
+48
+00:03:24,650 --> 00:03:25,850
+She's right.
+
+49
+00:03:25,920 --> 00:03:27,320
+I agree.
+
+50
+00:03:27,390 --> 00:03:29,760
+The more you draw the droids
+from the city to the highlands,
+
+51
+00:03:29,830 --> 00:03:32,000
+the safer the people will be.
+
+52
+00:03:32,060 --> 00:03:34,330
+My men await your command, my Lord.
+
+53
+00:03:34,400 --> 00:03:38,200
+I believe there is a new contender.
+
+54
+00:03:38,270 --> 00:03:42,770
+<i>You will lead our forces,
+including the Royal Army.</i>
+
+55
+00:03:42,840 --> 00:03:46,070
+Steela is now the commanding general.
+
+56
+00:03:46,140 --> 00:03:49,180
+A great choice.
+
+57
+00:03:49,240 --> 00:03:51,380
+As you wish, my Lord.
+
+58
+00:03:51,450 --> 00:03:55,380
+You and your rebels
+renewed my faith in myself.
+
+59
+00:03:55,450 --> 00:03:58,690
+Now I'm putting my faith in you.
+
+60
+00:03:58,760 --> 00:04:01,830
+Thank you, Your Majesty.
+
+61
+00:04:01,890 --> 00:04:03,860
+Let's ride.
+
+62
+00:04:19,780 --> 00:04:21,780
+Just in case.
+
+63
+00:04:47,540 --> 00:04:50,340
+We are losing the public.
+
+64
+00:04:50,410 --> 00:04:54,110
+If they turn against us,
+I fear the outcome.
+
+65
+00:04:54,180 --> 00:04:56,950
+Fear will bring them back.
+
+66
+00:04:57,020 --> 00:04:59,350
+We must eliminate Dendup,
+General Tandin,
+
+67
+00:04:59,420 --> 00:05:00,590
+and the terrorists
+
+68
+00:05:00,650 --> 00:05:03,220
+before the people
+commit to their efforts.
+
+69
+00:05:03,290 --> 00:05:05,320
+General Tandin is weak.
+
+70
+00:05:05,390 --> 00:05:09,290
+His army will not withstand
+the power of the Confederacy.
+
+71
+00:05:09,360 --> 00:05:11,930
+Neither will the terrorists.
+
+72
+00:05:12,000 --> 00:05:15,530
+General, our scouts have
+located the main rebel forces
+
+73
+00:05:15,600 --> 00:05:18,300
+in the mountains to the east.
+
+74
+00:05:18,370 --> 00:05:20,670
+With the rioting in the city,
+how can we spare the troops
+
+75
+00:05:20,740 --> 00:05:22,710
+to attack the rebels in the mountains?
+
+76
+00:05:22,780 --> 00:05:25,850
+Do not underestimate our means.
+
+77
+00:05:25,910 --> 00:05:27,650
+If the rebel army falls,
+
+78
+00:05:27,710 --> 00:05:30,880
+the citizens will lose their courage,
+
+79
+00:05:30,950 --> 00:05:33,250
+and order will be restored.
+
+80
+00:05:42,230 --> 00:05:45,130
+Your target lies
+in the mountains to the east.
+
+81
+00:05:45,200 --> 00:05:46,730
+The army will follow.
+
+82
+00:05:46,800 --> 00:05:49,770
+Leave no survivors. Go.
+
+83
+00:05:49,840 --> 00:05:52,300
+By your command.
+
+84
+00:06:07,560 --> 00:06:09,230
+The droid army is almost here.
+
+85
+00:06:09,470 --> 00:06:12,300
+Everyone, get ready.
+
+86
+00:06:27,320 --> 00:06:28,320
+Ready.
+
+87
+00:06:28,350 --> 00:06:30,890
+Saw, begin your attack.
+
+88
+00:06:46,000 --> 00:06:47,000
+Yah!
+
+89
+00:07:30,280 --> 00:07:32,220
+Ahh!
+
+90
+00:07:32,290 --> 00:07:33,290
+No!
+
+91
+00:07:33,350 --> 00:07:34,850
+Where did that come from?
+
+92
+00:07:34,920 --> 00:07:36,920
+There.
+
+93
+00:07:39,390 --> 00:07:40,990
+Any ideas?
+
+94
+00:07:41,060 --> 00:07:42,560
+Yeah. Run!
+
+95
+00:08:12,460 --> 00:08:13,460
+Ahh!
+
+96
+00:08:32,580 --> 00:08:35,150
+<i>I take it the rebels
+have Dooku's full attention.</i>
+
+97
+00:08:35,220 --> 00:08:36,680
+It's a full-scale war.
+
+98
+00:08:36,750 --> 00:08:38,080
+They need our help.
+
+99
+00:08:38,150 --> 00:08:39,820
+Please talk to the Council.
+
+100
+00:08:39,890 --> 00:08:42,760
+<i>Even Master Windu
+would be wary at this point.</i>
+
+101
+00:08:42,820 --> 00:08:45,530
+<i>The Council will not
+engage or involve the Republic</i>
+
+102
+00:08:45,590 --> 00:08:47,130
+<i>in an internal affair.</i>
+
+103
+00:08:47,200 --> 00:08:48,740
+The Separatists have a new gunship
+
+104
+00:08:48,800 --> 00:08:50,230
+with a powerful ray shield.
+
+105
+00:08:50,300 --> 00:08:52,000
+Nothing's getting past it.
+
+106
+00:08:52,070 --> 00:08:53,580
+<i>I am sorry, Ahsoka.</i>
+
+107
+00:08:53,630 --> 00:08:55,500
+<i>They will have to find a way.</i>
+
+108
+00:08:55,570 --> 00:08:58,400
+<i>Do not stay there
+if their failure is certain.</i>
+
+109
+00:08:58,470 --> 00:09:01,940
+<i>Evacuate who you can and return
+to Coruscant immediately.</i>
+
+110
+00:09:02,010 --> 00:09:03,240
+<i>Do you understand?</i>
+
+111
+00:09:03,310 --> 00:09:06,140
+<i>Yes, Master.</i>
+
+112
+00:09:06,210 --> 00:09:07,780
+We need to help them.
+
+113
+00:09:07,850 --> 00:09:11,120
+We will do what we can
+to relocate the survivors.
+
+114
+00:09:11,180 --> 00:09:13,050
+Before they lose their planet.
+
+115
+00:09:13,120 --> 00:09:14,990
+We can't.
+
+116
+00:09:15,050 --> 00:09:16,390
+What difference does it make now?
+
+117
+00:09:16,460 --> 00:09:19,030
+The Separatists know we're involved.
+
+118
+00:09:19,090 --> 00:09:21,260
+I don't disagree with you, Anakin,
+
+119
+00:09:21,330 --> 00:09:25,130
+but to send in Republic gunships
+defeats our purpose.
+
+120
+00:09:25,200 --> 00:09:27,830
+We must stay true to our intentions,
+
+121
+00:09:27,900 --> 00:09:29,800
+learn our lessons.
+
+122
+00:09:29,870 --> 00:09:32,870
+It doesn't have to look like
+we're the ones helping.
+
+123
+00:09:32,940 --> 00:09:35,240
+What if another party was involved?
+
+124
+00:09:35,310 --> 00:09:37,680
+Another party?
+
+125
+00:09:37,750 --> 00:09:39,450
+Who in the galaxy
+would be running around
+
+126
+00:09:39,510 --> 00:09:41,480
+with an extra batch of missiles?
+
+127
+00:09:44,650 --> 00:09:45,950
+Hondo.
+
+128
+00:09:55,170 --> 00:09:57,310
+Is the Republic going to help us?
+
+129
+00:09:57,370 --> 00:09:58,930
+No.
+
+130
+00:09:59,000 --> 00:10:01,100
+What's it going to take?
+
+131
+00:10:01,170 --> 00:10:02,840
+King Rash rules Onderon.
+
+132
+00:10:02,910 --> 00:10:06,240
+Unless that changes,
+the Republic can't do anything.
+
+133
+00:10:06,310 --> 00:10:08,310
+They're pulling back.
+Cover them.
+
+134
+00:10:21,830 --> 00:10:23,230
+At this rate, the clankers
+
+135
+00:10:23,300 --> 00:10:24,770
+aren't going to need reinforcements.
+
+136
+00:10:24,830 --> 00:10:26,830
+We have to regroup at the nest.
+
+137
+00:10:26,900 --> 00:10:28,260
+Yah!
+
+138
+00:10:58,600 --> 00:11:01,460
+Skywalker, my old friend.
+
+139
+00:11:01,530 --> 00:11:03,270
+You come alone?
+
+140
+00:11:03,330 --> 00:11:04,670
+For your service.
+
+141
+00:11:04,740 --> 00:11:06,850
+Oh, business!
+
+142
+00:11:06,900 --> 00:11:10,410
+Good, good, good.
+That I understand.
+
+143
+00:11:10,480 --> 00:11:12,920
+I need you to make a delivery for me.
+
+144
+00:11:12,980 --> 00:11:17,150
+And that all I am to you, Jedi?
+
+145
+00:11:17,220 --> 00:11:19,160
+A delivery boy?
+
+146
+00:11:19,220 --> 00:11:22,020
+I know that if I need arms
+shipped illegally,
+
+147
+00:11:22,090 --> 00:11:23,890
+you're the man I need to go to.
+
+148
+00:11:23,960 --> 00:11:26,330
+Illegally?
+
+149
+00:11:26,390 --> 00:11:31,630
+Now, why would a Jedi need
+to deliver arms illegally?
+
+150
+00:11:31,700 --> 00:11:33,030
+How about I pay you well enough
+
+151
+00:11:33,100 --> 00:11:34,676
+that you just deliver
+the missiles for me
+
+152
+00:11:34,700 --> 00:11:36,530
+and don't ask any questions?
+
+153
+00:11:38,570 --> 00:11:42,110
+Well, as long as you're not
+paying me in credits,
+
+154
+00:11:42,180 --> 00:11:46,510
+I'm sure I could accommodate
+your wishes, Master Jedi.
+
+155
+00:11:53,150 --> 00:11:54,920
+The highlands may slow down
+the droids,
+
+156
+00:11:54,990 --> 00:11:56,860
+but they won't stop the gunships.
+
+157
+00:11:56,920 --> 00:11:58,590
+We have to move.
+
+158
+00:11:58,660 --> 00:12:00,630
+Any word from Master Skywalker?
+
+159
+00:12:00,700 --> 00:12:02,170
+Not yet.
+
+160
+00:12:04,830 --> 00:12:06,400
+We're not giving up yet.
+
+161
+00:12:06,470 --> 00:12:08,300
+Stagger our defenses to the camp.
+
+162
+00:12:08,370 --> 00:12:11,470
+Secure the approach.
+Stay in small teams.
+
+163
+00:12:11,540 --> 00:12:12,910
+Make use of our training.
+
+164
+00:12:12,970 --> 00:12:15,710
+You really are
+the best leader among us.
+
+165
+00:12:15,780 --> 00:12:19,080
+Couldn't be more proud
+of you, my sister.
+
+166
+00:12:19,150 --> 00:12:22,420
+I learned from the best, big brother.
+
+167
+00:12:22,480 --> 00:12:25,450
+Let's go, General.
+
+168
+00:12:25,520 --> 00:12:26,850
+You have to help us.
+
+169
+00:12:26,920 --> 00:12:29,160
+I'll do all I can to protect you,
+
+170
+00:12:29,230 --> 00:12:33,670
+but I can't fight this war for you.
+
+171
+00:12:33,730 --> 00:12:36,400
+We wouldn't have made it
+this far without you.
+
+172
+00:12:36,470 --> 00:12:38,270
+I wish I could do more.
+
+173
+00:12:38,330 --> 00:12:39,800
+Wait.
+
+174
+00:12:39,870 --> 00:12:42,530
+Looks like we have company.
+
+175
+00:12:52,710 --> 00:12:53,710
+Don't shoot!
+
+176
+00:13:02,460 --> 00:13:08,060
+Well, you could be
+my new favorite spice.
+
+177
+00:13:08,130 --> 00:13:10,030
+Yeah, I don't think so.
+
+178
+00:13:10,100 --> 00:13:11,430
+Careful, pirate.
+
+179
+00:13:11,500 --> 00:13:14,240
+Hondo, what are you doing here?
+
+180
+00:13:14,300 --> 00:13:15,670
+Oh, no, no, no.
+
+181
+00:13:15,740 --> 00:13:17,970
+You should thank me, child.
+
+182
+00:13:18,040 --> 00:13:22,040
+I have brought you a gift
+from Skywalker and Kenobi.
+
+183
+00:13:22,110 --> 00:13:24,180
+The latest from Sienar.
+
+184
+00:13:24,250 --> 00:13:25,450
+Rocket launchers?
+
+185
+00:13:25,510 --> 00:13:28,850
+Shoulder-fired. Very expensive.
+
+186
+00:13:28,920 --> 00:13:30,180
+Paid for?
+
+187
+00:13:30,250 --> 00:13:32,120
+Very handsome...
+
+188
+00:13:32,190 --> 00:13:34,550
+Oh! Oh, my, look at the time.
+
+189
+00:13:36,860 --> 00:13:40,090
+Well, my work here is done.
+
+190
+00:13:57,910 --> 00:14:00,650
+Ugh, they must have seen Hondo's ship.
+
+191
+00:14:00,710 --> 00:14:02,750
+It was only a patrol.
+
+192
+00:14:02,820 --> 00:14:04,980
+We have to get these
+down to the others.
+
+193
+00:14:05,050 --> 00:14:06,220
+Load them up.
+
+194
+00:14:06,290 --> 00:14:07,520
+I hope they work.
+
+195
+00:14:07,590 --> 00:14:09,590
+There's only one way to find out.
+
+196
+00:14:21,390 --> 00:14:22,386
+We've tried everything,
+
+197
+00:14:22,410 --> 00:14:24,750
+but we're target practice
+for those gunships.
+
+198
+00:14:24,820 --> 00:14:26,590
+Now it's their turn.
+
+199
+00:14:26,650 --> 00:14:27,850
+Thank the Jedi.
+
+200
+00:14:30,420 --> 00:14:31,420
+Saw!
+
+201
+00:14:41,800 --> 00:14:44,400
+I love this!
+
+202
+00:14:48,740 --> 00:14:50,510
+Distribute the rocket launchers
+
+203
+00:14:50,580 --> 00:14:52,420
+and take out those gunships.
+
+204
+00:14:52,480 --> 00:14:54,310
+Steela, they're attacking the nest.
+
+205
+00:14:54,380 --> 00:14:55,410
+They're after the king!
+
+206
+00:14:55,480 --> 00:14:57,450
+Come on!
+
+207
+00:15:03,120 --> 00:15:05,150
+She sure leads by example.
+
+208
+00:15:05,220 --> 00:15:08,460
+What good will that do us
+if she gets herself killed?
+
+209
+00:15:19,370 --> 00:15:22,610
+Steela, hurry! Steela, come in!
+
+210
+00:15:22,680 --> 00:15:23,657
+Ugh!
+
+211
+00:15:23,681 --> 00:15:26,440
+Where is the false king?
+
+212
+00:15:26,510 --> 00:15:28,150
+I'll never tell you!
+
+213
+00:15:28,220 --> 00:15:29,660
+Ugh!
+
+214
+00:15:29,720 --> 00:15:32,150
+Find the king.
+
+215
+00:15:50,100 --> 00:15:52,300
+Help has arrived!
+
+216
+00:16:39,720 --> 00:16:42,160
+Are you all right, Your Majesty?
+
+217
+00:16:42,220 --> 00:16:44,360
+Thanks to you.
+
+218
+00:16:44,430 --> 00:16:45,430
+Fire!
+
+219
+00:16:48,630 --> 00:16:50,630
+Last one's mine.
+
+220
+00:16:56,370 --> 00:16:57,370
+Get down!
+
+221
+00:17:13,620 --> 00:17:14,620
+Look!
+
+222
+00:17:27,170 --> 00:17:30,540
+Hang... on!
+
+223
+00:17:30,610 --> 00:17:35,380
+Steela!
+
+224
+00:17:38,450 --> 00:17:39,450
+Ah!
+
+225
+00:17:46,820 --> 00:17:48,860
+I'll handle this.
+
+226
+00:17:52,260 --> 00:17:53,660
+I got you.
+
+227
+00:18:38,070 --> 00:18:40,040
+Your gunships have failed.
+
+228
+00:18:40,110 --> 00:18:42,310
+I need more reinforcements.
+
+229
+00:18:42,380 --> 00:18:43,780
+<i>Really?</i>
+
+230
+00:18:43,850 --> 00:18:47,320
+<i>General Kalani, what is your
+assessment of the situation?</i>
+
+231
+00:18:47,390 --> 00:18:49,900
+They have managed
+to penetrate our shields
+
+232
+00:18:49,960 --> 00:18:52,000
+and are using the cover
+of the highlands
+
+233
+00:18:52,060 --> 00:18:54,160
+against our forces.
+
+234
+00:18:54,230 --> 00:18:57,860
+To defeat them will take time.
+
+235
+00:18:57,930 --> 00:19:01,630
+<i>A prolonged war does not
+interest me, General.</i>
+
+236
+00:19:01,700 --> 00:19:05,940
+<i>Their rebellion grows
+with every small victory.</i>
+
+237
+00:19:06,010 --> 00:19:08,680
+Then we are lost.
+
+238
+00:19:08,740 --> 00:19:11,780
+<i>Salvage the remaining arms
+and withdraw the army.</i>
+
+239
+00:19:11,850 --> 00:19:15,720
+<i>Bring them to Agamar.</i>
+
+240
+00:19:15,780 --> 00:19:16,756
+What about...
+
+241
+00:19:16,780 --> 00:19:17,780
+Ugh!
+
+242
+00:19:27,860 --> 00:19:29,460
+It was my fault.
+
+243
+00:19:29,530 --> 00:19:31,500
+I shot that gunship down,
+
+244
+00:19:31,570 --> 00:19:34,300
+and it crashed into her position.
+
+245
+00:19:34,370 --> 00:19:37,400
+Saw, it's not your fault.
+
+246
+00:19:37,470 --> 00:19:39,500
+She knew what the risks were.
+
+247
+00:19:39,570 --> 00:19:43,740
+We all knew what it would take
+to free Onderon.
+
+248
+00:20:27,960 --> 00:20:31,730
+This has been quite a journey
+for our Padawan.
+
+249
+00:20:31,790 --> 00:20:34,860
+Steela will be a powerful
+spirit in their lives.
+
+250
+00:20:34,930 --> 00:20:36,760
+Yes.
+
+251
+00:20:36,830 --> 00:20:38,500
+For all of us.
+
+252
+00:20:43,770 --> 00:20:45,840
+I'm sorry for your loss.
+
+253
+00:20:47,780 --> 00:20:50,180
+Thanks, but it's over now.
+
+254
+00:20:50,250 --> 00:20:52,250
+Let's just leave it at that.
+
+255
+00:20:54,620 --> 00:20:56,420
+Steela would be glad.
+
+256
+00:20:56,490 --> 00:21:00,390
+Her sacrifice gave Onderon
+its freedom.
+
+257
+00:21:00,460 --> 00:21:02,520
+But at what cost?
+
+258
+00:21:02,590 --> 00:21:04,290
+It's like you once said.
+
+259
+00:21:04,360 --> 00:21:05,590
+Many lives get caught
+
+260
+00:21:05,660 --> 00:21:07,760
+between the Republic
+and the Separatists.
+
+261
+00:21:07,830 --> 00:21:10,900
+I did say that once,
+but after watching your heroics
+
+262
+00:21:10,970 --> 00:21:12,870
+and the selflessness of the Jedi,
+
+263
+00:21:12,940 --> 00:21:16,440
+I do believe the Republic
+is the right side to be on.
+
+264
+00:21:16,510 --> 00:21:18,110
+What do you mean?
+
+265
+00:21:18,180 --> 00:21:20,910
+Dendup has appointed me
+the new Senator of Onderon.
+
+266
+00:21:20,980 --> 00:21:23,250
+I will follow
+in my mother's footsteps,
+
+267
+00:21:23,320 --> 00:21:25,830
+and I will bring us back
+to the Republic.
+
+268
+00:21:25,880 --> 00:21:28,490
+Remember this day,
+
+269
+00:21:28,550 --> 00:21:32,420
+the day Onderon became free again.
+

@@ -1,0 +1,1343 @@
+﻿1
+00:00:18,390 --> 00:00:20,290
+<i>Mission accomplished!</i>
+
+2
+00:00:20,360 --> 00:00:23,060
+<i>Colonel Gascon and his droid squad</i>
+
+3
+00:00:23,130 --> 00:00:24,560
+<i>steal an encryption module</i>
+
+4
+00:00:24,630 --> 00:00:26,230
+<i>needed to crack a Separatist code</i>
+
+5
+00:00:26,300 --> 00:00:29,400
+<i>and stop an impending attack
+on the Republic.</i>
+
+6
+00:00:29,470 --> 00:00:30,930
+<i>After surviving The Void</i>
+
+7
+00:00:31,000 --> 00:00:33,770
+<i>and escaping the hostile planet
+of Abafar,</i>
+
+8
+00:00:33,840 --> 00:00:37,910
+<i>our heroes finally appear to be
+headed in the right direction.</i>
+
+9
+00:00:43,790 --> 00:00:46,260
+Hmm, looks like the Jedi cruiser
+
+10
+00:00:46,320 --> 00:00:48,160
+is expecting this shuttle.
+
+11
+00:00:48,230 --> 00:00:50,300
+Well, I'm sure there's someone aboard
+
+12
+00:00:50,360 --> 00:00:54,170
+who can put this encryption
+module to good use.
+
+13
+00:00:54,230 --> 00:00:57,040
+Well, soldiers, this is the end
+of the mission.
+
+14
+00:00:57,110 --> 00:00:59,480
+Colonel Gascon has succeeded.
+
+15
+00:00:59,540 --> 00:01:01,210
+R2, contact the bridge.
+
+16
+00:01:01,280 --> 00:01:04,080
+Tell them I request a meal
+with the captain.
+
+17
+00:01:04,150 --> 00:01:07,680
+Nothing too fancy,
+and, uh, I don't eat bantha.
+
+18
+00:01:09,360 --> 00:01:12,100
+What do you mean you still
+can't make contact?
+
+19
+00:01:12,160 --> 00:01:14,830
+I have got a bad feeling
+about this, Colonel.
+
+20
+00:01:14,900 --> 00:01:17,300
+Something is not right.
+
+21
+00:01:22,140 --> 00:01:23,910
+<i>Snogwash!</i>
+
+22
+00:01:23,980 --> 00:01:26,320
+It's probably just the effects
+of The Void.
+
+23
+00:01:26,380 --> 00:01:28,850
+All that, uh, magnetic disruption
+
+24
+00:01:28,920 --> 00:01:30,760
+messed up his circuitry.
+
+25
+00:01:33,860 --> 00:01:36,930
+I will not allow your frivolous worrying
+
+26
+00:01:36,990 --> 00:01:40,560
+to undermine this...
+this glorious moment!
+
+27
+00:01:40,630 --> 00:01:42,470
+I expect a hero's welcome,
+
+28
+00:01:42,530 --> 00:01:44,940
+not to mention my inevitable promotion
+
+29
+00:01:45,000 --> 00:01:47,210
+to P1 Brigadier!
+
+30
+00:02:08,640 --> 00:02:10,000
+Wow.
+
+31
+00:02:10,070 --> 00:02:12,870
+They really went overboard
+on the welcoming committee.
+
+32
+00:02:14,480 --> 00:02:16,250
+Good question, QT.
+
+33
+00:02:16,310 --> 00:02:19,790
+Why are there not any other
+shuttles or crew members?
+
+34
+00:02:19,850 --> 00:02:24,090
+Well, everyone's probably
+preparing to, uh...
+
+35
+00:02:24,160 --> 00:02:25,466
+Well, they'll all want to be there
+
+36
+00:02:25,490 --> 00:02:27,830
+when we break the Separatist code.
+
+37
+00:02:30,030 --> 00:02:33,470
+How should I know why
+all the blast doors are shut?
+
+38
+00:02:33,540 --> 00:02:35,570
+That's a question
+for the captain of this ship
+
+39
+00:02:35,640 --> 00:02:39,880
+and one I intend to ask
+just as soon as I find him.
+
+40
+00:02:45,550 --> 00:02:48,360
+Sergeant, Colonel Meebur Gascon.
+
+41
+00:02:48,420 --> 00:02:50,660
+You have no doubt been expecting me.
+
+42
+00:02:50,730 --> 00:02:54,860
+I am delivering the Separatist
+encryption module.
+
+43
+00:02:54,930 --> 00:02:58,270
+Why... it's just a hologram.
+
+44
+00:03:07,750 --> 00:03:11,020
+What in the blazes is going on here?
+
+45
+00:03:14,160 --> 00:03:15,390
+I do not know.
+
+46
+00:03:15,460 --> 00:03:17,360
+But we just made the jump to hyperspace,
+
+47
+00:03:17,430 --> 00:03:20,970
+which means somebody
+is navigating this ship.
+
+48
+00:03:32,580 --> 00:03:33,780
+You, droids!
+
+49
+00:03:33,850 --> 00:03:35,850
+What are you doing on our ship?
+
+50
+00:03:35,920 --> 00:03:38,720
+Surrender or you will be destroyed.
+
+51
+00:03:38,790 --> 00:03:39,790
+Battle droids!
+
+52
+00:03:42,300 --> 00:03:43,510
+Whoo... ahh!
+
+53
+00:03:50,170 --> 00:03:51,670
+The commander wants the detonator
+
+54
+00:03:51,740 --> 00:03:53,740
+taken to the control room.
+
+55
+00:03:53,810 --> 00:03:54,940
+Roger, roger.
+
+56
+00:03:56,450 --> 00:03:57,610
+Okay, let me just...
+
+57
+00:03:57,680 --> 00:03:59,680
+Lift with your legs!
+Lift with your legs!
+
+58
+00:03:59,750 --> 00:04:01,120
+Uh, heavy, heavy.
+
+59
+00:04:01,190 --> 00:04:03,390
+Watch it, watch it! Look out!
+
+60
+00:04:03,460 --> 00:04:05,020
+Good thinking back there.
+
+61
+00:04:05,090 --> 00:04:08,560
+But next time <i>I</i> give the orders.
+Understood?
+
+62
+00:04:09,930 --> 00:04:10,930
+I got it.
+
+63
+00:04:11,000 --> 00:04:12,600
+I got it.
+
+64
+00:04:12,670 --> 00:04:13,840
+I don't got it!
+
+65
+00:04:13,900 --> 00:04:14,900
+Yaah!
+
+66
+00:04:16,710 --> 00:04:17,910
+Uh-oh.
+
+67
+00:04:21,680 --> 00:04:24,450
+I wasn't programmed for this.
+
+68
+00:04:24,520 --> 00:04:28,150
+Stop! Which way are we going?
+
+69
+00:04:30,290 --> 00:04:31,530
+Down here!
+
+70
+00:04:34,030 --> 00:04:35,200
+Aah!
+
+71
+00:04:43,010 --> 00:04:45,280
+Have you seen the intruders?
+
+72
+00:04:45,350 --> 00:04:46,980
+They went that way?
+
+73
+00:04:47,050 --> 00:04:48,220
+Roger, roger.
+
+74
+00:04:51,620 --> 00:04:55,930
+All right, something
+very strange is going on here.
+
+75
+00:04:55,990 --> 00:05:00,160
+It appears this ship has been
+hijacked by Separatists.
+
+76
+00:05:02,370 --> 00:05:05,540
+What do you mean it doesn't belong here?
+
+77
+00:05:05,610 --> 00:05:07,010
+He is right, Colonel.
+
+78
+00:05:07,070 --> 00:05:09,540
+This is not Republic technology.
+
+79
+00:05:09,610 --> 00:05:12,380
+Not unless they have lowered
+their standards.
+
+80
+00:05:12,450 --> 00:05:15,250
+Well, what exactly do you think it is?
+
+81
+00:05:16,950 --> 00:05:18,150
+A bomb?
+
+82
+00:05:18,220 --> 00:05:19,820
+What kind of a bomb? Is it on?
+
+83
+00:05:19,890 --> 00:05:22,130
+How long do we have? Talk to me!
+
+84
+00:05:25,230 --> 00:05:27,630
+What do you mean the ship is a bomb?
+
+85
+00:05:27,700 --> 00:05:30,540
+How can the entire ship be a bomb?
+
+86
+00:05:43,760 --> 00:05:45,130
+Mother of Kwath...
+
+87
+00:05:45,190 --> 00:05:47,790
+There must be enough rhydonium in here
+
+88
+00:05:47,860 --> 00:05:51,430
+to blow up the entire Republic fleet.
+
+89
+00:06:01,680 --> 00:06:03,350
+I don't know what any of this means,
+
+90
+00:06:03,420 --> 00:06:06,290
+but I want off this ship immediately.
+
+91
+00:06:08,560 --> 00:06:11,200
+My mission is over.
+
+92
+00:06:11,260 --> 00:06:14,700
+I had no orders to stop
+Separatist piracy
+
+93
+00:06:14,770 --> 00:06:18,210
+or disarm massive,
+titanic-scale bombs!
+
+94
+00:06:20,140 --> 00:06:21,810
+C4 has a good point.
+
+95
+00:06:21,880 --> 00:06:24,250
+If we do not stop this ship
+before it explodes,
+
+96
+00:06:24,320 --> 00:06:26,830
+it could cost the Republic
+thousands of lives.
+
+97
+00:06:26,890 --> 00:06:28,800
+Pure speculation.
+
+98
+00:06:28,860 --> 00:06:32,500
+We're evacuating this ship,
+and that is an order!
+
+99
+00:06:36,660 --> 00:06:37,700
+Oh, right.
+
+100
+00:06:37,770 --> 00:06:39,800
+We'll have to wait to evacuate
+
+101
+00:06:39,870 --> 00:06:42,170
+until the ship is out of hyperspace.
+
+102
+00:06:42,240 --> 00:06:44,440
+By then it could be too late.
+
+103
+00:06:44,510 --> 00:06:47,410
+Once we get where we are going,
+my guess is...
+
+104
+00:06:47,480 --> 00:06:48,750
+kaboom!
+
+105
+00:07:03,400 --> 00:07:04,400
+Wait!
+
+106
+00:07:05,410 --> 00:07:06,387
+I...
+
+107
+00:07:06,411 --> 00:07:07,870
+no...
+
+108
+00:07:07,940 --> 00:07:09,780
+okay, okay!
+
+109
+00:07:17,790 --> 00:07:19,320
+I don't know, QT.
+
+110
+00:07:19,390 --> 00:07:21,590
+Where is R2 gone now?
+
+111
+00:07:24,560 --> 00:07:27,360
+What's going on? Who is this?
+
+112
+00:07:27,430 --> 00:07:32,510
+I am BNI-393,
+an LEP Servant Droid.
+
+113
+00:07:32,570 --> 00:07:34,880
+My master called me Bunny.
+
+114
+00:07:34,940 --> 00:07:37,410
+And where is your master?
+
+115
+00:07:37,480 --> 00:07:38,750
+He was killed
+
+116
+00:07:38,820 --> 00:07:41,250
+when the Separatists
+took control of this ship.
+
+117
+00:07:41,320 --> 00:07:43,690
+Why were you hiding from us?
+
+118
+00:07:43,760 --> 00:07:46,290
+At first I did not know
+if I could trust you.
+
+119
+00:07:46,360 --> 00:07:48,690
+Then I was not sure
+you would believe me.
+
+120
+00:07:48,760 --> 00:07:50,600
+Once you saw the truth,
+
+121
+00:07:50,670 --> 00:07:53,040
+I was simply hoping
+you would abandon ship
+
+122
+00:07:53,100 --> 00:07:55,440
+and take the rest of us with you.
+
+123
+00:07:55,510 --> 00:07:56,487
+Rest of you?
+
+124
+00:07:56,511 --> 00:07:57,640
+You're telling me
+
+125
+00:07:57,710 --> 00:07:59,740
+there's more
+Republic crew members on board?
+
+126
+00:08:04,050 --> 00:08:06,520
+Did you destroy the intruders?
+
+127
+00:08:06,590 --> 00:08:07,800
+Uh, no.
+
+128
+00:08:07,850 --> 00:08:10,090
+There are Republic droids on this ship
+
+129
+00:08:10,160 --> 00:08:11,920
+that could ruin our plans.
+
+130
+00:08:13,560 --> 00:08:17,230
+You will search the entire ship
+until the intruders are found
+
+131
+00:08:17,300 --> 00:08:19,370
+and report back to me.
+
+132
+00:08:35,060 --> 00:08:37,070
+Is this a joke?
+
+133
+00:08:37,130 --> 00:08:39,900
+The rest of the crew is in our shuttle?
+
+134
+00:08:39,960 --> 00:08:42,160
+I told them to wait inside
+
+135
+00:08:42,230 --> 00:08:43,470
+and that we would be leaving
+
+136
+00:08:43,530 --> 00:08:46,070
+as soon as we came out of hyperspace.
+
+137
+00:08:54,620 --> 00:08:56,460
+You can come out now.
+
+138
+00:08:56,520 --> 00:08:57,750
+It is okay.
+
+139
+00:09:05,230 --> 00:09:08,300
+These are the other crew members?
+
+140
+00:09:08,370 --> 00:09:09,600
+As you can see,
+
+141
+00:09:09,670 --> 00:09:12,000
+none of us can pilot the shuttle,
+
+142
+00:09:12,070 --> 00:09:13,940
+which is why we needed you.
+
+143
+00:09:14,010 --> 00:09:15,440
+Why you need <i>me</i>.
+
+144
+00:09:15,510 --> 00:09:16,486
+Hi, there.
+
+145
+00:09:16,510 --> 00:09:17,510
+I am the pilot.
+
+146
+00:09:19,120 --> 00:09:21,020
+What is this Separatist plot?
+
+147
+00:09:21,090 --> 00:09:22,500
+I do not know the details.
+
+148
+00:09:22,550 --> 00:09:24,920
+I was only able to steal the coordinates
+
+149
+00:09:24,990 --> 00:09:25,990
+of their target.
+
+150
+00:09:26,060 --> 00:09:27,360
+Target?
+
+151
+00:09:29,260 --> 00:09:32,260
+You mean they aren't just
+planning to blow up this ship?
+
+152
+00:09:32,330 --> 00:09:33,730
+I do not believe so.
+
+153
+00:09:33,800 --> 00:09:36,100
+The coordinates are a space station
+
+154
+00:09:36,170 --> 00:09:37,740
+in the Carida system.
+
+155
+00:09:37,810 --> 00:09:38,786
+What?
+
+156
+00:09:38,810 --> 00:09:39,810
+That's the site
+
+157
+00:09:39,880 --> 00:09:41,780
+of the Republic Strategy Conference.
+
+158
+00:09:44,450 --> 00:09:45,520
+How do I know?
+
+159
+00:09:45,580 --> 00:09:47,080
+I was putting the finishing touches
+
+160
+00:09:47,150 --> 00:09:49,250
+on a report for that conference
+
+161
+00:09:49,320 --> 00:09:51,960
+when I was assigned this mission.
+
+162
+00:09:52,030 --> 00:09:53,660
+The Jedi Council will be there,
+
+163
+00:09:53,730 --> 00:09:56,900
+along with Republic officers
+from around the galaxy and...
+
+164
+00:09:56,970 --> 00:09:58,370
+What the...
+
+165
+00:09:58,440 --> 00:10:01,910
+The Separatists are going to ram
+the station with this ship!
+
+166
+00:10:03,680 --> 00:10:04,657
+I agree.
+
+167
+00:10:04,681 --> 00:10:06,680
+We have to do something, R2.
+
+168
+00:10:06,750 --> 00:10:08,560
+See if you can send a transmission
+
+169
+00:10:08,620 --> 00:10:10,590
+to the Republic so we can warn them.
+
+170
+00:10:10,650 --> 00:10:11,880
+It is no use.
+
+171
+00:10:11,950 --> 00:10:13,420
+We have tried that.
+
+172
+00:10:13,490 --> 00:10:16,620
+All transmissions from this ship
+are being blocked.
+
+173
+00:10:18,430 --> 00:10:19,730
+Hmm, you're right.
+
+174
+00:10:19,800 --> 00:10:21,900
+We can't just sit here and do nothing.
+
+175
+00:10:26,410 --> 00:10:27,580
+Where's he going?
+
+176
+00:10:27,640 --> 00:10:28,617
+Uh-oh.
+
+177
+00:10:28,641 --> 00:10:30,810
+That buzz droid is not with me.
+
+178
+00:10:30,880 --> 00:10:32,940
+It must be a spy!
+
+179
+00:10:33,010 --> 00:10:35,780
+Stop that droid!
+
+180
+00:11:16,540 --> 00:11:18,870
+Where'd he go?
+We've got to find him.
+
+181
+00:11:18,940 --> 00:11:21,380
+I do not know.
+I do not see him anywhere.
+
+182
+00:11:23,380 --> 00:11:24,580
+Uh, Colonel...
+
+183
+00:11:24,650 --> 00:11:26,250
+I think I see him.
+
+184
+00:11:26,320 --> 00:11:29,150
+I think I see a whole lot of him.
+
+185
+00:11:29,220 --> 00:11:30,560
+It's a trap!
+
+186
+00:11:57,590 --> 00:12:00,260
+Good work.
+You've established a perimeter.
+
+187
+00:12:00,330 --> 00:12:02,930
+There are still more coming!
+
+188
+00:12:08,510 --> 00:12:11,440
+Please tell me you have
+a brilliant strategy, Colonel!
+
+189
+00:12:11,510 --> 00:12:13,710
+I don't know!
+There's just so many of them.
+
+190
+00:12:14,950 --> 00:12:16,580
+What do you mean, "get out"?
+
+191
+00:12:19,790 --> 00:12:21,590
+All right, what are you going to do?
+
+192
+00:12:22,760 --> 00:12:24,490
+You are going to open the air lock?
+
+193
+00:12:24,560 --> 00:12:26,130
+Are you crazy, BZ?
+
+194
+00:12:38,750 --> 00:12:40,450
+Everybody, magnetize your feet!
+
+195
+00:12:40,520 --> 00:12:41,620
+Lock down!
+
+196
+00:12:45,220 --> 00:12:46,860
+BZ! Magnetize!
+
+197
+00:12:46,930 --> 00:12:48,660
+Magnetize!
+
+198
+00:12:48,730 --> 00:12:49,760
+No!
+
+199
+00:13:00,310 --> 00:13:02,580
+R2, close the door!
+
+200
+00:13:02,650 --> 00:13:04,350
+Close the door!
+
+201
+00:13:15,000 --> 00:13:16,430
+Poor BZ.
+
+202
+00:13:16,500 --> 00:13:18,970
+You will be missed, soldier.
+
+203
+00:13:20,100 --> 00:13:21,500
+R2 is right.
+
+204
+00:13:21,570 --> 00:13:26,540
+Colonel, would you say something
+to honor this heroic sacrifice?
+
+205
+00:13:26,610 --> 00:13:29,150
+I suppose that's appropriate.
+
+206
+00:13:29,220 --> 00:13:32,250
+I'll have to make it quick
+because we don't have much time.
+
+207
+00:13:32,320 --> 00:13:34,660
+When this D-Squad
+started our mission,
+
+208
+00:13:34,720 --> 00:13:36,220
+I had doubts.
+
+209
+00:13:36,290 --> 00:13:38,760
+Grave doubts that we would ever survive,
+
+210
+00:13:38,830 --> 00:13:40,660
+let alone succeed.
+
+211
+00:13:40,730 --> 00:13:42,600
+But we worked together.
+
+212
+00:13:42,670 --> 00:13:44,030
+We didn't give up hope.
+
+213
+00:13:44,100 --> 00:13:46,640
+We showed courage in the face of death.
+
+214
+00:13:46,710 --> 00:13:48,610
+It shocks me to say this,
+
+215
+00:13:48,680 --> 00:13:51,710
+but we make an excellent team.
+
+216
+00:13:51,780 --> 00:13:54,480
+Now we've lost one of our members...
+
+217
+00:13:54,550 --> 00:13:55,780
+BZ.
+
+218
+00:13:55,850 --> 00:13:57,550
+But we must remember.
+
+219
+00:13:57,620 --> 00:14:01,190
+BZ sacrificed himself for us.
+
+220
+00:14:01,260 --> 00:14:04,530
+That's what a good soldier does
+sometimes.
+
+221
+00:14:04,600 --> 00:14:07,170
+The only way to honor that sacrifice
+
+222
+00:14:07,230 --> 00:14:08,930
+is to stop this ship
+
+223
+00:14:09,000 --> 00:14:10,700
+and prevent the Separatists
+
+224
+00:14:10,770 --> 00:14:13,210
+from taking any more Republic lives.
+
+225
+00:14:13,280 --> 00:14:14,280
+Are you with me?
+
+226
+00:14:22,230 --> 00:14:24,670
+Have the buzz droids
+reported back in yet?
+
+227
+00:14:24,800 --> 00:14:27,500
+No, there has been no signal from them.
+
+228
+00:14:27,570 --> 00:14:30,880
+In fact, I cannot even locate
+their signal anymore.
+
+229
+00:14:30,940 --> 00:14:32,180
+We must assume, then,
+
+230
+00:14:32,250 --> 00:14:34,290
+that the buzz droids have failed.
+
+231
+00:14:34,350 --> 00:14:38,050
+I want those intruders found
+before they ruin our plans.
+
+232
+00:14:38,120 --> 00:14:40,320
+- Roger, roger.
+- Roger, roger.
+
+233
+00:14:44,430 --> 00:14:46,460
+All right, everybody knows the plan?
+
+234
+00:14:46,530 --> 00:14:48,670
+We get the injured droids to the shuttle
+
+235
+00:14:48,740 --> 00:14:50,040
+and distract the battle droids
+
+236
+00:14:50,100 --> 00:14:52,370
+while R2 goes up to the detonator
+
+237
+00:14:52,440 --> 00:14:54,510
+and programs it to explode early.
+
+238
+00:14:54,580 --> 00:14:56,540
+Hopefully he can make it
+back to the shuttle
+
+239
+00:14:56,610 --> 00:14:59,550
+and we can all get off the ship
+before it blows up.
+
+240
+00:15:01,120 --> 00:15:03,420
+Good luck, R2.
+
+241
+00:15:06,890 --> 00:15:08,830
+The intruders! Destroy them!
+
+242
+00:15:24,720 --> 00:15:25,850
+You can make it!
+
+243
+00:15:25,920 --> 00:15:27,920
+Hurry! Hurry!
+
+244
+00:15:49,080 --> 00:15:51,320
+We have our target in sight.
+
+245
+00:15:51,390 --> 00:15:52,790
+Full ahead.
+
+246
+00:15:52,860 --> 00:15:54,930
+Ramming speed.
+
+247
+00:15:54,990 --> 00:15:57,430
+Evacuation plan is now under way.
+
+248
+00:15:57,500 --> 00:16:00,810
+I will go to the detonator
+and start the countdown.
+
+249
+00:16:13,780 --> 00:16:14,896
+The worst part about our job
+
+250
+00:16:14,920 --> 00:16:17,180
+are these boring strategy conferences.
+
+251
+00:16:17,250 --> 00:16:18,520
+Cheer up, Anakin.
+
+252
+00:16:18,590 --> 00:16:20,590
+This is your chance to voice
+all your complaints
+
+253
+00:16:20,660 --> 00:16:22,420
+about military protocol.
+
+254
+00:16:22,490 --> 00:16:25,460
+And it looks as though
+we can finally get under way.
+
+255
+00:16:25,530 --> 00:16:28,830
+I will inform Master Windu
+the last straggler has arrived
+
+256
+00:16:28,900 --> 00:16:31,570
+while you work on your attitude.
+
+257
+00:16:35,340 --> 00:16:38,510
+Isn't that ship coming in
+a little too fast?
+
+258
+00:16:42,150 --> 00:16:43,320
+There's the shuttle!
+
+259
+00:16:50,300 --> 00:16:52,470
+Careful, you'll hit the rhydonium.
+
+260
+00:16:52,530 --> 00:16:54,370
+Everyone, head to the ship!
+
+261
+00:16:54,440 --> 00:16:57,470
+C4 and I will distract them.
+
+262
+00:17:14,900 --> 00:17:16,910
+You are too late.
+
+263
+00:17:19,740 --> 00:17:21,740
+Once the detonation sequence
+has commenced,
+
+264
+00:17:21,810 --> 00:17:23,720
+there is no stopping it.
+
+265
+00:17:28,480 --> 00:17:31,120
+Now let's see if R2 made it
+to the detonator.
+
+266
+00:17:38,830 --> 00:17:40,160
+R2 is in trouble!
+
+267
+00:17:40,230 --> 00:17:41,230
+Come on!
+
+268
+00:17:44,200 --> 00:17:47,200
+R2 will never make it back
+to the shuttle in time.
+
+269
+00:17:47,270 --> 00:17:50,010
+We've got to delay the launch.
+
+270
+00:17:52,750 --> 00:17:54,850
+The cruiser has not slowed its pace.
+
+271
+00:17:54,920 --> 00:17:56,980
+Have you been able to contact
+their captain?
+
+272
+00:17:58,260 --> 00:18:00,700
+Z9 says he cannot make contact
+with anyone.
+
+273
+00:18:00,760 --> 00:18:04,060
+Where's R2 when I need him?
+
+274
+00:18:13,640 --> 00:18:16,280
+We've got to regroup
+and head back for R2.
+
+275
+00:18:17,580 --> 00:18:19,380
+Well, we're changing the plan!
+
+276
+00:18:19,450 --> 00:18:21,020
+No one gets left behind,
+
+277
+00:18:21,090 --> 00:18:24,030
+and we're not leaving until I say so!
+
+278
+00:18:24,090 --> 00:18:26,060
+Prepare for liftoff!
+
+279
+00:18:48,290 --> 00:18:50,350
+No. It is too soon.
+
+280
+00:18:50,420 --> 00:18:53,290
+We are scanning a large amount
+of rhydonium on that ship!
+
+281
+00:18:53,360 --> 00:18:54,560
+It's a bomb.
+
+282
+00:19:31,180 --> 00:19:34,180
+And you thought
+this conference would be boring.
+
+283
+00:19:38,650 --> 00:19:39,690
+Mayday! Mayday!
+
+284
+00:19:39,760 --> 00:19:41,160
+Space station Valor,
+
+285
+00:19:41,220 --> 00:19:43,160
+this is Colonel Meebur Gascon.
+
+286
+00:19:43,230 --> 00:19:45,230
+Can anyone hear me?
+
+287
+00:19:45,300 --> 00:19:46,400
+We read you, Colonel.
+
+288
+00:19:46,460 --> 00:19:47,930
+This is General Skywalker.
+
+289
+00:19:48,000 --> 00:19:49,330
+What's going on out there?
+
+290
+00:19:49,400 --> 00:19:51,900
+Slight change in our mission, General.
+
+291
+00:19:51,970 --> 00:19:54,970
+The droids and I were stowaways
+on that cruiser.
+
+292
+00:19:55,040 --> 00:19:56,410
+Where's R2?
+
+293
+00:19:56,480 --> 00:19:58,950
+I'm sorry to report he was on that ship
+
+294
+00:19:59,010 --> 00:20:00,550
+when it blew up, sir.
+
+295
+00:20:00,620 --> 00:20:02,980
+He just saved all your lives.
+
+296
+00:20:03,050 --> 00:20:05,960
+I want a salvage team out there now!
+
+297
+00:20:06,020 --> 00:20:07,020
+Yes, sir.
+
+298
+00:20:38,300 --> 00:20:39,800
+R2!
+
+299
+00:20:42,510 --> 00:20:44,450
+You made it, buddy!
+
+300
+00:20:44,510 --> 00:20:46,310
+Hey, you're a big hero.
+
+301
+00:20:49,220 --> 00:20:52,760
+There's someone here
+who wants to speak to you.
+
+302
+00:20:57,260 --> 00:21:01,130
+R2D2, are we glad to see you.
+
+303
+00:21:01,200 --> 00:21:02,700
+I am most glad.
+
+304
+00:21:02,770 --> 00:21:04,830
+Quiet, WAC. I'm talking here.
+
+305
+00:21:04,900 --> 00:21:06,040
+Yes, sir, Colonel.
+
+306
+00:21:08,640 --> 00:21:11,940
+In truth, I might just be a map reader,
+
+307
+00:21:12,010 --> 00:21:15,320
+and I don't have much battle experience,
+
+308
+00:21:15,380 --> 00:21:16,550
+but, R2,
+
+309
+00:21:16,620 --> 00:21:20,320
+you are the bravest droid
+I have ever met.
+
+310
+00:21:20,390 --> 00:21:21,790
+You all are.
+
+311
+00:21:21,860 --> 00:21:24,730
+I would be proud to serve
+with you droids
+
+312
+00:21:24,800 --> 00:21:26,630
+anytime, anywhere.
+
+313
+00:21:26,700 --> 00:21:29,370
+Oh, I am glad to hear you
+say that, Colonel,
+
+314
+00:21:29,440 --> 00:21:32,810
+because I hear we have been
+assigned to the same platoon!
+
+315
+00:21:32,880 --> 00:21:35,120
+We will be seeing each other every day
+
+316
+00:21:35,180 --> 00:21:37,180
+for the rest of the war!
+
+317
+00:21:37,250 --> 00:21:39,920
+That's great, WAC.
+

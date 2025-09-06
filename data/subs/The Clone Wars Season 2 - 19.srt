@@ -1,0 +1,825 @@
+1
+00:00:16,601 --> 00:00:18,239
+A calculated risk!
+
+2
+00:00:18,361 --> 00:00:21,081
+Following a costly victory
+on the planet Malastare,
+
+3
+00:00:21,161 --> 00:00:25,240
+Chancellor Palpatine orders Jedi Knights
+Mace Windu and Anakin Skywalker
+
+4
+00:00:25,281 --> 00:00:28,441
+to transport a fearsome Zillo Beast
+captured during the battle
+
+5
+00:00:28,522 --> 00:00:30,200
+back to Coruscant.
+
+6
+00:00:30,241 --> 00:00:33,600
+After seeing that not even a lightsaber
+could harm the Beast,
+
+7
+00:00:33,722 --> 00:00:37,241
+Chancellor Palpatine hopes to unlock
+the secret of its invulnerability
+
+8
+00:00:37,282 --> 00:00:40,520
+to create new armor
+for the Republic's clone troopers.
+
+9
+00:00:40,600 --> 00:00:44,562
+Tensions run high as the most
+dangerous life form in the galaxy
+
+10
+00:00:44,602 --> 00:00:47,999
+touches down
+on the Republic's most populous planet.
+
+11
+00:00:53,122 --> 00:00:55,200
+Let's go! Move it! Move it!
+
+12
+00:00:55,321 --> 00:00:57,680
+Come on. Come on! I can see him.
+
+13
+00:00:57,721 --> 00:00:59,481
+Stand your ground.
+
+14
+00:01:08,921 --> 00:01:10,681
+Watch it! Watch it!
+
+15
+00:01:14,082 --> 00:01:16,320
+- You are clear. You are clear.
+- Copy that.
+
+16
+00:01:25,761 --> 00:01:27,521
+No, no, don't stop.
+- Yes, sir.
+
+17
+00:01:38,081 --> 00:01:39,680
+Your Excellency.
+
+18
+00:01:41,562 --> 00:01:44,640
+Such size, such power.
+
+19
+00:01:45,402 --> 00:01:47,481
+With respect, Chancellor,
+
+20
+00:01:47,602 --> 00:01:50,361
+I believe this creature could pose
+any number of dangers.
+
+21
+00:01:50,401 --> 00:01:53,241
+Bringing it here to Coruscant is a mistake.
+
+22
+00:01:53,402 --> 00:01:57,281
+I assure you I did not make this decision
+lightly, Master Jedi.
+
+23
+00:01:57,882 --> 00:02:00,801
+The sooner we unlock
+the Zillo Beast's secrets,
+
+24
+00:02:00,923 --> 00:02:03,441
+the sooner we can end this terrible war.
+
+25
+00:02:03,642 --> 00:02:05,360
+I hope you're right, Chancellor.
+
+26
+00:02:14,081 --> 00:02:16,320
+I'm turning the Zillo Beast
+over to you, Doctor.
+
+27
+00:02:16,442 --> 00:02:18,881
+I trust it will be given good care.
+
+28
+00:02:19,001 --> 00:02:21,881
+The Beast is a priceless resource,
+Master Windu.
+
+29
+00:02:22,002 --> 00:02:24,601
+It will be well treated, I assure you.
+
+30
+00:02:53,681 --> 00:02:56,441
+Why would the Chancellor
+want to bring the Beast here?
+
+31
+00:02:56,562 --> 00:02:59,401
+I know that he thinks by studying it,
+the knowledge could prove beneficial,
+
+32
+00:02:59,482 --> 00:03:01,721
+but from what you and Anakin
+reported on Malastare,
+
+33
+00:03:01,802 --> 00:03:03,721
+it hardly seems worth the effort.
+
+34
+00:03:03,802 --> 00:03:07,161
+I raised the issue with the Chancellor
+during the Battle of Malastare,
+
+35
+00:03:07,242 --> 00:03:08,761
+without success.
+
+36
+00:03:10,283 --> 00:03:14,401
+Well then, in that case,
+perhaps it's time we let someone else try.
+
+37
+00:03:44,122 --> 00:03:45,161
+That's enough.
+
+38
+00:03:55,002 --> 00:04:00,121
+Its scales are remarkably strong and light.
+If we could examine their composition,
+
+39
+00:04:00,242 --> 00:04:04,602
+we might be able to synthesize them
+to reinforce our clone armor.
+
+40
+00:04:04,682 --> 00:04:08,841
+- And what is stopping you?
+- We need to remove the scales first.
+
+41
+00:04:09,403 --> 00:04:12,360
+It's very difficult, not to mention painful.
+
+44
+00:04:19,642 --> 00:04:21,722
+Chancellor, I must protest.
+
+45
+00:04:22,162 --> 00:04:26,402
+Besides being the last of its kind,
+this creature may be intelligent.
+
+46
+00:04:26,843 --> 00:04:30,201
+I find that hard to believe.
+It is, after all, just an animal.
+
+47
+00:04:31,683 --> 00:04:33,601
+It didn't seem to like your comment.
+
+48
+00:04:35,722 --> 00:04:38,082
+I applaud your high moral stance, Doctor.
+
+49
+00:04:38,162 --> 00:04:41,442
+After all,
+principle is in short supply these days.
+
+50
+00:04:41,563 --> 00:04:45,561
+However, every passing minute of warfare
+brings countless deaths,
+
+51
+00:04:45,962 --> 00:04:49,641
+deaths that could be prevented
+once the Beast's secrets are unlocked.
+
+52
+00:04:49,722 --> 00:04:54,241
+If there is any way to hasten that process,
+it is our moral duty to explore it.
+
+53
+00:04:54,522 --> 00:04:59,842
+I serve at your pleasure, Chancellor.
+I'm just not sure where to begin.
+
+54
+00:04:59,923 --> 00:05:03,121
+The fact remains
+that the Beast is indestructible.
+
+55
+00:05:03,643 --> 00:05:06,402
+Nothing is truly indestructible, Doctor.
+
+56
+00:05:07,002 --> 00:05:10,602
+Wasn't there something in Malastare fuel
+that affected the Beast?
+
+57
+00:05:10,884 --> 00:05:14,001
+- It weakened the Zillo, yes, but...
+- Excellent.
+
+58
+00:05:14,242 --> 00:05:16,202
+I suggest you start there.
+
+59
+00:05:16,642 --> 00:05:19,961
+Doctor, you need to find a way
+to kill that Beast,
+
+60
+00:05:20,764 --> 00:05:23,721
+or we shall replace you
+with someone who can.
+
+61
+00:05:53,243 --> 00:05:56,602
+Oh, hello!
+You're not in trouble again, are you?
+
+62
+00:05:57,764 --> 00:05:59,402
+I am not being rude.
+
+63
+00:05:59,963 --> 00:06:02,081
+Not that it isn't a pleasure, Senator,
+
+64
+00:06:02,163 --> 00:06:05,002
+but I thought I was just meeting
+Obi-Wan here.
+
+65
+00:06:05,083 --> 00:06:08,042
+Master Kenobi explained the problem.
+I'm here to help.
+
+66
+00:06:08,482 --> 00:06:11,001
+Problem? What problem?
+
+67
+00:06:11,723 --> 00:06:15,242
+The situation with our friend
+from Malastare.
+
+68
+00:06:15,483 --> 00:06:18,161
+Uh-huh. I see what's going on here.
+
+69
+00:06:18,202 --> 00:06:20,162
+You think I can help influence
+the Chancellor.
+
+70
+00:06:20,243 --> 00:06:23,361
+The Zillo Beast was chained up
+and brought here against its will.
+
+71
+00:06:23,643 --> 00:06:25,962
+It has no voice to defend itself.
+
+72
+00:06:26,123 --> 00:06:28,523
+Anakin, we have to be that voice.
+
+73
+00:06:29,763 --> 00:06:33,482
+You haven't seen it in action.
+You have no idea what it's capable of.
+
+74
+00:06:33,563 --> 00:06:36,282
+It's what we're capable of
+that frightens me.
+
+75
+00:06:36,363 --> 00:06:40,162
+A creature's life,
+maybe even an entire species, is at stake.
+
+76
+00:06:40,682 --> 00:06:42,881
+Doesn't that at least warrant a discussion?
+
+77
+00:06:44,322 --> 00:06:47,322
+I didn't think you'd feel
+so strongly about it.
+
+78
+00:06:47,404 --> 00:06:49,922
+All right, let's speak to the Chancellor.
+
+79
+00:06:50,004 --> 00:06:52,282
+But I still don't like this.
+
+80
+00:06:53,483 --> 00:06:57,601
+I should have known secrets
+do not stay secret for long around here.
+
+81
+00:06:57,843 --> 00:07:00,682
+Isn't that precisely the point
+of a democracy?
+
+82
+00:07:00,763 --> 00:07:03,802
+Of course, in wartime,
+some things must be kept secret.
+
+83
+00:07:03,883 --> 00:07:06,282
+Even from the people,
+so as not to aid the enemy.
+
+84
+00:07:06,363 --> 00:07:09,682
+It is unfortunate
+that the Beast must die, Senator.
+
+85
+00:07:09,763 --> 00:07:11,522
+But the greater good demands it.
+
+86
+00:07:11,644 --> 00:07:15,482
+How is killing the last of a species,
+in secret and without debate,
+
+87
+00:07:15,564 --> 00:07:17,082
+good for anyone?
+
+88
+00:07:17,123 --> 00:07:21,723
+Don't you have more pressing issues
+that require your attention today?
+
+89
+00:07:22,243 --> 00:07:24,522
+No, Mr. Speaker, I do not.
+
+90
+00:07:24,962 --> 00:07:29,243
+I sympathize, my dear, truly I do.
+But consider this.
+
+91
+00:07:29,283 --> 00:07:33,082
+A democracy is only as strong
+as the people who comprise it.
+
+92
+00:07:33,283 --> 00:07:35,802
+At present,
+the people I am charged with protecting
+
+93
+00:07:35,843 --> 00:07:38,282
+are dying faster than I can count.
+
+94
+00:07:39,244 --> 00:07:42,522
+It is my moral imperative to take action.
+
+95
+00:07:43,163 --> 00:07:47,001
+Anakin, is it not worth
+the life of one savage beast
+
+96
+00:07:47,122 --> 00:07:50,922
+to give our brave troops
+the advantage they need to win this war?
+
+97
+00:07:52,283 --> 00:07:57,442
+My role is not to set policy, Chancellor,
+but I do see both points of view.
+
+98
+00:07:57,563 --> 00:08:00,282
+I'm certain a reasonable solution
+will present itself.
+
+99
+00:08:00,603 --> 00:08:03,002
+Master Kenobi has taught you well.
+
+100
+00:08:03,323 --> 00:08:04,643
+Chancellor.
+
+101
+00:08:06,043 --> 00:08:07,322
+Excuse me.
+
+102
+00:08:09,683 --> 00:08:13,603
+You are supposed to be helping!
+Whose side are you on, anyway?
+
+103
+00:08:13,723 --> 00:08:17,882
+Yours, but you must admit the Chancellor
+makes some good points.
+
+104
+00:08:26,044 --> 00:08:29,883
+Ah, Doctor Boll,
+I trust you have some progress to report.
+
+105
+00:08:30,363 --> 00:08:36,322
+Yes, Chancellor. I was able to convert
+the Malastare fuel toxin into a poison gas.
+
+106
+00:08:36,763 --> 00:08:39,922
+I believe it's now strong enough
+to kill the Zillo Beast,
+
+107
+00:08:39,963 --> 00:08:43,003
+if that's still how you wish to proceed.
+
+108
+00:08:43,603 --> 00:08:45,403
+I wish I saw an alternative.
+
+109
+00:08:45,444 --> 00:08:49,442
+However, sadly I must ask you
+to proceed with your assignment.
+
+110
+00:09:04,564 --> 00:09:08,362
+I'm sorry.
+Don't worry, it will all be over soon.
+
+111
+00:09:09,244 --> 00:09:10,682
+Begin procedure.
+
+112
+00:09:15,005 --> 00:09:16,203
+Vital signs are dropping.
+
+113
+00:09:29,724 --> 00:09:31,642
+No. It should have been enough.
+
+114
+00:09:53,204 --> 00:09:55,002
+I don't like the sound of that.
+
+115
+00:09:55,123 --> 00:09:58,763
+If that creature is as powerful as they say,
+what good are these rifles gonna be?
+
+116
+00:09:58,844 --> 00:10:00,362
+Ah, shut up, Kosmos.
+
+117
+00:10:18,243 --> 00:10:19,444
+I'm on it, Leader.
+
+118
+00:10:19,484 --> 00:10:21,402
+Take it down! Take it down!
+Man down!
+
+119
+00:10:21,443 --> 00:10:23,003
+You in the black, let's go!
+
+120
+00:10:23,084 --> 00:10:24,363
+Head up!
+
+121
+00:10:24,444 --> 00:10:27,082
+Go, go, go, go, go, go!
+Hold. Everyone, back!
+
+122
+00:10:30,764 --> 00:10:31,924
+Oh, no.
+
+123
+00:10:35,204 --> 00:10:37,282
+Doctor, were you successful?
+
+124
+00:10:37,363 --> 00:10:38,763
+We have a problem, sir.
+
+125
+00:10:49,843 --> 00:10:53,522
+We need time to convert Malastare fuel
+into more toxin, Chancellor.
+
+126
+00:10:53,684 --> 00:10:55,243
+I suggest you hurry, Doctor.
+
+127
+00:10:55,524 --> 00:10:58,322
+Evacuate the staff
+to the underground shelters.
+
+128
+00:10:58,645 --> 00:11:00,843
+Stay with General Kenobi. I'm on my way.
+
+129
+00:11:00,923 --> 00:11:03,203
+Better hurry, sir.
+You're missing all the fun.
+
+130
+00:11:09,163 --> 00:11:11,683
+I have no doubt the Jedi...
+
+131
+00:11:13,084 --> 00:11:15,403
+...to ensure the safety...
+
+132
+00:11:26,563 --> 00:11:28,483
+...that I will not stand...
+
+133
+00:12:08,283 --> 00:12:10,084
+It's coming this way!
+
+134
+00:12:36,564 --> 00:12:39,644
+Perhaps now would be a good time
+to evacuate to the lower levels.
+
+135
+00:12:46,124 --> 00:12:47,963
+Yes. We are going now.
+
+136
+00:13:00,845 --> 00:13:02,842
+Desperately needed the tanks are.
+
+137
+00:13:02,924 --> 00:13:05,123
+We're almost at the loading dock,
+Master Yoda.
+
+138
+00:13:05,364 --> 00:13:07,563
+Dire the situation has become.
+
+139
+00:13:07,643 --> 00:13:10,724
+Before more lives are lost,
+act quickly we must.
+
+140
+00:13:17,724 --> 00:13:22,124
+My security staff insisted on adding
+this emergency escape route.
+
+141
+00:13:28,884 --> 00:13:32,123
+Chancellor, I think we may have
+enough toxin now.
+
+142
+00:13:32,204 --> 00:13:33,964
+My guards will be with you shortly.
+
+143
+00:13:37,324 --> 00:13:39,244
+Hand the gas over to them immediately.
+
+144
+00:13:39,325 --> 00:13:41,163
+Does it have to be destroyed?
+
+145
+00:13:41,244 --> 00:13:44,364
+- The Jedi stun cannons...
+- Will not eliminate the problem.
+
+146
+00:13:44,444 --> 00:13:47,323
+Our advanced technology
+simply cannot contain it.
+
+147
+00:13:47,403 --> 00:13:49,603
+I wish we had
+never brought the Beast here.
+
+148
+00:13:53,164 --> 00:13:57,403
+Pardon me, Mistress Padmé,
+but I believe something is following us.
+
+149
+00:13:58,766 --> 00:13:59,763
+Evasive action!
+
+150
+00:14:10,685 --> 00:14:12,123
+We're doomed!
+
+151
+00:14:18,366 --> 00:14:22,164
+All tanks acquire solution
+and prepare to fire on my order.
+
+152
+00:14:22,765 --> 00:14:26,483
+Hold your fire.
+In the Beast's clutches the Chancellor is.
+
+153
+00:14:26,564 --> 00:14:28,963
+Anakin might be with him,
+and Senator Amidala.
+
+154
+00:14:29,044 --> 00:14:32,324
+If the Beast falls,
+at risk their lives shall be.
+
+155
+00:14:44,724 --> 00:14:47,124
+I've got an idea, but it's risky.
+
+156
+00:14:47,204 --> 00:14:49,684
+Considering the circumstances,
+I'll take the risk.
+
+157
+00:14:53,844 --> 00:14:56,283
+I've got a bad feeling about this.
+
+158
+00:14:57,966 --> 00:15:00,725
+Sir, looks like
+the General's up to something.
+
+159
+00:15:02,965 --> 00:15:04,924
+What is Skywalker doing?
+
+160
+00:15:06,845 --> 00:15:10,044
+It appears to be
+one of Anakin's improvised plans.
+
+161
+00:15:10,285 --> 00:15:12,765
+How can it be a plan if it's improvised?
+
+162
+00:15:12,845 --> 00:15:15,565
+Not to worry.
+Just catch them when they fall.
+
+163
+00:15:15,644 --> 00:15:18,284
+A lot of the General's plans involve falling.
+
+164
+00:15:18,364 --> 00:15:21,964
+Distract the Beast we shall,
+to give Skywalker more time.
+
+165
+00:15:47,724 --> 00:15:49,244
+I hope you know what you're doing.
+
+166
+00:15:50,845 --> 00:15:52,763
+Here's where the fun begins. Hang on!
+
+167
+00:16:07,005 --> 00:16:08,365
+Catch it!
+
+168
+00:16:31,965 --> 00:16:32,924
+Ani!
+
+169
+00:17:06,326 --> 00:17:07,964
+All pilots, fire.
+
+170
+00:17:40,766 --> 00:17:42,964
+Sir, we have to get you out of here.
+
+171
+00:17:50,325 --> 00:17:51,725
+Artoo, get over there!
+
+172
+00:17:57,086 --> 00:17:59,285
+It can't carry both of us. You go, sir.
+
+173
+00:18:10,045 --> 00:18:12,084
+Oh, no!
+
+174
+00:18:12,446 --> 00:18:16,044
+- We aren't having much of an effect!
+- Time to leave, it is.
+
+175
+00:18:19,446 --> 00:18:21,044
+Oh, no!
+
+176
+00:18:24,526 --> 00:18:25,804
+Let's go!
+
+177
+00:18:32,285 --> 00:18:34,044
+Use the gas bombs!
+
+178
+00:18:34,366 --> 00:18:35,644
+Copy that.
+
+179
+00:18:41,565 --> 00:18:42,525
+Bombs away!
+
+180
+00:20:27,966 --> 00:20:31,564
+It's a tragedy that the Zillo Beast
+paid with its life for our mistakes.
+
+181
+00:20:31,646 --> 00:20:35,165
+I will make certain that sacrifice
+was not made in vain.
+
+182
+00:20:43,006 --> 00:20:45,205
+Doctor, a word if you please.
+
+183
+00:20:46,285 --> 00:20:47,885
+Your new orders.
+
+184
+00:20:48,166 --> 00:20:49,685
+What is this?
+
+185
+00:20:49,846 --> 00:20:52,685
+You want me to clone the Beast?
+

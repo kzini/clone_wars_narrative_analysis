@@ -1,0 +1,936 @@
+1
+00:00:17,601 --> 00:00:19,561
+Victory on Geonosis!
+
+2
+00:00:19,642 --> 00:00:23,962
+After a massive assault, the Republic has
+finally recaptured the Separatist planet
+
+3
+00:00:24,042 --> 00:00:27,122
+and shut down its droid factories of doom.
+
+4
+00:00:27,483 --> 00:00:32,163
+An investigation by Luminara Unduli led to
+the discovery of Queen Karina the Great,
+
+5
+00:00:32,284 --> 00:00:36,324
+whose hive mind
+could reanimate dead Geonosian soldiers.
+
+6
+00:00:36,405 --> 00:00:38,565
+During the destruction
+of the Queen's temple,
+
+7
+00:00:38,646 --> 00:00:41,765
+the Jedi apprehended
+her advisor, Poggle the Lesser,
+
+8
+00:00:41,847 --> 00:00:45,766
+and now prepare to deliver the villain
+to Coruscant for trial.
+
+9
+00:00:54,249 --> 00:00:57,248
+- I'm afraid we have a complication.
+- Don't we always?
+
+10
+00:00:57,289 --> 00:01:00,609
+I've just received a distress signal
+from our forces on Dantooine.
+
+11
+00:01:00,650 --> 00:01:04,249
+Master Windu's defenses held,
+but at a great cost to his men.
+
+12
+00:01:04,331 --> 00:01:06,330
+They need medical supplies immediately.
+
+13
+00:01:06,412 --> 00:01:09,611
+We can obtain these supplies at
+the medical station near Ord Cestus.
+
+14
+00:01:09,692 --> 00:01:14,052
+We're delivering Poggle to Coruscant,
+and Cestus is not exactly on the way.
+
+15
+00:01:14,093 --> 00:01:16,732
+The Republic must begin
+debriefing Poggle right away
+
+16
+00:01:16,814 --> 00:01:19,133
+if we're to get useful intelligence from him.
+
+17
+00:01:19,214 --> 00:01:23,374
+Master, I suggest we let our Padawans
+handle the supply mission.
+
+18
+00:01:23,495 --> 00:01:26,534
+Whatever needs to be done, Master,
+I'm happy to help.
+
+19
+00:01:26,576 --> 00:01:29,935
+- As am I.
+- Very well. Take a medical frigate.
+
+20
+00:01:30,016 --> 00:01:31,815
+And after we've delivered Poggle
+to Coruscant,
+
+21
+00:01:31,856 --> 00:01:34,576
+we'll rendezvous with you
+for the voyage to Dantooine.
+
+22
+00:02:05,944 --> 00:02:09,783
+Sorry, boys. Hope I didn't interrupt
+any pleasant dreams.
+
+23
+00:02:10,264 --> 00:02:11,824
+We got another mission, sir?
+
+24
+00:02:11,864 --> 00:02:16,024
+You bet. We're making
+a medical supply run to Ord Cestus.
+
+25
+00:02:16,185 --> 00:02:20,305
+Thought we were bred
+for battle, not running errands.
+
+26
+00:02:20,346 --> 00:02:24,026
+Hey! We were bred
+to follow orders, Pulsar.
+
+27
+00:02:24,507 --> 00:02:26,227
+You got a problem with that?
+
+28
+00:02:26,267 --> 00:02:30,747
+- No, sir. No problem.
+- That's what I thought. Now, move!
+
+29
+00:02:36,029 --> 00:02:39,549
+Scythe, come on.
+Up, brother, up and at 'em.
+
+30
+00:02:48,231 --> 00:02:51,391
+Hey, Scythe.
+Welcome back to the land of the living.
+
+31
+00:02:52,793 --> 00:02:54,312
+Thank you, sir.
+
+32
+00:03:16,998 --> 00:03:19,237
+We are ready to make our jump,
+Master Fisto.
+
+33
+00:03:19,358 --> 00:03:21,518
+Good. I look forward to your arrival.
+
+34
+00:03:46,243 --> 00:03:48,003
+What? What is it?
+
+35
+00:03:48,204 --> 00:03:53,243
+It's too quiet. It's a big change
+from all the fighting the last few days.
+
+36
+00:03:53,644 --> 00:03:58,285
+- You should enjoy this peace while it lasts.
+- I can't. Let's go eat.
+
+37
+00:04:51,136 --> 00:04:53,816
+I was just thinking
+about what you said earlier,
+
+38
+00:04:53,856 --> 00:04:56,776
+about enjoying the peace while it lasts.
+
+39
+00:04:56,858 --> 00:05:00,057
+As a Jedi,
+I'm not sure I know how to do that.
+
+40
+00:05:00,139 --> 00:05:03,978
+Master Windu has said we are
+keepers of the peace, not warriors.
+
+41
+00:05:04,059 --> 00:05:07,899
+However, once the war is over,
+it will be our job to maintain the peace.
+
+44
+00:05:15,581 --> 00:05:18,701
+I don't have all the answers, Ahsoka.
+Like you, I am a learner.
+
+45
+00:05:19,422 --> 00:05:23,542
+- What does your Master tell you?
+- Anakin? Oh, um...
+
+46
+00:05:23,903 --> 00:05:28,863
+You might find some of his thoughts
+on the future a bit radical.
+
+47
+00:05:28,904 --> 00:05:30,464
+Really? Why?
+
+48
+00:05:30,504 --> 00:05:34,464
+Let's just say my Master
+will always do what needs to be done.
+
+49
+00:05:34,545 --> 00:05:37,344
+I'm not even sure
+how peacetime will agree with him.
+
+50
+00:05:43,627 --> 00:05:45,466
+Just came up to check on us, Scythe?
+
+51
+00:05:46,147 --> 00:05:49,307
+Well, we're on course,
+and all systems are green.
+
+52
+00:05:51,228 --> 00:05:52,228
+What the...
+
+53
+00:05:55,389 --> 00:05:57,388
+We have control of the bridge.
+
+54
+00:06:00,231 --> 00:06:02,950
+Evening, Ox, Edge.
+Would you like to join us?
+
+55
+00:06:05,791 --> 00:06:08,031
+Is something wrong,
+troopers?
+
+56
+00:06:14,313 --> 00:06:16,192
+Troopers! Stand down!
+
+57
+00:06:27,356 --> 00:06:28,395
+What are you doing?
+
+58
+00:06:28,476 --> 00:06:31,395
+Two clones just attacked us.
+What is going on?
+
+59
+00:06:31,436 --> 00:06:33,676
+Trap, do you know
+what happened to those troopers?
+
+60
+00:06:33,797 --> 00:06:36,236
+Couldn't tell you, Commander.
+I'm just as confused as...
+
+61
+00:06:36,357 --> 00:06:39,318
+You're in charge of those men!
+Did you order them to kill us?
+
+62
+00:06:39,438 --> 00:06:41,358
+No, sir! I did not.
+
+63
+00:06:41,838 --> 00:06:44,558
+What's happening?
+Why would they do this?
+
+64
+00:06:44,599 --> 00:06:46,758
+We don't know. We heard shots.
+
+65
+00:06:46,800 --> 00:06:48,359
+Why should we believe you?
+
+66
+00:06:48,400 --> 00:06:50,519
+Look, no guns.
+
+67
+00:06:58,082 --> 00:07:00,481
+These men wouldn't just attack us
+without reason.
+
+68
+00:07:00,563 --> 00:07:04,882
+My Master had a clone betray them once,
+a traitor who was paid off by Ventress.
+
+69
+00:07:05,003 --> 00:07:09,203
+It can't be that simple.
+At least, it didn't feel like that.
+
+70
+00:07:09,244 --> 00:07:12,844
+Excuse me, sir, we should make sure
+that we're still in control of the bridge.
+
+71
+00:07:12,885 --> 00:07:15,484
+Bridge, this is Barriss. Respond.
+
+72
+00:07:15,605 --> 00:07:18,485
+We need to get up there.
+We need to find out what's going on.
+
+73
+00:07:18,526 --> 00:07:20,726
+But these two
+will be coming around any minute.
+
+74
+00:07:20,847 --> 00:07:22,966
+Havoc can watch them
+until we check on the bridge.
+
+75
+00:07:23,087 --> 00:07:24,567
+Okay. Let's go.
+
+76
+00:07:35,609 --> 00:07:38,209
+The cargo ship failed
+to check in on schedule.
+
+77
+00:07:38,330 --> 00:07:41,209
+I attempted to contact them.
+There is no reply.
+
+78
+00:07:41,331 --> 00:07:43,730
+I don't like it. Something's up.
+
+79
+00:07:43,771 --> 00:07:47,451
+It is certainly most unlike either Padawan
+to lose contact.
+
+80
+00:07:47,892 --> 00:07:51,452
+- They're in trouble.
+- Anakin, have faith in your Padawan.
+
+81
+00:07:51,573 --> 00:07:52,892
+She would have checked in.
+
+82
+00:07:52,933 --> 00:07:55,293
+- Like you always do?
+- Good point.
+
+83
+00:07:55,414 --> 00:07:58,493
+Sometimes I don't think you realize
+how alike you two have become.
+
+84
+00:07:58,534 --> 00:08:02,014
+We need to continue
+our interrogation of Poggle.
+
+85
+00:08:02,054 --> 00:08:05,534
+Yes, agreed.
+He's being most uncooperative.
+
+86
+00:08:09,536 --> 00:08:12,576
+- Keep your ears open in case Ahsoka calls.
+- Got it.
+
+87
+00:08:21,659 --> 00:08:25,018
+Engage the autopilot
+and put up the security shields.
+
+88
+00:08:28,940 --> 00:08:30,859
+Someone doesn't want us going up there.
+
+89
+00:08:31,621 --> 00:08:33,540
+I'll attempt to override the controls.
+
+90
+00:08:40,263 --> 00:08:41,421
+He's infected!
+
+91
+00:08:44,544 --> 00:08:45,822
+Get this thing off me!
+
+92
+00:08:51,145 --> 00:08:53,504
+What is that?
+
+93
+00:08:53,545 --> 00:08:57,505
+Looks like some type of parasite.
+It must be controlling their actions.
+
+94
+00:08:57,746 --> 00:09:01,106
+Mind control.
+Well, that explains a lot.
+
+95
+00:09:01,547 --> 00:09:04,466
+Trap was my friend.
+He would never have tried to kill us.
+
+96
+00:09:05,067 --> 00:09:07,947
+How did these things get on board
+in the first place?
+
+97
+00:09:08,429 --> 00:09:11,347
+They must have infected the clones
+while they were on Geonosis.
+
+98
+00:09:11,468 --> 00:09:12,948
+We'll have to quarantine the ship.
+
+99
+00:09:13,069 --> 00:09:16,909
+We should also contact Master Fisto
+and let him know about the situation.
+
+100
+00:09:17,030 --> 00:09:18,229
+Let's go.
+
+101
+00:09:22,231 --> 00:09:25,391
+- That sound. It's...
+- Geonosian.
+
+102
+00:09:37,874 --> 00:09:39,513
+We have to help him.
+
+103
+00:09:44,756 --> 00:09:45,914
+It's too late.
+
+104
+00:10:14,002 --> 00:10:15,680
+Barriss! Let's go for the vent!
+
+105
+00:10:32,245 --> 00:10:34,405
+I'll go to the reactor room
+and disable the thrusters.
+
+106
+00:10:34,525 --> 00:10:37,565
+You head for the aft comm center
+and send a warning to Master Fisto.
+
+107
+00:10:37,606 --> 00:10:39,805
+We have to stop the ship
+from reaching the medical station.
+
+108
+00:10:44,168 --> 00:10:47,167
+I don't know, Barriss.
+I think we should stay together.
+
+109
+00:10:47,288 --> 00:10:51,047
+As do I. Unfortunately,
+that's not a luxury we have right now.
+
+110
+00:10:51,169 --> 00:10:52,968
+One of us must succeed, Ahsoka.
+
+111
+00:10:53,090 --> 00:10:56,609
+If you need to, you'll do
+what must be done. I know it.
+
+112
+00:10:56,930 --> 00:10:59,689
+Yes. Of course. Then I'll see you soon.
+
+113
+00:11:06,972 --> 00:11:10,732
+As long as these things are on board,
+we dare not dock with the medical station.
+
+114
+00:11:10,853 --> 00:11:12,612
+You must bring the ship in.
+
+115
+00:11:12,733 --> 00:11:15,693
+The only way we can stop these parasites
+is to analyze them.
+
+116
+00:11:15,814 --> 00:11:19,493
+You don't understand how terrible
+these things are. What if they get loose?
+
+117
+00:11:19,614 --> 00:11:21,414
+We will take precautions.
+
+118
+00:11:21,935 --> 00:11:25,094
+I have a bad feeling about this,
+Master Fisto,
+
+119
+00:11:25,736 --> 00:11:27,375
+but I will follow your instructions.
+
+120
+00:11:47,180 --> 00:11:52,460
+If there's one thing we clones know,
+it's how to stop a Jedi.
+
+121
+00:11:59,303 --> 00:12:00,341
+NO!
+
+122
+00:12:03,823 --> 00:12:05,303
+Almost got it.
+
+123
+00:12:05,744 --> 00:12:10,024
+Cargo ship TB-73, this is
+Clone Captain Rex. Please respond.
+
+124
+00:12:10,064 --> 00:12:14,224
+Rex, this is Ahsoka.
+Boy, am I glad to hear your voice.
+
+125
+00:12:14,546 --> 00:12:18,266
+Likewise, sir. I've got someone here
+who wants to speak with you.
+
+126
+00:12:18,387 --> 00:12:20,146
+Ahsoka, what's going on? Are you okay?
+
+127
+00:12:20,626 --> 00:12:23,306
+Well, not exactly.
+
+128
+00:12:33,389 --> 00:12:35,549
+Make sure you have a wrist com.
+Keep it on.
+
+129
+00:12:35,670 --> 00:12:38,270
+I'm going to interrogate Poggle.
+He might have some answers.
+
+130
+00:12:38,390 --> 00:12:40,630
+Find Barriss and wait for my signal.
+
+131
+00:12:44,752 --> 00:12:46,831
+Barriss, you're back. Were you successful?
+
+132
+00:12:50,473 --> 00:12:52,553
+Barriss? What's wrong?
+
+133
+00:12:54,233 --> 00:12:55,353
+Barriss, no!
+
+134
+00:12:59,515 --> 00:13:03,594
+I'm your friend! Barriss, snap out of it!
+
+135
+00:13:11,437 --> 00:13:15,997
+Barriss, it's not you, it's the creatures!
+Fight them!
+
+136
+00:13:32,921 --> 00:13:34,241
+Leave us.
+
+137
+00:13:36,922 --> 00:13:39,001
+You will answer my questions.
+
+138
+00:13:41,684 --> 00:13:43,082
+Your feeble Jedi mind tricks
+
+139
+00:13:43,164 --> 00:13:46,683
+do not work on Geonosians.
+The other Jedi already learned this.
+
+140
+00:13:49,765 --> 00:13:51,404
+Mind tricks?
+
+141
+00:13:55,326 --> 00:13:57,765
+I don't need mind tricks to get you to talk.
+
+142
+00:13:59,927 --> 00:14:05,087
+I will never talk, Jedi.
+- We'll see about that, Poggle.
+
+143
+00:14:43,816 --> 00:14:46,735
+- I made contact with Ahsoka.
+- What's their status?
+
+144
+00:14:46,816 --> 00:14:49,136
+Geonosian parasites
+have infected her crew.
+
+145
+00:14:49,216 --> 00:14:50,696
+How did they get on board her ship?
+
+146
+00:14:50,737 --> 00:14:52,656
+Poggle said the parasites
+must have needed a new host
+
+147
+00:14:52,777 --> 00:14:54,377
+after we raided the Queen's temple.
+
+148
+00:14:54,417 --> 00:14:56,017
+You interrogated Poggle?
+
+149
+00:14:56,579 --> 00:14:59,858
+I did. There wasn't time
+to get the rest of you.
+
+150
+00:15:00,339 --> 00:15:02,538
+How did you get him to talk?
+
+151
+00:15:02,580 --> 00:15:05,539
+Look, all that matters is that
+he told me how to stop the worms.
+
+152
+00:15:12,342 --> 00:15:14,101
+This is Ahsoka. Come in.
+
+153
+00:15:14,181 --> 00:15:18,421
+Ahsoka, listen to me.
+The worms are affected by the cold!
+
+154
+00:15:18,503 --> 00:15:21,062
+Cold? That's how we stop them?
+
+155
+00:15:21,143 --> 00:15:22,942
+Rupture the coolant system.
+
+156
+00:15:26,624 --> 00:15:29,664
+Did you hear me?
+Rupture the coolant system!
+
+157
+00:15:29,745 --> 00:15:31,464
+The coolant system. Got it.
+
+158
+00:16:13,673 --> 00:16:16,753
+That's Ahsoka's ship.
+It just came out of hyperspace.
+
+159
+00:16:16,834 --> 00:16:18,434
+Send out the tugs to help guide them in.
+
+160
+00:16:23,236 --> 00:16:25,035
+Warn all medical hazard crew
+
+161
+00:16:25,116 --> 00:16:29,076
+that I don't want anyone boarding
+that ship until the parasites are contained.
+
+162
+00:16:29,157 --> 00:16:32,157
+Sound all the alarms.
+And prepare the sub-zero conduits.
+
+163
+00:16:41,519 --> 00:16:42,959
+Engage tractor beam.
+
+164
+00:16:54,602 --> 00:16:57,761
+There you are.
+You can't hide from me.
+
+165
+00:17:11,565 --> 00:17:13,484
+The bridge. At last.
+
+166
+00:17:20,047 --> 00:17:23,727
+We're coming in awfully fast.
+This is Ahsoka Tano, can you hear me?
+
+167
+00:17:23,888 --> 00:17:25,887
+I'm shutting down the engines.
+I'll try to reverse the...
+
+168
+00:17:32,049 --> 00:17:33,969
+I'm having a hard time slowing her down.
+
+169
+00:17:34,290 --> 00:17:36,289
+There's no one at the controls!
+The pilot must be dead!
+
+170
+00:17:36,690 --> 00:17:39,970
+- Sir, she's listing.
+- The escort ships must maintain control.
+
+171
+00:17:50,333 --> 00:17:52,413
+Kill me. Please.
+
+172
+00:17:53,494 --> 00:17:54,773
+I can't.
+
+173
+00:18:18,619 --> 00:18:20,218
+Full power! Now! Now!
+
+174
+00:18:27,901 --> 00:18:30,900
+We got her. We got her!
+Attach the sub-zero conduits.
+
+175
+00:18:31,222 --> 00:18:34,140
+- The temperature is below freezing, sir.
+- Let's board, then.
+
+176
+00:18:34,262 --> 00:18:37,341
+But stay on guard.
+They may still be dangerous.
+
+177
+00:18:55,426 --> 00:18:57,345
+Hello, Master Fisto.
+
+178
+00:18:58,706 --> 00:19:00,706
+We're ready to pick up the supplies.
+
+179
+00:19:01,428 --> 00:19:05,107
+We'll take care of that.
+You rest now, Ahsoka.
+
+180
+00:19:12,390 --> 00:19:15,189
+It's all right, Ahsoka. It's okay. You're safe.
+
+181
+00:19:16,270 --> 00:19:17,550
+Barriss?
+
+182
+00:19:18,511 --> 00:19:22,071
+Barriss is fine, thanks to your efforts.
+
+183
+00:19:22,151 --> 00:19:23,751
+And so are the clones.
+
+184
+00:19:24,232 --> 00:19:28,712
+- What were those things?
+- I think I can help answer that.
+
+185
+00:19:30,153 --> 00:19:32,153
+We had the parasite worms analyzed.
+
+186
+00:19:32,234 --> 00:19:36,313
+They are the same type of creature
+you found on Geonosis, Master Skywalker.
+
+187
+00:19:36,395 --> 00:19:38,753
+We'll have to inform the troops
+on Geonosis.
+
+188
+00:19:38,835 --> 00:19:42,275
+This parasite might explain how
+they recaptured the planet the first time.
+
+189
+00:19:42,355 --> 00:19:44,235
+I don't want it happening again.
+
+190
+00:19:44,316 --> 00:19:46,715
+You've been through quite an ordeal,
+little one.
+
+191
+00:19:46,797 --> 00:19:49,676
+Master Skywalker, may I have a word?
+
+192
+00:19:55,358 --> 00:19:58,158
+Master, on the ship, Barriss was
+
+193
+00:19:59,239 --> 00:20:00,238
+gone,
+
+194
+00:20:00,279 --> 00:20:02,999
+and she wanted me to kill her.
+
+195
+00:20:03,600 --> 00:20:06,119
+- She told me...
+- But you couldn't do it.
+
+196
+00:20:06,721 --> 00:20:10,961
+No. No, I couldn't. But should I have?
+
+197
+00:20:11,601 --> 00:20:15,121
+I mean, it worked out now,
+but if we had failed,
+
+198
+00:20:15,202 --> 00:20:18,002
+if the ship docked
+and the worms spread and...
+
+199
+00:20:18,083 --> 00:20:22,163
+Ahsoka, it's your duty
+to save as many lives as you can.
+
+200
+00:20:22,243 --> 00:20:25,123
+Barriss knew you could save thousands
+if the worms were destroyed.
+
+201
+00:20:25,204 --> 00:20:28,164
+Which she thought
+meant destroying her, too.
+
+202
+00:20:28,525 --> 00:20:30,404
+But you did the right thing.
+
+203
+00:20:30,765 --> 00:20:33,325
+You knew the freezing cold
+would kill the worms.
+
+204
+00:20:34,726 --> 00:20:38,726
+Letting go of our attachments
+is a difficult struggle for all of us.
+
+205
+00:20:38,807 --> 00:20:41,086
+You followed your instincts.
+
+206
+00:20:41,167 --> 00:20:43,607
+I'm sure she would agree
+that you made the right choice.
+

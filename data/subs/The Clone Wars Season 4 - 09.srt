@@ -1,0 +1,1351 @@
+﻿1
+00:00:18,450 --> 00:00:20,450
+<i>Invasion in peril!</i>
+
+2
+00:00:21,000 --> 00:00:23,260
+<i>Republic forces struggle to take Umbara,</i>
+
+3
+00:00:23,330 --> 00:00:26,620
+<i>a hostile planet
+completely enshrouded in darkness.</i>
+
+4
+00:00:26,880 --> 00:00:29,420
+<i>Jedi General Pong Krell and Captain Rex</i>
+
+5
+00:00:29,460 --> 00:00:33,260
+<i>lead a battalion against a constant attack
+by a brutal enemy.</i>
+
+6
+00:00:33,470 --> 00:00:36,130
+<i>Krell's aggressive
+and reckless strategies backfire,</i>
+
+7
+00:00:36,180 --> 00:00:37,470
+<i>killing many clones.</i>
+
+8
+00:00:38,050 --> 00:00:40,550
+<i>Despite the Jedi General's
+dangerous tactics,</i>
+
+9
+00:00:40,640 --> 00:00:43,970
+<i>Captain Rex's squad
+successfully captures a critical airbase.</i>
+
+10
+00:00:44,310 --> 00:00:47,640
+<i>This further fuels
+the mistrust of Krell's leadership,</i>
+
+11
+00:00:47,730 --> 00:00:49,610
+<i>dividing his men.</i>
+
+12
+00:01:03,200 --> 00:01:05,660
+The insurgents
+have stepped up their attacks, sir.
+
+13
+00:01:05,710 --> 00:01:07,460
+They want their base back.
+
+14
+00:01:07,500 --> 00:01:09,710
+We cannot let our guard down
+for a moment.
+
+15
+00:01:10,040 --> 00:01:13,210
+Have all Umbaran security
+re-configured and locked down.
+
+16
+00:01:13,300 --> 00:01:15,630
+Interrogate the prisoners if you have to,
+
+17
+00:01:15,670 --> 00:01:18,630
+but I want this base
+under our complete control
+
+18
+00:01:18,680 --> 00:01:20,430
+and I don't want excuses.
+
+19
+00:01:20,760 --> 00:01:23,310
+Sir, there's a transmission
+from General Kenobi.
+
+20
+00:01:23,640 --> 00:01:25,520
+I'll take it in the tower.
+
+21
+00:01:31,860 --> 00:01:33,690
+Hey, how's it coming?
+
+22
+00:01:34,900 --> 00:01:36,360
+Tricky piece of hardware.
+
+23
+00:01:36,740 --> 00:01:39,030
+Krell's got Jesse stacking ordnance.
+
+24
+00:01:41,370 --> 00:01:45,040
+I'm still waiting for Krell to thank us
+for handing this base over to him.
+
+25
+00:01:50,670 --> 00:01:51,670
+Where is he?
+
+26
+00:01:53,380 --> 00:01:55,880
+General Kenobi, do you read me?
+
+27
+00:01:55,920 --> 00:01:59,220
+<i>Congratulations on your capture
+of the Umbaran airbase, General.</i>
+
+28
+00:01:59,550 --> 00:02:01,550
+<i>It's refreshing to have good news.</i>
+
+29
+00:02:01,600 --> 00:02:04,770
+There will be time for celebration
+when we've taken that capital.
+
+30
+00:02:05,060 --> 00:02:08,770
+<i>Yes. Well, I'm afraid that's going
+to be more difficult than anticipated.</i>
+
+31
+00:02:08,850 --> 00:02:10,100
+<i>Their attacks have increased</i>
+
+32
+00:02:10,230 --> 00:02:12,770
+<i>and their long-range missiles
+are forcing us to retreat</i>
+
+33
+00:02:12,860 --> 00:02:14,230
+<i>from our positions.</i>
+
+34
+00:02:14,280 --> 00:02:17,080
+I was hoping we cut off
+their arms shipments and supplies
+
+35
+00:02:17,150 --> 00:02:18,530
+when we took this airbase.
+
+36
+00:02:18,820 --> 00:02:20,950
+<i>It seems they're receiving
+new arms shipments</i>
+
+37
+00:02:21,030 --> 00:02:23,240
+<i>directly from a supply ship orbiting...</i>
+
+38
+00:02:23,450 --> 00:02:24,910
+General Kenobi?
+
+39
+00:02:24,950 --> 00:02:27,080
+<i>We've been having
+difficulty transmitting...</i>
+
+40
+00:02:27,250 --> 00:02:28,950
+<i>They must be jamming our signals.</i>
+
+41
+00:02:29,250 --> 00:02:30,830
+Can't we destroy the supply ship?
+
+42
+00:02:31,130 --> 00:02:33,550
+<i>We're trying, but with little success.</i>
+
+43
+00:02:33,880 --> 00:02:35,250
+<i>Their fleet outnumbers ours</i>
+
+44
+00:02:35,340 --> 00:02:38,050
+<i>and the extra ships we were promised
+have not yet arrived.</i>
+
+45
+00:02:38,420 --> 00:02:41,760
+We'll just have to take that capital
+regardless of the missiles.
+
+46
+00:02:41,840 --> 00:02:44,340
+My battalion will meet you
+at the rendezvous coordinates.
+
+47
+00:02:44,680 --> 00:02:46,470
+<i>We cannot expect...</i>
+
+48
+00:02:47,730 --> 00:02:49,030
+I'm trying to get him back, sir.
+
+49
+00:02:49,390 --> 00:02:53,100
+Don't bother.
+The enemy is jamming our transmissions.
+
+50
+00:02:53,190 --> 00:02:54,610
+We are on our own.
+
+51
+00:03:05,280 --> 00:03:08,580
+Have those containers searched
+and all weapons prepped and loaded.
+
+52
+00:03:08,620 --> 00:03:11,120
+Have the battalion ready to move out
+in 12 hours.
+
+53
+00:03:11,210 --> 00:03:12,540
+We're advancing on the capital.
+
+54
+00:03:12,880 --> 00:03:15,640
+Sir, shall I try to get a message
+to General Kenobi?
+
+55
+00:03:15,710 --> 00:03:19,210
+Shouldn't we coordinate our attack,
+especially in light of the recent threat?
+
+56
+00:03:19,510 --> 00:03:22,380
+General Kenobi has his hands full,
+same as us.
+
+57
+00:03:22,470 --> 00:03:25,220
+We need to throw everything we have
+at them, now!
+
+58
+00:03:25,470 --> 00:03:28,310
+We'd be marching into a blast zone, sir.
+
+59
+00:03:30,350 --> 00:03:32,140
+Blasted insurgents.
+
+60
+00:03:34,480 --> 00:03:37,900
+I realize you haven't agreed
+with all my strategies, Captain.
+
+61
+00:03:37,980 --> 00:03:41,650
+But you are smart enough
+and loyal enough to obey my orders.
+
+62
+00:03:42,110 --> 00:03:44,030
+Now, prep those troops!
+
+63
+00:03:54,750 --> 00:03:59,340
+Those missiles have 100 megaton yield.
+We won't even make it to the delta.
+
+64
+00:03:59,670 --> 00:04:01,000
+What can I do?
+
+65
+00:04:01,090 --> 00:04:04,010
+I've tried to reason with him.
+Those are the orders.
+
+66
+00:04:04,090 --> 00:04:06,390
+Great. Another suicide mission.
+
+67
+00:04:06,470 --> 00:04:08,260
+The capital is too well armed.
+
+68
+00:04:08,350 --> 00:04:10,720
+Why does it seem like
+he has it out for clones?
+
+69
+00:04:10,890 --> 00:04:12,890
+I think you're all overreacting.
+
+70
+00:04:12,980 --> 00:04:15,520
+Obviously,
+General Krell knows what he's doing.
+
+71
+00:04:15,560 --> 00:04:18,440
+Do you really think
+he doesn't care if he loses men?
+
+72
+00:04:18,520 --> 00:04:19,980
+I'm not saying that.
+
+73
+00:04:20,030 --> 00:04:23,040
+But I do think his desire for victory
+has blinded him to the fact
+
+74
+00:04:23,110 --> 00:04:25,820
+that there are lives at stake.
+
+75
+00:04:25,860 --> 00:04:28,870
+I've never seen a general
+with these kinds of casualties.
+
+76
+00:04:28,910 --> 00:04:32,450
+He's out of control!
+He's not acting like the other Jedi.
+
+77
+00:04:32,540 --> 00:04:33,950
+He has no respect for us.
+
+78
+00:04:34,330 --> 00:04:38,380
+Listen, I don't agree with him either,
+but I don't have a better plan.
+
+79
+00:04:38,790 --> 00:04:41,840
+What about using these starfighters
+to destroy the supply ship?
+
+80
+00:04:42,010 --> 00:04:43,380
+Our fleet has been trying.
+
+81
+00:04:43,550 --> 00:04:46,220
+The Umbarans have it as protected
+as the capital.
+
+82
+00:04:46,550 --> 00:04:49,720
+But we've got their access codes
+and their own hardware.
+
+83
+00:04:50,010 --> 00:04:51,100
+You were able to crack it?
+
+84
+00:04:51,270 --> 00:04:52,480
+Mmm-hmm.
+
+85
+00:04:52,560 --> 00:04:57,060
+We can sneak right past their blockade,
+get where our ships can't.
+
+86
+00:04:59,060 --> 00:05:03,530
+If we take out that supply ship,
+then we cut off arms to the capital.
+
+87
+00:05:12,410 --> 00:05:14,910
+Sir, with all due respect,
+
+88
+00:05:14,960 --> 00:05:18,380
+might I suggest another option
+to help us secure the capital?
+
+89
+00:05:18,750 --> 00:05:20,460
+What would that be, Captain?
+
+90
+00:05:20,750 --> 00:05:23,170
+My men have cracked the Umbaran codes.
+
+91
+00:05:23,260 --> 00:05:27,430
+With the starfighters, we can sneak past
+the supply ship's defenses.
+
+92
+00:05:27,510 --> 00:05:30,720
+We take it out,
+we cut off the arms to the capital.
+
+93
+00:05:31,430 --> 00:05:34,770
+And who do you propose
+would fly these starfighters?
+
+94
+00:05:34,810 --> 00:05:36,930
+Are your troops now pilots?
+
+95
+00:05:37,600 --> 00:05:39,600
+My men may not be pilots, sir,
+
+96
+00:05:39,690 --> 00:05:42,810
+but they are able to learn
+and adapt quickly.
+
+97
+00:05:42,940 --> 00:05:45,190
+A few of them
+have already demonstrated that.
+
+98
+00:05:45,820 --> 00:05:49,990
+I'm afraid I can't afford to waste
+any clones on frivolous adventures.
+
+99
+00:05:50,660 --> 00:05:54,700
+We're going to need everyone
+to take the capital.
+
+100
+00:05:54,790 --> 00:05:57,750
+Sir, incoming. Sector delta.
+Long-range missiles.
+
+101
+00:06:18,890 --> 00:06:21,980
+The assault on the capital
+
+102
+00:06:22,060 --> 00:06:23,440
+will continue as planned.
+
+103
+00:06:23,980 --> 00:06:27,440
+So that's it?
+We just march into those missiles?
+
+104
+00:06:28,200 --> 00:06:29,750
+Oh, there's another option.
+
+105
+00:06:29,820 --> 00:06:33,200
+We go ahead with our plan,
+and suffer the consequences.
+
+106
+00:06:33,700 --> 00:06:36,660
+You would be court-martialed.
+
+107
+00:06:36,750 --> 00:06:39,510
+If it were up to me,
+and we had the time and the training,
+
+108
+00:06:39,580 --> 00:06:41,830
+I would say, "Do it."
+
+109
+00:06:41,880 --> 00:06:45,600
+But it's out of my hands and the truth is,
+you are no pilots.
+
+110
+00:06:45,880 --> 00:06:49,010
+Come on.
+If Hardcase can fly one of these things,
+
+111
+00:06:49,090 --> 00:06:50,420
+we all can.
+
+112
+00:06:50,510 --> 00:06:54,430
+Yeah, he wasn't really flying.
+More like avoiding crashing.
+
+113
+00:06:54,760 --> 00:06:57,010
+We'll be blasted out of the sky
+before we get anywhere.
+
+114
+00:06:57,350 --> 00:07:01,690
+Not if we're in their fighters.
+No one's gonna be shooting at us.
+
+115
+00:07:03,610 --> 00:07:05,490
+Here comes Dogma.
+
+116
+00:07:05,690 --> 00:07:07,480
+Uh... What's going on?
+
+117
+00:07:08,030 --> 00:07:09,860
+Er... Nothing.
+
+118
+00:07:19,160 --> 00:07:21,750
+This is about
+more than just following orders.
+
+119
+00:07:22,250 --> 00:07:24,540
+It is. It is about honor.
+
+120
+00:07:25,000 --> 00:07:28,130
+Where is the honor
+in marching blindly to our deaths?
+
+121
+00:07:28,710 --> 00:07:30,710
+It is not our call.
+
+122
+00:07:30,800 --> 00:07:32,800
+We are part of something larger.
+
+123
+00:07:32,890 --> 00:07:34,690
+We're not independent of one another.
+
+124
+00:07:35,010 --> 00:07:39,140
+I'm sorry. I cannot just follow orders
+when I know they're wrong.
+
+125
+00:07:39,220 --> 00:07:41,140
+Especially when lives are at stake.
+
+126
+00:07:41,730 --> 00:07:45,520
+You will if you support
+the system we fight for.
+
+127
+00:07:45,810 --> 00:07:48,320
+I do support it. I do!
+
+128
+00:07:48,400 --> 00:07:51,820
+But I am not just another number!
+None of us are!
+
+129
+00:07:52,150 --> 00:07:53,450
+Fives, where are you going?
+
+130
+00:07:54,240 --> 00:07:56,280
+To round up some pilots.
+
+131
+00:08:11,380 --> 00:08:12,550
+All right.
+
+132
+00:08:12,590 --> 00:08:14,510
+Okay, there. Try that out.
+
+133
+00:08:14,760 --> 00:08:16,180
+It should be a little easier.
+
+134
+00:08:21,770 --> 00:08:22,770
+I got it.
+
+135
+00:08:26,270 --> 00:08:27,400
+Whoa!
+
+136
+00:08:31,940 --> 00:08:33,610
+Hardcase, what are you doing?
+
+137
+00:08:34,030 --> 00:08:35,740
+If I knew, I wouldn't be doing it!
+
+138
+00:08:39,120 --> 00:08:40,280
+Look out!
+
+139
+00:08:42,080 --> 00:08:45,120
+Great. This can't get much worse.
+
+140
+00:08:50,630 --> 00:08:54,300
+Sir, there appears to be a disturbance
+in Hangar 9-4.
+
+141
+00:08:56,220 --> 00:08:58,390
+Trooper, what's going on down there?
+
+142
+00:08:58,800 --> 00:09:00,800
+Hey, hey, I got this.
+
+143
+00:09:00,850 --> 00:09:02,470
+<i>Report, Trooper.</i>
+
+144
+00:09:02,560 --> 00:09:05,680
+Er... Yes, sir.
+Everything's fine in the hangar, sir.
+
+145
+00:09:05,770 --> 00:09:07,036
+Nothing's out of control down here.
+
+146
+00:09:07,060 --> 00:09:09,650
+<i>Then why have
+the alarms been triggered?</i>
+
+147
+00:09:11,820 --> 00:09:13,820
+<i>It's just a drill, a safety drill, sir.</i>
+
+148
+00:09:13,900 --> 00:09:17,570
+Safety check occurs at 0600.
+Who authorized this drill?
+
+149
+00:09:18,030 --> 00:09:19,110
+Uh...
+
+150
+00:09:19,160 --> 00:09:22,870
+We are decrypting the alien hardware, sir.
+
+151
+00:09:22,950 --> 00:09:24,490
+Standard operating procedure.
+
+152
+00:09:27,250 --> 00:09:28,330
+That didn't work.
+
+153
+00:09:31,710 --> 00:09:34,000
+Who is this? What's your CT number?
+
+154
+00:09:38,010 --> 00:09:39,630
+<i>Trooper, identify yourself!</i>
+
+155
+00:09:39,930 --> 00:09:41,800
+Okay. How about this?
+
+156
+00:09:44,680 --> 00:09:45,970
+No, no, no, no, no.
+
+157
+00:09:49,770 --> 00:09:51,270
+That's gonna leave a mark.
+
+158
+00:10:01,870 --> 00:10:03,700
+I'm going down there.
+
+159
+00:10:06,910 --> 00:10:10,710
+Got it. I got it. It's easy.
+Just level your hands.
+
+160
+00:10:15,630 --> 00:10:18,300
+What, are you crazy?
+You could've gotten us killed.
+
+161
+00:10:18,550 --> 00:10:21,220
+Not to mention
+ruining our hopes of flying this mission!
+
+162
+00:10:21,890 --> 00:10:24,470
+It's a malfunction, no harm done.
+
+163
+00:10:24,560 --> 00:10:26,560
+Explain this. Now.
+
+164
+00:10:28,690 --> 00:10:31,990
+Sir, we were decrypting the enemy craft
+
+165
+00:10:32,060 --> 00:10:35,320
+when what appears to be
+an enemy booby trap went off.
+
+166
+00:10:35,730 --> 00:10:37,150
+A booby trap?
+
+167
+00:10:37,570 --> 00:10:39,900
+Yes, sir. The fighter went haywire
+
+168
+00:10:39,950 --> 00:10:44,240
+and had I not been able to get control
+of it, and aim the missile at the doors,
+
+169
+00:10:44,330 --> 00:10:46,660
+something worse might've happened.
+
+170
+00:10:47,500 --> 00:10:48,910
+Is this true?
+
+171
+00:10:50,080 --> 00:10:53,250
+Yes, sir. That is what happened, no doubt.
+
+172
+00:10:55,500 --> 00:10:58,210
+Well, Captain Rex,
+looks like I was correct.
+
+173
+00:10:58,550 --> 00:11:00,670
+The Umbaran fighters are dangerous
+
+174
+00:11:00,930 --> 00:11:02,260
+and not fit for flight.
+
+175
+00:11:02,510 --> 00:11:06,600
+But, sir, we now know how they work.
+We just need practice!
+
+176
+00:11:08,520 --> 00:11:10,640
+Lock down these fighters.
+
+177
+00:11:10,730 --> 00:11:12,810
+I don't want anything else exploding.
+
+178
+00:11:15,150 --> 00:11:16,310
+Nice work.
+
+179
+00:11:16,400 --> 00:11:19,940
+Now we know how to fly them,
+and we won't be able to get near them.
+
+180
+00:11:20,030 --> 00:11:23,990
+Oh, come on. That won't stop us.
+It's just procedure.
+
+181
+00:11:24,070 --> 00:11:28,080
+We can sneak in and be out
+before Krell knows anything.
+
+182
+00:11:29,910 --> 00:11:33,500
+I thought the plan was to destroy
+the enemy ship with the fighters,
+
+183
+00:11:33,580 --> 00:11:35,290
+not blow up our own hangar.
+
+184
+00:11:35,630 --> 00:11:37,960
+Look, I agree we should
+go through with this.
+
+185
+00:11:38,050 --> 00:11:40,420
+So, are you two volunteering
+to be my pilots or what?
+
+186
+00:11:40,800 --> 00:11:43,930
+I'm in regardless of the consequences.
+
+187
+00:11:44,300 --> 00:11:47,020
+Flying these fighters beats
+blindly walking into a bunch of missiles,
+
+188
+00:11:47,100 --> 00:11:50,520
+so, I'm in. We just need a plan.
+
+189
+00:11:50,730 --> 00:11:52,060
+Already got one.
+
+190
+00:11:52,140 --> 00:11:55,520
+General Skywalker blew up a droid
+control ship when he was just a kid.
+
+191
+00:11:55,650 --> 00:12:00,150
+And he told me the trick was hitting
+the main reactor from the inside.
+
+192
+00:12:00,280 --> 00:12:01,320
+Oh.
+
+193
+00:12:01,360 --> 00:12:03,740
+Well, that won't be so tough.
+
+194
+00:12:09,580 --> 00:12:11,160
+I want a full perimeter sweep.
+
+195
+00:12:11,580 --> 00:12:13,500
+Be on high alert.
+
+196
+00:12:17,340 --> 00:12:20,760
+Fives, what are you doing out here?
+You should be in the barracks.
+
+197
+00:12:21,170 --> 00:12:24,260
+I found my pilots.
+We're going after that supply ship.
+
+198
+00:12:24,680 --> 00:12:26,470
+Are you out of your mind?
+
+199
+00:12:26,510 --> 00:12:29,510
+It's a suicide mission,
+not to mention against orders.
+
+200
+00:12:29,770 --> 00:12:31,570
+It's the right thing to do.
+
+201
+00:12:31,930 --> 00:12:33,390
+We have to try.
+
+202
+00:12:33,850 --> 00:12:37,480
+It sounds like you intend
+to go through with it.
+
+203
+00:12:37,860 --> 00:12:40,940
+If you're going to try to stop us,
+we need to know.
+
+204
+00:12:43,530 --> 00:12:45,860
+I can't help you when you get caught.
+
+205
+00:12:46,620 --> 00:12:48,500
+I understand, sir.
+
+206
+00:13:33,660 --> 00:13:36,080
+Hey. Hey, Tup.
+
+207
+00:13:36,160 --> 00:13:37,540
+Wake up!
+
+208
+00:13:38,830 --> 00:13:41,170
+What? I'm trying to sleep.
+
+209
+00:13:41,960 --> 00:13:43,130
+Where are they?
+
+210
+00:13:44,260 --> 00:13:45,960
+- Who?
+- You know.
+
+211
+00:13:47,970 --> 00:13:50,470
+Don't tell me
+they're going to disobey orders.
+
+212
+00:13:51,010 --> 00:13:53,560
+Well, I didn't say that.
+
+213
+00:13:56,310 --> 00:13:58,100
+You know we have to tell the General.
+
+214
+00:13:58,650 --> 00:14:00,610
+No. No, no, no, you can't.
+
+215
+00:14:01,650 --> 00:14:03,730
+We have to tell him.
+
+216
+00:14:03,780 --> 00:14:07,250
+If we know what they're up to,
+and we keep our mouths shut,
+
+217
+00:14:07,280 --> 00:14:10,030
+then we'll be complicit
+in their insubordination.
+
+218
+00:14:10,620 --> 00:14:13,080
+Do you really want to be court-martialed?
+
+219
+00:14:19,080 --> 00:14:20,080
+Look, sir!
+
+220
+00:14:35,020 --> 00:14:37,110
+These things are trickier
+than I imagined.
+
+221
+00:14:37,140 --> 00:14:38,470
+I hope this is a good idea.
+
+222
+00:14:38,810 --> 00:14:40,480
+Well, it's better than Krell's plan.
+
+223
+00:14:43,060 --> 00:14:45,770
+I'm only doing this
+because I don't like him.
+
+224
+00:14:46,150 --> 00:14:47,480
+That's reason enough.
+
+225
+00:14:48,030 --> 00:14:50,610
+I'm just doing it for fun.
+
+226
+00:15:00,500 --> 00:15:01,580
+Whoa! What the...
+
+227
+00:15:16,390 --> 00:15:18,770
+Try to fly steady. We're going in!
+
+228
+00:15:36,790 --> 00:15:38,710
+I'm really not liking this.
+
+229
+00:15:39,040 --> 00:15:41,700
+Easy, Hardcase.
+Don't get an itchy trigger finger.
+
+230
+00:15:58,720 --> 00:16:00,850
+Looks like they think
+we're Umbaran, all right.
+
+231
+00:16:01,480 --> 00:16:03,810
+There's the supply ship! Follow me!
+
+232
+00:16:04,230 --> 00:16:05,690
+Let's do this.
+
+233
+00:16:12,240 --> 00:16:16,530
+Captain, my flight officer reports
+the launch of three starfighters.
+
+234
+00:16:16,910 --> 00:16:18,910
+I thought I ordered
+those ships locked down.
+
+235
+00:16:19,240 --> 00:16:20,790
+Sorry for the confusion, sir.
+
+236
+00:16:20,870 --> 00:16:22,790
+I authorized the recon of the delta
+
+237
+00:16:22,870 --> 00:16:25,250
+in preparation
+for your attack on the capital.
+
+238
+00:16:25,670 --> 00:16:29,420
+You took it under your own authority
+to launch such a reconnaissance?
+
+239
+00:16:29,670 --> 00:16:33,420
+Oh, yes, sir. I'm sure the report
+will make your strategy more effective.
+
+240
+00:16:33,760 --> 00:16:37,180
+I want that report
+as soon as they are back.
+
+241
+00:16:44,810 --> 00:16:46,600
+Hey, where are you two going?
+
+242
+00:16:48,900 --> 00:16:51,110
+I asked you a question, troopers.
+
+243
+00:16:51,440 --> 00:16:53,820
+We are going to speak
+with the General, sir.
+
+244
+00:16:54,030 --> 00:16:55,570
+Regarding what?
+
+245
+00:16:56,070 --> 00:16:57,820
+A personal matter.
+
+246
+00:16:58,370 --> 00:17:02,120
+Why don't you tell me,
+and I'll report it to the General?
+
+247
+00:17:03,080 --> 00:17:06,830
+On second thoughts,
+sir, it's not important.
+
+248
+00:17:10,130 --> 00:17:12,630
+Yeah, that's what I thought.
+
+249
+00:17:22,060 --> 00:17:25,310
+Okay. Break time is over. Get back to work.
+
+250
+00:17:28,310 --> 00:17:29,350
+Hey!
+
+251
+00:17:31,980 --> 00:17:33,730
+Clones? Intruders!
+
+252
+00:17:36,320 --> 00:17:39,320
+Uh... Sir, there are clones
+in the main hangar.
+
+253
+00:17:39,820 --> 00:17:43,790
+Impossible.
+The probability of that is 10,003 to 1.
+
+254
+00:17:51,000 --> 00:17:53,000
+Why do they have
+to go and do that?
+
+255
+00:18:03,810 --> 00:18:07,560
+Uh, sir, we have confirmed that
+there are three commandeered starfighters
+
+256
+00:18:07,640 --> 00:18:09,100
+heading toward the main reactor.
+
+257
+00:18:09,730 --> 00:18:11,440
+Strengthen our defenses.
+
+258
+00:18:12,320 --> 00:18:14,910
+Reactor core locked, prepare missiles.
+
+259
+00:18:16,610 --> 00:18:17,610
+Fire missiles!
+
+260
+00:18:20,120 --> 00:18:21,750
+Activate ray shields.
+
+261
+00:18:21,950 --> 00:18:22,950
+Roger, roger.
+
+262
+00:18:25,580 --> 00:18:27,040
+Ray shields. Hit the deck!
+
+263
+00:18:30,710 --> 00:18:33,210
+This may have been a bad idea after all.
+
+264
+00:18:33,500 --> 00:18:34,630
+Intruder alert!
+
+265
+00:18:40,340 --> 00:18:42,090
+Our shields are sure taking a beating.
+
+266
+00:18:45,390 --> 00:18:47,220
+We can't turn back now!
+
+267
+00:18:49,230 --> 00:18:50,480
+Cover me!
+
+268
+00:18:50,810 --> 00:18:52,730
+Hardcase! Get back on your ship!
+
+269
+00:18:53,020 --> 00:18:54,560
+Trust me! I've got a plan!
+
+270
+00:18:58,490 --> 00:19:01,700
+This is for the 501st! Don't wait for me!
+
+271
+00:19:01,870 --> 00:19:03,250
+Hardcase! No!
+
+272
+00:19:03,870 --> 00:19:06,330
+You've disobeyed enough orders today, sir.
+
+273
+00:19:06,410 --> 00:19:09,330
+Follow this one. Get out of here!
+
+274
+00:19:14,750 --> 00:19:17,170
+If I know Hardcase, we'd better leave.
+
+275
+00:19:28,430 --> 00:19:30,390
+Live to fight another day, boys.
+
+276
+00:19:30,940 --> 00:19:32,530
+Live to fight another day.
+
+277
+00:19:40,110 --> 00:19:41,650
+Come on. Come on!
+
+278
+00:20:13,980 --> 00:20:15,100
+They did it.
+
+279
+00:20:17,190 --> 00:20:18,980
+Where's Hardcase?
+
+280
+00:20:19,820 --> 00:20:21,150
+He didn't make it.
+
+281
+00:20:21,650 --> 00:20:23,400
+We couldn't have done it without him.
+
+282
+00:20:31,450 --> 00:20:33,410
+General Krell would like to see them
+in the tower.
+
+283
+00:20:40,090 --> 00:20:42,130
+You want to see them, sir?
+
+284
+00:20:43,130 --> 00:20:44,340
+Indeed.
+
+285
+00:20:46,840 --> 00:20:50,050
+It seems they have accomplished
+a very brave act.
+
+286
+00:20:50,140 --> 00:20:53,430
+Unfortunately, they've also
+committed a serious crime
+
+287
+00:20:53,520 --> 00:20:56,020
+by directly disobeying my order.
+
+288
+00:20:56,560 --> 00:20:58,190
+With all due respect, sir,
+
+289
+00:20:58,270 --> 00:21:01,190
+the order to attack the cargo vessel
+was mine.
+
+290
+00:21:01,280 --> 00:21:04,610
+If there's a punishment to be given,
+it should be directed toward me.
+
+291
+00:21:04,780 --> 00:21:06,030
+I'm their commanding officer.
+
+292
+00:21:06,070 --> 00:21:08,490
+General, sir, Captain Rex is attempting
+to take the blame
+
+293
+00:21:08,530 --> 00:21:09,886
+for actions that were clearly mine.
+
+294
+00:21:09,910 --> 00:21:10,910
+Fives!
+
+295
+00:21:11,410 --> 00:21:15,960
+I request that his admission of guilt
+be denied and full blame placed upon me.
+
+296
+00:21:16,620 --> 00:21:18,210
+Oh, do you?
+
+297
+00:21:18,290 --> 00:21:21,130
+You willfully countermand my direct order,
+
+298
+00:21:21,210 --> 00:21:23,460
+and now you have the audacity
+
+299
+00:21:23,630 --> 00:21:27,680
+to request who should bear the punishment
+of your insurrection?
+
+300
+00:21:28,930 --> 00:21:32,890
+Let me be clear about the punishment
+for the treason committed by ARC trooper
+
+301
+00:21:32,970 --> 00:21:34,310
+5555,
+
+302
+00:21:34,520 --> 00:21:37,020
+and CT-5597.
+
+303
+00:21:37,270 --> 00:21:41,310
+They will be court-martialed,
+they will be found guilty.
+
+304
+00:21:41,400 --> 00:21:43,610
+And they will be executed!
+
+305
+00:21:45,860 --> 00:21:48,030
+Make no mistake.
+
+306
+00:21:48,070 --> 00:21:50,450
+For crossing me,
+
+307
+00:21:50,530 --> 00:21:52,740
+you will pay the price.
+

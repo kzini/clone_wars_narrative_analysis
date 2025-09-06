@@ -1,0 +1,828 @@
+﻿1
+00:00:18,490 --> 00:00:19,530
+<i>Kidnapped!</i>
+
+2
+00:00:19,620 --> 00:00:22,330
+<i>During a Separatist invasion
+of the planet Kiros,</i>
+
+3
+00:00:22,460 --> 00:00:26,510
+<i>thousands of peaceful colonists
+were abducted by Zygerrian slavers.</i>
+
+4
+00:00:27,330 --> 00:00:31,380
+<i>Determined to find the missing colonists,
+the Jedi travel to Zygerria,</i>
+
+5
+00:00:31,510 --> 00:00:34,850
+<i>home to the galaxy's
+most notorious slave empire.</i>
+
+6
+00:00:47,810 --> 00:00:50,650
+It looks like Zygerria
+is a popular place these days.
+
+7
+00:00:50,730 --> 00:00:51,770
+Hmm.
+
+8
+00:00:51,820 --> 00:00:55,860
+Whatever is happening
+is attracting plenty of high class scum.
+
+9
+00:01:20,850 --> 00:01:24,180
+Let's just hope the information our spies
+gave us about the Queen is accurate.
+
+10
+00:01:24,520 --> 00:01:26,180
+Remember, I'll keep her occupied
+
+11
+00:01:26,270 --> 00:01:28,690
+while you locate
+the missing people of Kiros.
+
+12
+00:01:28,770 --> 00:01:32,060
+How do you plan
+on keeping the Queen occupied?
+
+13
+00:01:33,360 --> 00:01:37,860
+- With my magnetic charm, of course.
+- Oh, yes, of course.
+
+14
+00:01:38,780 --> 00:01:40,700
+Hold on to this, will you, buddy?
+
+15
+00:01:56,470 --> 00:01:59,980
+Remind me why I'm the one
+playing the part of the slave?
+
+16
+00:02:00,050 --> 00:02:02,890
+I tried it once, I wasn't any good at it.
+
+17
+00:02:02,930 --> 00:02:06,640
+Besides, the role of master
+comes easily to me.
+
+18
+00:02:06,890 --> 00:02:10,310
+Really? Well, this time
+try to be convincing at it.
+
+19
+00:02:28,870 --> 00:02:29,910
+Ugh!
+
+20
+00:02:29,960 --> 00:02:33,790
+How can a civilization this advanced
+still practice slavery?
+
+21
+00:02:33,920 --> 00:02:37,210
+It makes them wealthy and powerful
+at the expense of others.
+
+22
+00:02:37,260 --> 00:02:42,050
+Before the Hutts bought my mother,
+she was sold in a market just like this.
+
+23
+00:02:53,560 --> 00:02:55,940
+Get up, you useless skug.
+
+24
+00:02:56,320 --> 00:02:59,780
+Master, the bonds, they are too heavy.
+
+25
+00:03:01,110 --> 00:03:02,950
+Tell it to my whip.
+
+26
+00:03:06,410 --> 00:03:08,490
+You don't want to do that.
+
+27
+00:03:11,120 --> 00:03:12,790
+You dare touch me!
+
+28
+00:03:12,920 --> 00:03:16,790
+Excuse my slave, friend.
+She is freshly caught.
+
+29
+00:03:17,550 --> 00:03:20,090
+Hmm. What have we here?
+
+30
+00:03:20,130 --> 00:03:24,090
+You wear Zygerrian armor,
+but you are not one of us.
+
+31
+00:03:24,930 --> 00:03:26,300
+Who are you?
+
+32
+00:03:26,640 --> 00:03:28,680
+I've come for an audience with the Queen.
+
+33
+00:03:29,140 --> 00:03:31,180
+Then you have an invitation?
+
+34
+00:03:31,310 --> 00:03:34,480
+We can't just let anyone in
+to speak with Her Majesty.
+
+35
+00:03:34,860 --> 00:03:40,200
+No invitation, but I do bring news,
+news the Queen will be eager to hear.
+
+36
+00:03:40,860 --> 00:03:44,320
+I doubt that,
+you're nothing more than a brigand.
+
+37
+00:03:44,530 --> 00:03:48,120
+I wouldn't say that,
+especially when the Queen learns
+
+38
+00:03:48,160 --> 00:03:52,160
+you prevented her from hearing
+the news about Bruno Denturri.
+
+39
+00:03:55,330 --> 00:03:58,000
+<i>Halt! Cease all hostilities.</i>
+
+40
+00:03:58,630 --> 00:04:02,510
+<i>This man is to be escorted to the palace,
+by order of the Queen.</i>
+
+41
+00:04:33,160 --> 00:04:37,040
+Make certain all preparations
+are complete for this evening.
+
+42
+00:04:42,050 --> 00:04:44,050
+And fetch refreshments.
+
+43
+00:04:44,840 --> 00:04:48,590
+My Queen, I present Lars Quell.
+
+44
+00:04:49,010 --> 00:04:50,050
+Hmm.
+
+45
+00:04:50,100 --> 00:04:54,560
+So, you are the man who claims
+to be acquainted with Bruno Denturri?
+
+46
+00:04:55,020 --> 00:04:56,560
+Yes, Your Highness.
+
+47
+00:04:56,690 --> 00:05:00,770
+However, when I spoke with him
+he failed to describe your beauty.
+
+48
+00:05:03,070 --> 00:05:04,320
+Really?
+
+49
+00:05:04,400 --> 00:05:07,780
+And did Bruno
+speak of my intense hatred of him?
+
+50
+00:05:08,200 --> 00:05:10,910
+Or did that escape his memory as well?
+
+51
+00:05:12,620 --> 00:05:15,250
+He needed not speak of it, Your Majesty.
+
+52
+00:05:15,290 --> 00:05:20,750
+In fact, Bruno Denturri
+will not be speaking ever again.
+
+53
+00:05:21,960 --> 00:05:23,380
+What do you mean?
+
+54
+00:05:23,760 --> 00:05:27,050
+Bruno Denturri is dead by my hand.
+
+55
+00:05:27,090 --> 00:05:31,090
+Here is a slave from his palace,
+compensation for my efforts.
+
+56
+00:05:33,310 --> 00:05:35,100
+Unhand me, brigand!
+
+57
+00:05:39,060 --> 00:05:41,230
+You impress me, Lars Quell.
+
+58
+00:05:42,730 --> 00:05:44,940
+She is quite a prize.
+
+59
+00:05:45,070 --> 00:05:48,240
+And to have defeated
+Bruno Denturri in combat,
+
+60
+00:05:50,320 --> 00:05:52,740
+you must be quite the warrior.
+
+61
+00:05:53,290 --> 00:05:54,380
+Hmm.
+
+62
+00:05:54,700 --> 00:05:55,790
+Mmm-hmm.
+
+63
+00:05:55,830 --> 00:05:58,460
+The slave is certainly of fine stock,
+
+64
+00:05:58,580 --> 00:06:02,130
+Bruno always knew
+how to choose a beautiful female.
+
+65
+00:06:02,170 --> 00:06:04,960
+Don't you dare touch me!
+
+66
+00:06:08,760 --> 00:06:10,680
+Though she will have to be processed.
+
+67
+00:06:11,470 --> 00:06:14,260
+Her demeanor leaves much to be desired.
+
+68
+00:06:14,850 --> 00:06:16,640
+What is your price for her?
+
+69
+00:06:16,930 --> 00:06:20,310
+With respect,
+how can I price the beauty of this slave,
+
+70
+00:06:20,480 --> 00:06:23,190
+when I look upon
+the magnificence of Your Highness,
+
+71
+00:06:23,320 --> 00:06:27,120
+whose beauty would make
+the brightest star seem dull by comparison.
+
+72
+00:06:28,280 --> 00:06:30,320
+Lars Quell, you flatter me.
+
+73
+00:06:30,990 --> 00:06:33,490
+No, Your Majesty, however...
+
+74
+00:06:39,160 --> 00:06:41,460
+Lars, stop it. Stop it!
+
+75
+00:06:42,500 --> 00:06:44,170
+You are a bold one, aren't you?
+
+76
+00:06:44,840 --> 00:06:47,380
+My reputation precedes me then.
+
+77
+00:06:47,510 --> 00:06:50,880
+Perhaps we can find a way
+to put a price on your slave.
+
+78
+00:06:51,010 --> 00:06:52,840
+Come, walk with me.
+
+79
+00:07:30,010 --> 00:07:32,090
+Sir, take a look at this.
+
+80
+00:07:38,060 --> 00:07:40,720
+Stand watch, I'll take a closer look.
+
+81
+00:07:45,020 --> 00:07:46,350
+Governor Roshti?
+
+82
+00:07:46,730 --> 00:07:49,730
+No! No!
+
+83
+00:07:50,610 --> 00:07:54,400
+Governor, I'm a friend,
+a Jedi, here to help.
+
+84
+00:07:55,450 --> 00:07:57,950
+- Where are your people?
+- They're...
+
+85
+00:08:10,050 --> 00:08:12,420
+- Sir, did you find out where the others are?
+- Not yet.
+
+86
+00:08:13,090 --> 00:08:14,630
+We've got to get him out of here.
+
+87
+00:08:25,940 --> 00:08:28,810
+You there,
+what are you doing with that slave?
+
+88
+00:09:00,930 --> 00:09:03,970
+Slavery is the natural order of things.
+
+89
+00:09:04,020 --> 00:09:05,600
+The weak deserve nothing more
+
+90
+00:09:05,640 --> 00:09:09,480
+than to kneel before the strong,
+bound to our service.
+
+91
+00:09:09,520 --> 00:09:14,480
+I will need men with your talents
+to spread our ways across the galaxy.
+
+92
+00:09:20,660 --> 00:09:22,740
+Let me go!
+
+93
+00:09:23,660 --> 00:09:28,620
+You dare raise a hand against your master.
+Clearly you require further processing.
+
+94
+00:09:29,130 --> 00:09:32,340
+No! I won't go back there.
+
+95
+00:09:33,760 --> 00:09:35,140
+Wait! Stop!
+
+96
+00:09:41,640 --> 00:09:43,010
+Such a waste.
+
+97
+00:09:43,140 --> 00:09:46,520
+But perhaps she was more trouble
+than she's worth.
+
+98
+00:09:46,600 --> 00:09:50,690
+But you, Lars,
+you are proving quite resourceful.
+
+99
+00:09:52,360 --> 00:09:56,360
+Very well, I will pay your price
+for this slave girl.
+
+100
+00:09:57,030 --> 00:10:00,860
+It seems
+I am in need of a new servant.
+
+101
+00:10:03,700 --> 00:10:06,450
+She is my gift to you, Your Highness.
+
+102
+00:10:07,710 --> 00:10:12,040
+You are a man of many surprises.
+It pleases me.
+
+103
+00:10:12,960 --> 00:10:15,630
+I wish you to be my guest
+at the slave auction,
+
+104
+00:10:15,710 --> 00:10:17,710
+and to sit at my side.
+
+105
+00:10:30,730 --> 00:10:31,730
+Well...
+
+106
+00:10:34,020 --> 00:10:38,650
+- Who is he?
+- He hasn't talked, but I'll loosen his tongue.
+
+107
+00:10:40,700 --> 00:10:44,410
+Why would a slaver
+try to rescue a slave from the palace?
+
+108
+00:10:45,740 --> 00:10:47,240
+It's suicide.
+
+109
+00:10:50,750 --> 00:10:55,540
+Wait. I know you from the hologram.
+
+110
+00:10:58,010 --> 00:11:00,010
+I never forget a Jedi.
+
+111
+00:11:09,270 --> 00:11:14,810
+Your Highness, Zygerrians,
+and guests from a thousand worlds,
+
+112
+00:11:14,940 --> 00:11:16,230
+our auction begins
+
+113
+00:11:16,270 --> 00:11:22,320
+with slaves of unmatched quality
+and impossible quantity.
+
+114
+00:11:22,990 --> 00:11:27,620
+I give you Togruta from the Kiros System!
+
+115
+00:11:32,210 --> 00:11:34,120
+Oh, no.
+
+116
+00:11:34,790 --> 00:11:38,290
+This handsome sample
+represents a lot of numbering,
+
+117
+00:11:38,340 --> 00:11:42,170
+no less than 50,000 beings.
+
+118
+00:11:43,090 --> 00:11:45,140
+Note the compliance.
+
+119
+00:11:45,800 --> 00:11:48,430
+Virtually untrained in combat.
+
+120
+00:11:48,470 --> 00:11:51,600
+There will be no rebellion
+from these slaves.
+
+121
+00:11:51,640 --> 00:11:55,810
+So where do you keep 50,000 slaves,
+like the people of Kiros?
+
+122
+00:11:59,320 --> 00:12:01,990
+Your Majesty, I have urgent news.
+
+123
+00:12:08,660 --> 00:12:10,990
+All will be revealed in time.
+
+124
+00:12:14,540 --> 00:12:18,880
+Before we begin the auction,
+I would welcome a most special guest,
+
+125
+00:12:19,710 --> 00:12:24,170
+Obi-Wan Kenobi, Jedi knight!
+
+126
+00:12:25,510 --> 00:12:29,350
+Down with the Jedi!
+The Jedi are not so tough.
+
+127
+00:12:29,970 --> 00:12:34,140
+My friends, my good friends,
+do not fear the Jedi.
+
+128
+00:12:34,520 --> 00:12:38,190
+They are no different from others
+we have forced into submission,
+
+129
+00:12:38,230 --> 00:12:42,570
+for they have forsaken their ideals
+to serve a corrupt Senate.
+
+130
+00:12:42,690 --> 00:12:45,740
+Every Jedi
+has become a slave to the Republic.
+
+131
+00:12:46,700 --> 00:12:50,910
+The Jedi Order is weak,
+and we will help break it.
+
+132
+00:12:53,540 --> 00:12:55,710
+Teach the Jedi his place.
+
+133
+00:13:17,980 --> 00:13:23,820
+Whip the Jedi! Whip the Jedi!
+Whip the Jedi! Whip the Jedi!
+
+134
+00:13:24,740 --> 00:13:28,400
+Looks like
+I have to rescue you again, old man.
+
+135
+00:13:28,490 --> 00:13:30,910
+I knew you'd have a backup plan.
+
+136
+00:13:35,870 --> 00:13:40,670
+Prove to me you are a slaver.
+Swing that whip, or die beside him.
+
+137
+00:13:43,170 --> 00:13:45,420
+Those are some lousy options.
+
+138
+00:13:55,520 --> 00:13:58,060
+You leave me no choice, Highness.
+
+139
+00:14:12,280 --> 00:14:13,910
+Guards, subdue them!
+
+140
+00:14:33,890 --> 00:14:35,100
+Ahsoka, the Queen!
+
+141
+00:14:36,470 --> 00:14:39,310
+Looks like your slave empire
+is finished, again.
+
+142
+00:14:39,640 --> 00:14:42,940
+Get that thing out of my face,
+you little skug!
+
+143
+00:15:20,350 --> 00:15:22,190
+Such determination.
+
+144
+00:15:44,330 --> 00:15:47,840
+You destroyed my auction
+and frightened my customers.
+
+145
+00:15:49,420 --> 00:15:52,720
+Count Dooku and half my kingdom
+are demanding your death.
+
+146
+00:15:54,840 --> 00:15:59,510
+You should have listened to them.
+My friends, where are they?
+
+147
+00:16:02,230 --> 00:16:06,440
+Continue to misbehave and they die.
+
+148
+00:16:13,860 --> 00:16:18,410
+A most curious Jedi who cares more
+about his friends than his own mission.
+
+149
+00:16:18,540 --> 00:16:20,420
+Hero. General.
+
+150
+00:16:22,250 --> 00:16:24,080
+And now my servant.
+
+151
+00:16:28,040 --> 00:16:29,920
+I will not serve you.
+
+152
+00:16:32,260 --> 00:16:34,920
+Your heart is not in your words.
+
+153
+00:16:35,050 --> 00:16:38,720
+You will stand beside me,
+a testament to my power.
+
+154
+00:16:39,430 --> 00:16:42,930
+Here, my bodyguard will need a weapon.
+
+155
+00:16:44,140 --> 00:16:48,770
+And you need not worry about your friends,
+they will be quite safe.
+
+156
+00:17:08,290 --> 00:17:11,170
+The Queen has promised
+once the other Jedi is tamed,
+
+157
+00:17:11,760 --> 00:17:14,470
+you will be mine, little skug.
+
+158
+00:17:17,050 --> 00:17:18,130
+Whoa!
+
+159
+00:17:23,980 --> 00:17:26,190
+You better hope that doesn't happen.
+
+160
+00:18:14,070 --> 00:18:16,530
+My people, we have found them.
+
+161
+00:18:17,360 --> 00:18:18,860
+Keep moving, skug.
+
+162
+00:18:24,490 --> 00:18:27,870
+General Kenobi, you are the first Jedi
+
+163
+00:18:27,910 --> 00:18:31,710
+I have entertained
+at our educational center.
+
+164
+00:18:32,540 --> 00:18:36,170
+Few possess a Jedi's resolve,
+
+165
+00:18:36,210 --> 00:18:39,880
+and it is strength of will
+that is my greatest enemy.
+
+166
+00:18:54,020 --> 00:18:56,900
+Now that I have your attention, Jedi,
+
+167
+00:18:57,030 --> 00:19:02,700
+be aware that it will not be you
+who suffers should you defy me.
+
+168
+00:19:12,420 --> 00:19:15,080
+You were once a slave, weren't you?
+
+169
+00:19:15,210 --> 00:19:17,590
+What makes you think I was a slave?
+
+170
+00:19:17,760 --> 00:19:20,600
+The noble selflessness in your eyes.
+
+171
+00:19:20,720 --> 00:19:24,640
+Your commitment to the service
+of something greater than yourself.
+
+172
+00:19:24,760 --> 00:19:29,060
+Your Jedi, the grand Republic,
+even your friends.
+
+173
+00:19:29,810 --> 00:19:31,980
+I don't see commitment as slavery.
+
+174
+00:19:32,100 --> 00:19:35,230
+Oh, it is when it comes
+at the cost of yourself.
+
+175
+00:19:36,610 --> 00:19:38,440
+What you could be!
+
+176
+00:19:38,480 --> 00:19:43,450
+With you willingly beside me,
+there is nothing we could not accomplish.
+
+177
+00:19:43,570 --> 00:19:46,620
+We are nothing. You have all the power.
+
+178
+00:20:11,810 --> 00:20:13,980
+What if I freed your friends?
+
+179
+00:20:14,100 --> 00:20:17,150
+Would you promise to stay?
+Commit to serving me?
+
+180
+00:20:19,190 --> 00:20:24,650
+If a Jedi as noble as you gave his word,
+I think you might keep it.
+
+181
+00:20:25,370 --> 00:20:27,500
+I don't trust you.
+
+182
+00:20:27,530 --> 00:20:33,000
+Have I been anything but honest?
+I have no reason to lie. I am who I am.
+
+183
+00:20:33,040 --> 00:20:36,040
+It is you, you,
+who are the complicated one.
+
+184
+00:20:36,830 --> 00:20:42,210
+Now, Master Skywalker, the future
+of your friends lays in your hands.
+
+185
+00:20:42,340 --> 00:20:47,010
+If they are to live as slaves,
+it will be you who keeps them that way.
+

@@ -1,0 +1,1217 @@
+﻿1
+00:00:19,102 --> 00:00:20,902
+<i>The battle for Anaxes!</i>
+
+2
+00:00:20,979 --> 00:00:23,729
+<i>One of the Republic's largest shipyards</i>
+<i>is under attack</i>
+
+3
+00:00:23,815 --> 00:00:26,225
+<i>from Admiral Trench's Separatist Forces.</i>
+
+4
+00:00:26,317 --> 00:00:29,237
+<i>Jedi Generals Mace Windu</i>
+<i>and Anakin Skywalker</i>
+
+5
+00:00:29,320 --> 00:00:32,620
+<i>lead a two-pronged assault</i>
+<i>on the ground and in the air.</i>
+
+6
+00:00:32,699 --> 00:00:35,579
+<i>But after weeks of heated battle</i>
+<i>and mounting losses,</i>
+
+7
+00:00:35,660 --> 00:00:39,500
+<i>the Republic's grip on Anaxes</i>
+<i>begins to slip away.</i>
+
+8
+00:00:49,758 --> 00:00:52,338
+The droids have overrun
+our main production facility.
+
+9
+00:00:52,427 --> 00:00:54,757
+It won't be long before
+the Separatists take Anaxes,
+
+10
+00:00:54,846 --> 00:00:57,136
+compromising our entire reserve fleet.
+
+11
+00:00:58,308 --> 00:00:59,928
+Pardon the interruption, General,
+
+12
+00:01:00,018 --> 00:01:04,058
+but Rex here has a good theory
+on why we keep, uh... losing.
+
+13
+00:01:04,314 --> 00:01:06,154
+Please, Captain.
+
+14
+00:01:06,232 --> 00:01:09,612
+The droid army uses analytics
+to predict our strategy.
+
+15
+00:01:09,694 --> 00:01:12,414
+The first time we use a tactic,
+it's very effective.
+
+16
+00:01:12,489 --> 00:01:14,319
+The next, less so.
+
+17
+00:01:14,407 --> 00:01:16,447
+In fact, the more we use a certain tactic,
+
+18
+00:01:16,868 --> 00:01:18,828
+the less effective it becomes.
+
+19
+00:01:18,912 --> 00:01:22,502
+They learn our tendencies
+and use that data against us.
+
+20
+00:01:22,916 --> 00:01:23,956
+To counter them,
+
+21
+00:01:24,042 --> 00:01:27,552
+we're constantly working out ways
+to vary our attack.
+
+22
+00:01:28,004 --> 00:01:32,264
+But the losses we are experiencing
+on Anaxes are not commonplace.
+
+23
+00:01:32,342 --> 00:01:33,472
+Exactly.
+
+24
+00:01:33,551 --> 00:01:35,931
+The counterattacks are so specific,
+
+25
+00:01:36,012 --> 00:01:39,522
+it's my strategy the droids know,
+my playbook.
+
+26
+00:01:40,016 --> 00:01:42,726
+My concern is that Rex is one of our best.
+
+27
+00:01:42,811 --> 00:01:46,941
+If the droids can learn to defeat him,
+we may all be vulnerable.
+
+28
+00:01:47,273 --> 00:01:48,483
+What do you propose?
+
+29
+00:01:49,275 --> 00:01:52,395
+Let Rex and me take a small squad
+behind enemy lines.
+
+30
+00:01:52,946 --> 00:01:54,356
+There's a Separatist Cyber Center
+
+31
+00:01:54,447 --> 00:01:57,947
+which relays all battlefield intel
+to their command ship.
+
+32
+00:01:58,034 --> 00:02:00,874
+If we're going to find anything,
+it will be there.
+
+33
+00:02:01,871 --> 00:02:04,961
+If you think it will help
+turn this fight around, get going.
+
+34
+00:02:05,375 --> 00:02:06,625
+Thank you, General.
+
+35
+00:02:07,252 --> 00:02:10,632
+Rex, is there anything else?
+
+36
+00:02:12,549 --> 00:02:13,679
+No, General.
+
+37
+00:02:43,246 --> 00:02:45,286
+Come on, Rex. Time to move out.
+
+38
+00:02:46,666 --> 00:02:49,286
+Fives, Echo,
+
+39
+00:02:49,377 --> 00:02:50,797
+and before that, Hevy.
+
+40
+00:02:51,379 --> 00:02:53,589
+There's so many troopers gone.
+
+41
+00:02:54,799 --> 00:02:57,589
+Yeah, regular folk don't understand.
+
+42
+00:02:58,178 --> 00:03:01,058
+Sometimes in war,
+it's hard to be the one that survives.
+
+43
+00:03:01,473 --> 00:03:03,643
+That's what I'm worried about.
+
+44
+00:03:04,184 --> 00:03:05,194
+Well, what do you mean?
+
+45
+00:03:06,561 --> 00:03:07,941
+I didn't tell the Generals.
+
+46
+00:03:08,855 --> 00:03:10,435
+They might think I'm crazy.
+
+47
+00:03:10,523 --> 00:03:13,073
+In fact, you might think I'm crazy.
+
+48
+00:03:13,610 --> 00:03:14,820
+What is it?
+
+49
+00:03:15,320 --> 00:03:17,030
+I think Echo's alive.
+
+50
+00:03:17,947 --> 00:03:20,987
+That's not possible.
+He died at the Citadel.
+
+51
+00:03:21,409 --> 00:03:23,449
+The way the droids are countering us here,
+
+52
+00:03:23,536 --> 00:03:24,906
+the strategies I'm using,
+
+53
+00:03:24,996 --> 00:03:28,576
+they're all old battle plans
+Echo and I drew up together.
+
+54
+00:03:28,917 --> 00:03:32,997
+Look, Rex, I hear what you're saying.
+But it's just not possible.
+
+55
+00:03:34,089 --> 00:03:35,129
+I hope you're right.
+
+56
+00:03:35,548 --> 00:03:39,928
+But the fact is, Echo's fingerprints
+are all over these Separatist strategies.
+
+57
+00:03:40,011 --> 00:03:41,101
+Rex.
+
+58
+00:03:41,179 --> 00:03:44,719
+You have to admit what you're saying
+is a long shot at best,
+
+59
+00:03:44,808 --> 00:03:47,388
+and most likely, misplaced hope.
+
+60
+00:03:47,477 --> 00:03:49,597
+I need you to be focused on this.
+
+61
+00:03:49,688 --> 00:03:51,478
+I-I know, I know.
+
+62
+00:03:51,564 --> 00:03:52,574
+Don't worry.
+
+63
+00:03:56,486 --> 00:03:58,606
+So, what squad are we taking in?
+
+64
+00:04:00,699 --> 00:04:02,409
+Clone Force 99.
+
+65
+00:04:08,164 --> 00:04:10,834
+I've heard mixed things about these guys.
+
+66
+00:04:10,917 --> 00:04:12,837
+They have a 100% success rate.
+
+67
+00:04:14,254 --> 00:04:18,384
+It's not that they win,
+it's how they win that worries me.
+
+68
+00:04:18,466 --> 00:04:22,676
+<i>Repeat, coming in hot</i>
+<i>on platform TT-3-9-7.</i>
+
+69
+00:04:26,016 --> 00:04:27,306
+<i>Clear the airfield!</i>
+
+70
+00:04:27,809 --> 00:04:29,019
+<i>Clear the airfield!</i>
+
+71
+00:04:37,402 --> 00:04:39,202
+So why haven't I heard of this squad?
+
+72
+00:04:39,863 --> 00:04:42,663
+Experimental unit Clone Force 99,
+
+73
+00:04:42,741 --> 00:04:46,621
+they're defective clones with,
+uh... desirable mutations.
+
+74
+00:04:47,037 --> 00:04:49,907
+99, hey? Nice touch.
+
+75
+00:04:50,415 --> 00:04:53,125
+They call themselves "The Bad Batch."
+
+76
+00:05:11,978 --> 00:05:14,308
+The cavalry has arrived!
+
+77
+00:05:24,949 --> 00:05:28,159
+These guys are clones?
+They don't look like clones to me.
+
+78
+00:05:31,206 --> 00:05:32,956
+Sergeant, good to see you again.
+
+79
+00:05:33,041 --> 00:05:35,171
+-You too, sir.
+-This is Hunter.
+
+80
+00:05:35,960 --> 00:05:37,710
+Sorry we're late, Commander.
+
+81
+00:05:37,796 --> 00:05:40,006
+We were putting down an insurrection
+on Yalbec Prime
+
+82
+00:05:40,090 --> 00:05:41,420
+when your comm came in.
+
+83
+00:05:41,758 --> 00:05:45,048
+Had a few unforeseen... complications.
+
+84
+00:05:45,136 --> 00:05:48,136
+Ever fought a male Yalbec?
+
+85
+00:05:48,515 --> 00:05:51,725
+Um, no. Can't say I have.
+
+86
+00:05:51,810 --> 00:05:53,230
+You're lucky.
+
+87
+00:05:53,311 --> 00:05:55,151
+Only way to kill 'em is with one of these.
+
+88
+00:05:57,148 --> 00:05:58,268
+That's right.
+
+89
+00:05:58,775 --> 00:06:01,945
+Wrecker here cut off the Queen's stinger
+while she was still alive.
+
+90
+00:06:02,612 --> 00:06:05,532
+That's why all those Yalbec males
+tried to eat us.
+
+91
+00:06:05,615 --> 00:06:07,945
+Uh, technically,
+they were trying to mate with us.
+
+92
+00:06:08,243 --> 00:06:09,873
+And, for your information,
+
+93
+00:06:09,953 --> 00:06:13,793
+the stinger of a Yalbec Queen
+is a delicacy on some planets.
+
+94
+00:06:14,374 --> 00:06:15,674
+They call him Tech.
+
+95
+00:06:16,084 --> 00:06:19,884
+Yeah, he can fill your head
+with useless info for hours.
+
+96
+00:06:19,963 --> 00:06:23,843
+Crosshair, on the other hand,
+he's not much of a conversationalist,
+
+97
+00:06:23,925 --> 00:06:27,095
+but when you have to hit
+a precise target from ten klicks,
+
+98
+00:06:27,178 --> 00:06:28,718
+Crosshair's your man.
+
+99
+00:06:29,264 --> 00:06:30,394
+So, Commander,
+
+100
+00:06:30,849 --> 00:06:33,849
+what kind of "suicide mission"
+do you have for us this time?
+
+101
+00:06:33,935 --> 00:06:36,225
+Let's get going.
+We'll brief you on the way.
+
+102
+00:06:55,957 --> 00:06:57,537
+What are you looking at?
+
+103
+00:06:58,209 --> 00:07:01,209
+We don't usually work with "regs."
+
+104
+00:07:01,755 --> 00:07:02,835
+"Regs?"
+
+105
+00:07:03,340 --> 00:07:06,220
+He's talking about regular clones.
+
+106
+00:07:06,301 --> 00:07:08,051
+But don't take it personal.
+
+107
+00:07:08,136 --> 00:07:11,176
+We're all on the same team,
+so cut the attitude and listen up.
+
+108
+00:07:11,264 --> 00:07:14,774
+Here's the mission.
+Our target is this Cyber Center.
+
+109
+00:07:14,851 --> 00:07:18,021
+It's the "brains" of the entire
+Separatist campaign here on Anaxes.
+
+110
+00:07:18,438 --> 00:07:21,818
+I could demolish that with one hand! Yeah!
+
+111
+00:07:22,150 --> 00:07:23,780
+This isn't a demo job, Wrecker.
+
+112
+00:07:24,235 --> 00:07:26,235
+It's strictly a retrieval operation.
+
+113
+00:07:31,910 --> 00:07:35,660
+Sector One, alert.
+Enemy gunship approaching your location.
+
+114
+00:07:35,997 --> 00:07:37,247
+Come in, Sector One.
+
+115
+00:07:37,916 --> 00:07:38,956
+Roger, roger.
+
+116
+00:07:42,545 --> 00:07:43,585
+Fire!
+
+117
+00:07:47,592 --> 00:07:48,682
+Incoming fire!
+
+118
+00:08:00,939 --> 00:08:04,819
+We're going down!
+
+119
+00:08:25,422 --> 00:08:28,512
+We always get shot down
+when we travel with regs.
+
+120
+00:08:28,591 --> 00:08:30,051
+Cody! Help!
+
+121
+00:08:32,095 --> 00:08:34,305
+He's trapped! We have to do something.
+
+122
+00:08:34,806 --> 00:08:35,806
+I'll get him.
+
+123
+00:08:35,890 --> 00:08:40,100
+Whoa, whoa, whoa, whoa, whoa.
+Easy, Captain. Wrecker, get him out.
+
+124
+00:08:41,146 --> 00:08:42,266
+Get back!
+
+125
+00:08:44,733 --> 00:08:46,073
+This is ridiculous!
+
+126
+00:08:46,151 --> 00:08:48,071
+He's gonna need help
+to get Cody out of there.
+
+127
+00:08:49,487 --> 00:08:52,907
+He's gonna get the gunship out of there.
+Not Cody.
+
+128
+00:09:09,007 --> 00:09:10,007
+Boom.
+
+129
+00:09:21,353 --> 00:09:22,903
+He has internal damage.
+
+130
+00:09:22,979 --> 00:09:25,519
+I can cut the pain.
+But he needs help fast.
+
+131
+00:09:26,441 --> 00:09:27,981
+We all need help.
+
+132
+00:09:32,113 --> 00:09:34,663
+That blast gave away our position.
+
+133
+00:09:35,909 --> 00:09:38,449
+I thought getting shot down
+gave away our position.
+
+134
+00:09:38,536 --> 00:09:39,906
+Everyone, find cover.
+
+135
+00:09:40,413 --> 00:09:42,463
+We'll hold this position
+and let them come to us.
+
+136
+00:09:42,540 --> 00:09:45,840
+I don't think so, Captain.
+That's not our style.
+
+137
+00:09:45,919 --> 00:09:47,459
+We prefer going to them.
+
+138
+00:09:47,879 --> 00:09:50,549
+Bad Batch! Plan 82, "Shockwave!"
+
+139
+00:09:58,848 --> 00:10:00,728
+Let's get to work.
+
+140
+00:10:04,354 --> 00:10:05,444
+Blast them!
+
+141
+00:10:22,122 --> 00:10:24,252
+45. Mark 151.
+
+142
+00:10:24,332 --> 00:10:26,172
+45. Mark 151.
+
+143
+00:10:34,884 --> 00:10:37,434
+75. Mark 357.
+
+144
+00:10:37,512 --> 00:10:39,012
+75. Mark 357.
+
+145
+00:10:40,682 --> 00:10:41,772
+What the--
+
+146
+00:10:46,896 --> 00:10:48,566
+Spider droids. Fan out!
+
+147
+00:11:09,169 --> 00:11:11,669
+Any more? Come on!
+
+148
+00:11:22,766 --> 00:11:25,636
+That was some show you put on just now.
+
+149
+00:11:26,061 --> 00:11:28,731
+Just doing our job, Captain.
+
+150
+00:11:28,813 --> 00:11:31,983
+Hey, look, Crosshair,
+this little clanker likes you.
+
+151
+00:11:33,777 --> 00:11:35,107
+Grow up, Wrecker.
+
+152
+00:11:35,695 --> 00:11:37,905
+We should move out
+before reinforcements arrive.
+
+153
+00:11:38,198 --> 00:11:39,778
+Our position has been compromised.
+
+154
+00:12:01,221 --> 00:12:03,471
+We wanted to speak to you directly, sir.
+
+155
+00:12:04,015 --> 00:12:06,725
+This infiltration is irregular.
+
+156
+00:12:08,395 --> 00:12:11,855
+<i>Were there Jedi with this squad?</i>
+
+157
+00:12:12,524 --> 00:12:13,824
+Just clones.
+
+158
+00:12:14,234 --> 00:12:17,284
+But using tactics
+like we have never seen before.
+
+159
+00:12:18,029 --> 00:12:20,909
+<i>Interesting.</i>
+
+160
+00:12:21,991 --> 00:12:24,871
+<i>They're on foot now,</i>
+<i>in the middle of nowhere.</i>
+
+161
+00:12:25,328 --> 00:12:28,498
+<i>Sweep the area, locate these clones,</i>
+
+162
+00:12:28,581 --> 00:12:32,751
+<i>and notify me if the incursion escalates.</i>
+
+163
+00:12:56,735 --> 00:12:59,945
+So, I get what makes
+the other Batchers unique,
+
+164
+00:13:00,280 --> 00:13:01,950
+but what's so special about Hunter?
+
+165
+00:13:02,699 --> 00:13:04,449
+He can put up with the other three.
+
+166
+00:13:04,534 --> 00:13:06,874
+He was engineered with heightened senses.
+
+167
+00:13:06,953 --> 00:13:08,623
+A place like the Cyber Center,
+
+168
+00:13:08,705 --> 00:13:11,325
+Hunter can feel
+the electromagnetic frequencies
+
+169
+00:13:11,416 --> 00:13:12,956
+from anywhere on the planet.
+
+170
+00:13:13,376 --> 00:13:16,666
+And here I thought we were smart
+just using a holomap.
+
+171
+00:13:16,755 --> 00:13:20,425
+Well, maps can be wrong. Hunter never is.
+
+172
+00:13:30,810 --> 00:13:32,940
+Hang in there, Cody.
+
+173
+00:13:35,023 --> 00:13:37,283
+Listen up. We have to move out.
+
+174
+00:13:38,568 --> 00:13:41,068
+Commander Cody's in no position to move.
+
+175
+00:13:41,154 --> 00:13:42,704
+Already called in Evac.
+
+176
+00:13:42,781 --> 00:13:44,821
+Kix will stay with Cody until it arrives.
+
+177
+00:13:45,200 --> 00:13:46,200
+I'm in charge now.
+
+178
+00:13:46,701 --> 00:13:49,251
+And I've got a plan
+to get into that Cyber Center.
+
+179
+00:13:50,288 --> 00:13:52,668
+If your plans are so good,
+
+180
+00:13:52,749 --> 00:13:55,749
+why did Commander Cody have to call us in?
+
+181
+00:13:55,835 --> 00:13:57,795
+You can't talk to Captain Rex like that!
+
+182
+00:13:57,879 --> 00:13:59,009
+Says who?
+
+183
+00:13:59,589 --> 00:14:00,589
+Whoa!
+
+184
+00:14:01,466 --> 00:14:02,676
+Put him down!
+
+185
+00:14:04,052 --> 00:14:05,602
+-Stay out of it.
+-Hey! Watch it!
+
+186
+00:14:06,304 --> 00:14:07,764
+Uh, guys, come on.
+
+187
+00:14:08,640 --> 00:14:11,100
+Wrecker, drop him. Now.
+
+188
+00:14:11,810 --> 00:14:13,020
+Aw.
+
+189
+00:14:14,270 --> 00:14:15,730
+Fellas, come on!
+
+190
+00:14:16,147 --> 00:14:18,727
+We're all fighting
+for the same thing, right?
+
+191
+00:14:22,779 --> 00:14:23,779
+All right then.
+
+192
+00:14:24,447 --> 00:14:27,157
+Let's cut the chatter
+and finish what we started.
+
+193
+00:14:27,742 --> 00:14:30,912
+We'll do it your way, Captain.
+For Commander Cody.
+
+194
+00:14:31,579 --> 00:14:34,249
+Okay. Let's gear up and move out.
+
+195
+00:14:49,305 --> 00:14:50,925
+Not our primary target.
+
+196
+00:14:51,474 --> 00:14:54,064
+It's an outpost. Should we take it?
+
+197
+00:14:54,477 --> 00:14:57,147
+Probably easier than going around.
+
+198
+00:14:57,230 --> 00:14:58,860
+All right, what are your orders?
+
+199
+00:14:59,315 --> 00:15:01,475
+We pick them off from the tree line
+one-by-one?
+
+200
+00:15:01,568 --> 00:15:05,658
+Actually, I was thinking
+we'd take a page from your book.
+
+201
+00:15:06,114 --> 00:15:07,244
+Rush them head-on.
+
+202
+00:15:07,949 --> 00:15:10,789
+I like your style.
+
+203
+00:15:13,580 --> 00:15:14,870
+Clones! Get them!
+
+204
+00:15:35,477 --> 00:15:37,347
+Hey! You're not authorized--
+
+205
+00:15:52,577 --> 00:15:53,997
+Is it over already?
+
+206
+00:15:54,371 --> 00:15:55,911
+Aw, man!
+
+207
+00:15:56,456 --> 00:15:58,916
+Not bad. For a reg.
+
+208
+00:16:02,128 --> 00:16:05,468
+All right, there it is. The Cyber Center.
+
+209
+00:16:06,007 --> 00:16:10,297
+It looks like the Cyber Center itself
+has minimal guards, about 30 droids.
+
+210
+00:16:11,388 --> 00:16:12,428
+Wait. Wait!
+
+211
+00:16:13,139 --> 00:16:14,639
+I got a massive signal coming in.
+
+212
+00:16:15,558 --> 00:16:17,688
+A whole platoon of droids
+is headed this way.
+
+213
+00:16:17,769 --> 00:16:20,609
+Someone's noticed our handiwork
+back at the crash site.
+
+214
+00:16:20,939 --> 00:16:22,149
+Yeah.
+
+215
+00:16:22,232 --> 00:16:25,032
+Make sure you keep an eye
+on those incoming Separatist forces.
+
+216
+00:16:25,110 --> 00:16:27,360
+I want to know
+when they reach this outpost.
+
+217
+00:16:27,445 --> 00:16:29,735
+-You got it, Cap.
+-We've gotta move swiftly.
+
+218
+00:16:29,989 --> 00:16:32,619
+We'll grab some speeder bikes
+and flank them from the back.
+
+219
+00:16:52,387 --> 00:16:53,887
+Do you know what's going on?
+
+220
+00:16:54,389 --> 00:16:56,219
+Maybe it's another drill.
+
+221
+00:17:00,520 --> 00:17:01,690
+Is everyone in position?
+
+222
+00:17:04,232 --> 00:17:05,232
+Affirmative.
+
+223
+00:17:06,693 --> 00:17:07,693
+Affirmative.
+
+224
+00:17:09,779 --> 00:17:13,199
+Cap, you wanted to know when those
+Separatist forces breached the outpost.
+
+225
+00:17:13,867 --> 00:17:16,117
+Well, they're getting there
+just about now.
+
+226
+00:17:26,212 --> 00:17:29,302
+Sir, we tracked
+the Clone Strike team here,
+
+227
+00:17:29,382 --> 00:17:32,472
+they seem to have captured
+this location and deserted it.
+
+228
+00:17:32,761 --> 00:17:35,471
+I cannot calculate the logic
+of this assault.
+
+229
+00:17:35,930 --> 00:17:40,980
+<i>There is no tactical advantage</i>
+<i>to taking the outpost.</i>
+
+230
+00:17:41,061 --> 00:17:44,611
+<i>Their target will be</i>
+<i>the nearby Cyber Center.</i>
+
+231
+00:17:45,148 --> 00:17:47,688
+<i>They must know about the algorithm.</i>
+
+232
+00:17:48,318 --> 00:17:52,198
+<i>Get me in contact</i>
+<i>with the Cyber Center at once!</i>
+
+233
+00:17:54,199 --> 00:17:56,529
+<i>Put all droids on alert.</i>
+
+234
+00:17:56,868 --> 00:17:58,408
+<i>An attack is coming.</i>
+
+235
+00:17:58,995 --> 00:18:00,745
+An attack is coming? When--
+
+236
+00:18:16,888 --> 00:18:18,928
+<i>All units to the front door!</i>
+
+237
+00:18:25,146 --> 00:18:28,606
+Hmm. This is a delicate operation.
+
+238
+00:18:29,776 --> 00:18:31,606
+Boom!
+
+239
+00:18:31,695 --> 00:18:32,735
+You take too long.
+
+240
+00:18:50,630 --> 00:18:52,130
+We're in.
+
+241
+00:19:05,854 --> 00:19:07,984
+Tech, get to work on these computers.
+
+242
+00:19:08,064 --> 00:19:09,274
+We'll go get the regs.
+
+243
+00:19:16,489 --> 00:19:18,069
+What the--
+
+244
+00:19:22,829 --> 00:19:25,249
+Hey, where did you come from--
+
+245
+00:19:31,087 --> 00:19:32,917
+What took you so long, Wrecker?
+
+246
+00:19:33,006 --> 00:19:36,796
+Hey, this is a "delicate operation."
+
+247
+00:19:41,139 --> 00:19:42,219
+Better get in there, Cap.
+
+248
+00:19:58,656 --> 00:20:00,156
+Okay, I'm in.
+
+249
+00:20:00,241 --> 00:20:02,451
+-What am I looking for?
+-Here's the algorithm.
+
+250
+00:20:02,535 --> 00:20:05,285
+You're looking for a program
+using this sequence.
+
+251
+00:20:09,125 --> 00:20:10,125
+Found it.
+
+252
+00:20:11,836 --> 00:20:14,456
+This is strange. It's not a program.
+
+253
+00:20:14,881 --> 00:20:17,881
+It's a live signal from another planet--
+
+254
+00:20:18,259 --> 00:20:19,429
+Skako Minor.
+
+255
+00:20:20,595 --> 00:20:22,055
+A live signal?
+
+256
+00:20:28,645 --> 00:20:30,725
+Crosshair, we're gonna need a lift.
+
+257
+00:20:34,859 --> 00:20:36,819
+Not gonna be a problem.
+
+258
+00:20:37,904 --> 00:20:40,204
+Here it is. This is audible.
+
+259
+00:20:40,281 --> 00:20:42,121
+Patch me in. I want to hear it.
+
+260
+00:20:46,579 --> 00:20:47,709
+What is that?
+
+261
+00:20:50,959 --> 00:20:53,289
+That sounds almost... almost human.
+
+262
+00:20:55,672 --> 00:20:57,262
+It can't be.
+
+263
+00:21:05,724 --> 00:21:07,734
+Uh-oh.
+
+264
+00:21:16,234 --> 00:21:17,614
+We gotta go! Now!
+
+265
+00:21:30,915 --> 00:21:33,325
+Tech, find out who's sending that signal.
+
+266
+00:21:33,752 --> 00:21:34,792
+Ask who that is.
+
+267
+00:21:37,881 --> 00:21:39,841
+<i>CT-1409.</i>
+
+268
+00:21:40,717 --> 00:21:44,507
+-<i>CT-1409.</i>
+-I... I don't believe it.
+
+269
+00:21:44,596 --> 00:21:46,386
+<i>CT-1409.</i>
+
+270
+00:21:47,599 --> 00:21:49,809
+We're gone. Rex, let's go.
+
+271
+00:21:50,143 --> 00:21:52,483
+-<i>CT-1409.</i>
+-Rex, now!
+
+272
+00:21:53,396 --> 00:21:56,186
+<i>CT-1409.</i>
+
+273
+00:22:24,052 --> 00:22:26,682
+We have chased the clones
+out of the center, sir.
+
+274
+00:22:27,138 --> 00:22:30,178
+They are retreating back
+toward Republic lines.
+
+275
+00:22:30,266 --> 00:22:34,726
+<i>Did they download anything</i>
+<i>from the central computer?</i>
+
+276
+00:22:35,230 --> 00:22:37,480
+There seems to be no intel missing.
+
+277
+00:22:37,565 --> 00:22:41,025
+But there appears to have been
+a connection made with Skako Minor.
+
+278
+00:22:41,486 --> 00:22:42,526
+<i>What?</i>
+
+279
+00:22:53,206 --> 00:22:55,576
+That number, Cap, what did it mean?
+
+280
+00:22:56,584 --> 00:22:58,554
+CT-1409...
+
+281
+00:22:59,087 --> 00:23:00,667
+that was Echo's number.
+
+282
+00:23:01,881 --> 00:23:03,511
+He's alive.
+

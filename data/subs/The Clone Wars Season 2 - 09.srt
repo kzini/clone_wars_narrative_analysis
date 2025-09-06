@@ -1,0 +1,756 @@
+1
+00:00:17,643 --> 00:00:19,442
+Diabolical defeat!
+
+2
+00:00:19,522 --> 00:00:21,962
+Though Republic victories
+outnumber their losses,
+
+3
+00:00:22,043 --> 00:00:26,281
+the Jedi have been unable to stop
+Separatist advances in the Outer Rim.
+
+4
+00:00:26,362 --> 00:00:30,920
+The ever-elusive General Grievous
+stays one step ahead of his opponents.
+
+5
+00:00:31,002 --> 00:00:33,520
+With thousands of droid armies
+at his command,
+
+6
+00:00:33,601 --> 00:00:36,959
+the Jedi can never predict
+where Grievous will strike next,
+
+7
+00:00:37,041 --> 00:00:38,359
+until now.
+
+8
+00:00:38,801 --> 00:00:40,639
+Stand by! Grievous is boarding.
+
+9
+00:00:52,478 --> 00:00:54,637
+- Status report.
+- There's too many of them!
+
+10
+00:00:54,798 --> 00:00:57,837
+Get yourselves to the escape pods.
+I will deal with Grievous here.
+
+11
+00:00:57,998 --> 00:00:59,597
+But, sir, they're commando droids!
+
+12
+00:00:59,997 --> 00:01:01,956
+That does not matter, Captain. Now go!
+
+13
+00:01:24,714 --> 00:01:25,833
+Jedi.
+
+14
+00:01:26,394 --> 00:01:27,673
+Grievous.
+
+15
+00:02:02,549 --> 00:02:07,508
+Eeth Koth, isn't it?
+I've been looking forward to meeting you.
+
+16
+00:02:11,788 --> 00:02:13,947
+Your reputation precedes you, General.
+
+17
+00:02:14,068 --> 00:02:16,827
+The reputation
+of a coward and a murderer.
+
+18
+00:02:17,428 --> 00:02:24,146
+Murderer? Is it murder
+to rid the galaxy of you Jedi filth?
+
+19
+00:03:08,701 --> 00:03:14,219
+Greetings, Jedi. It would seem once again
+one of your order has lost his way,
+
+20
+00:03:14,260 --> 00:03:19,259
+and, even better,
+a leading member of your Jedi Council.
+
+21
+00:03:19,979 --> 00:03:24,138
+Listen to me, Jedi.
+I do not care about your politics,
+
+22
+00:03:24,219 --> 00:03:27,017
+I do not care about your Republic,
+
+23
+00:03:27,138 --> 00:03:30,537
+I only live to see you die!
+
+24
+00:03:35,257 --> 00:03:38,776
+But death will not come so easily
+for Master Koth.
+
+25
+00:03:38,857 --> 00:03:41,095
+I will make him suffer endlessly,
+
+26
+00:03:41,177 --> 00:03:44,455
+because I know
+that is more painful for you all!
+
+27
+00:03:50,855 --> 00:03:54,133
+Away with the younglings.
+Much there is to discuss.
+
+28
+00:03:57,255 --> 00:04:00,213
+It's time somebody finally put an end
+to that monster.
+
+29
+00:04:00,854 --> 00:04:05,572
+On that, agreed we are.
+How to find him, the question remains.
+
+30
+00:04:07,414 --> 00:04:11,172
+After engaging Grievous,
+we lost contact with Master Koth.
+
+31
+00:04:11,253 --> 00:04:12,292
+He could be anywhere.
+
+32
+00:04:13,052 --> 00:04:16,051
+Commander Wolffe has found a message
+in the holo-transmission.
+
+33
+00:04:16,132 --> 00:04:17,251
+Play back the message.
+
+34
+00:04:22,171 --> 00:04:23,770
+Look, hand signals.
+
+35
+00:04:24,811 --> 00:04:27,810
+I admit my skills are rusty, but...
+
+36
+00:04:29,530 --> 00:04:34,809
+"Saleucami system, Sector J-19,
+
+37
+00:04:35,169 --> 00:04:40,327
+"zero-eight, zero-five, two-nine. "
+
+38
+00:04:40,608 --> 00:04:45,047
+Saleucami? But intelligence reported
+Grievous has no ships near that sector.
+
+39
+00:04:45,528 --> 00:04:49,926
+Yes, but so often inaccurate
+our intelligence is.
+
+40
+00:04:50,168 --> 00:04:52,806
+- I shall go.
+- So will I.
+
+41
+00:04:52,927 --> 00:04:53,886
+And I.
+
+44
+00:05:16,444 --> 00:05:17,883
+I shall engage the Separatist fleet
+
+45
+00:05:17,924 --> 00:05:20,443
+and send you the coordinates
+of Grievous' command ship.
+
+46
+00:05:20,523 --> 00:05:23,962
+- Just make sure you get it right.
+- I always do.
+
+47
+00:05:24,203 --> 00:05:26,841
+How do you plan on getting Grievous
+aboard your ship?
+
+48
+00:05:27,083 --> 00:05:30,041
+Not to worry,
+the good general and I have a history.
+
+49
+00:05:30,083 --> 00:05:32,641
+I'm sure he'll want to even the score
+face to face.
+
+50
+00:05:33,002 --> 00:05:36,280
+Meanwhile, we'll jump in undetected
+and board the command ship.
+
+51
+00:05:36,321 --> 00:05:39,680
+If Master Koth is still alive,
+we will find him.
+
+52
+00:05:39,961 --> 00:05:41,880
+Hopefully, by the end of this mission,
+
+53
+00:05:41,920 --> 00:05:45,679
+we will have saved Master Koth
+and captured General Grievous.
+
+54
+00:06:00,519 --> 00:06:04,157
+Sir, we have entered
+the Saleucami system.
+
+55
+00:06:06,997 --> 00:06:11,276
+- Begin preparations for our landing.
+- Yes, my lord.
+
+56
+00:06:11,796 --> 00:06:15,835
+Sir, there are several ships
+coming out of hyperspace.
+
+57
+00:06:16,116 --> 00:06:18,195
+Are they Republic or Separatist?
+
+58
+00:06:22,075 --> 00:06:25,434
+Republic.
+Three cruiser class, four escort class.
+
+59
+00:06:26,995 --> 00:06:30,793
+You see? Your compassionate friends
+have come to rescue you.
+
+60
+00:06:31,754 --> 00:06:33,433
+Just as I knew they would.
+
+61
+00:06:50,312 --> 00:06:53,591
+One of the Republic ships
+is hailing us, my lord.
+
+62
+00:06:53,751 --> 00:06:55,350
+Put him through.
+
+63
+00:06:58,351 --> 00:07:01,229
+General.
+I knew one day I'd catch up to you.
+
+64
+00:07:01,390 --> 00:07:07,389
+Kenobi! What a surprise. I assume
+you are here to bring me to justice?
+
+65
+00:07:07,629 --> 00:07:10,749
+- You know me too well.
+- Indeed I do!
+
+66
+00:07:10,829 --> 00:07:15,467
+Prepare to fire all cannons, and be alert.
+Where there is Kenobi,
+
+67
+00:07:15,549 --> 00:07:18,747
+you will always find Skywalker
+not far behind.
+
+68
+00:07:19,348 --> 00:07:25,386
+The enemy ships are faster and
+more maneuverable. I suggest caution.
+
+69
+00:07:25,467 --> 00:07:30,665
+Draw them in. I want to board that vessel.
+I shall kill Kenobi face to face.
+
+70
+00:07:36,145 --> 00:07:38,624
+Well, we certainly have his attention.
+
+71
+00:07:38,826 --> 00:07:42,824
+Admiral Yularen, keep Grievous' fleet
+occupied so Anakin's arrival is undetected.
+
+72
+00:07:44,904 --> 00:07:49,463
+Yes, General.
+Commence attack! All ships fire at will!
+
+73
+00:07:51,783 --> 00:07:53,223
+Yes, sir! We're moving in.
+
+74
+00:08:01,303 --> 00:08:04,341
+Commander Cody, do you have the exact
+coordinates of the command ship yet?
+
+75
+00:08:04,422 --> 00:08:05,861
+We are patching them through now, sir.
+
+76
+00:08:08,342 --> 00:08:10,500
+We are receiving the coordinates
+from General Kenobi.
+
+77
+00:08:10,541 --> 00:08:13,860
+How close are you going to jump in
+next to Grievous' ship?
+
+78
+00:08:13,941 --> 00:08:16,940
+Pretty close. Buckle up, boys.
+
+79
+00:08:17,180 --> 00:08:20,819
+- Define "pretty close. "
+- Close enough to get the job done.
+
+80
+00:08:28,739 --> 00:08:32,497
+Get me a tractor beam lock on Kenobi's
+ship and prepare a boarding party!
+
+81
+00:08:37,378 --> 00:08:39,977
+Tractor beam has us, sir.
+Shall we fire on the source?
+
+82
+00:08:40,097 --> 00:08:44,496
+No, Cody. Let them think they have us.
+We need the diversion for Anakin.
+
+83
+00:08:47,336 --> 00:08:49,895
+We're coming out of hyperspace. Hang on!
+
+84
+00:09:04,254 --> 00:09:05,533
+Primary power down.
+
+85
+00:09:14,013 --> 00:09:16,251
+So, was that close enough for you?
+
+86
+00:09:16,412 --> 00:09:18,971
+Any closer
+and we'd be flying down hallways.
+
+87
+00:09:19,132 --> 00:09:20,171
+Ah, next time.
+
+88
+00:09:32,330 --> 00:09:34,450
+- Coast is clear, Rex.
+- Copy that, sir.
+
+89
+00:09:35,650 --> 00:09:39,288
+Stay here and guard the entrance.
+This may be our only way out.
+
+90
+00:09:39,370 --> 00:09:42,968
+Skywalker, Master Koth is located
+on the bridge. This way.
+
+91
+00:09:53,168 --> 00:09:57,566
+Remember, we need to keep Grievous on
+this ship until General Skywalker is clear.
+
+92
+00:10:11,085 --> 00:10:12,044
+Look out!
+
+93
+00:10:28,643 --> 00:10:29,682
+Kenobi.
+
+94
+00:10:30,163 --> 00:10:32,442
+- How are we doing?
+- We are close.
+
+95
+00:10:48,601 --> 00:10:51,759
+So, Kenobi, is everything
+going as planned?
+
+96
+00:10:51,920 --> 00:10:54,799
+That depends
+on your point of view, General.
+
+97
+00:11:01,839 --> 00:11:05,997
+You wouldn't come here without a plan.
+And you wouldn't come alone.
+
+98
+00:11:06,158 --> 00:11:09,797
+Tell me, do you think Skywalker
+has rescued Master Koth yet?
+
+99
+00:11:21,196 --> 00:11:24,235
+- Surprise.
+- Not exactly.
+
+100
+00:11:33,995 --> 00:11:36,074
+Well, at least they're not destroyer droids.
+
+101
+00:11:36,874 --> 00:11:42,312
+The General's description of your tactics
+have been 100% accurate today.
+
+102
+00:11:42,394 --> 00:11:45,672
+Very impressive, even by my standards.
+
+103
+00:11:57,992 --> 00:12:01,950
+Your plans
+have come to ruination, Jedi.
+
+104
+00:12:02,631 --> 00:12:04,710
+I hear a lot of talking, General.
+
+105
+00:12:04,750 --> 00:12:07,869
+But in the final accounting,
+what does all the talk get you?
+
+106
+00:12:07,910 --> 00:12:11,309
+A futile quest for power, a mutilated body
+
+107
+00:12:11,390 --> 00:12:14,069
+and your place as Dooku's errand boy.
+
+108
+00:12:14,549 --> 00:12:19,427
+I'm no errand boy.
+I am not in this war for Dooku's politics.
+
+109
+00:12:19,549 --> 00:12:24,147
+I am the leader of the most powerful
+droid army the galaxy has ever seen.
+
+110
+00:12:27,908 --> 00:12:32,466
+An army with no loyalty, no spirit.
+Just programming.
+
+111
+00:12:32,547 --> 00:12:35,826
+What have you to show for all your power?
+What have you to gain?
+
+112
+00:12:36,387 --> 00:12:40,225
+The future.
+A future where there are no Jedi.
+
+113
+00:12:50,065 --> 00:12:53,183
+The story of Obi-Wan Kenobi ends here.
+
+114
+00:13:07,302 --> 00:13:10,301
+One more step and your friend will die.
+
+115
+00:13:12,221 --> 00:13:13,900
+Ha, ha, ha.
+
+116
+00:13:29,819 --> 00:13:30,938
+No!
+
+117
+00:13:46,618 --> 00:13:50,256
+Your friends shall die, Kenobi,
+and you shall soon follow.
+
+118
+00:13:56,616 --> 00:13:58,454
+Got to get it.
+
+119
+00:14:01,815 --> 00:14:02,854
+Behind you!
+
+120
+00:14:17,614 --> 00:14:18,612
+Uh...
+
+121
+00:14:24,972 --> 00:14:28,091
+I see you got my message.
+Where's Grievous?
+
+122
+00:14:28,572 --> 00:14:32,170
+If everything's gone according to plan,
+he's onboard Obi-Wan's ship.
+
+123
+00:14:32,531 --> 00:14:33,530
+He's been captured?
+
+124
+00:14:33,651 --> 00:14:36,450
+If we can cut off his escape,
+there's a good chance of that.
+
+125
+00:14:51,049 --> 00:14:53,808
+- Surrender, General.
+- Never!
+
+126
+00:15:00,608 --> 00:15:03,086
+Anakin! I hope
+you've rescued Master Koth,
+
+127
+00:15:03,367 --> 00:15:05,686
+because Grievous is headed
+back to his ship.
+
+128
+00:15:05,927 --> 00:15:09,566
+You both go.
+I'll make it back. I'll be fine.
+
+129
+00:15:09,806 --> 00:15:11,765
+I'll have to disagree with you on that one.
+
+130
+00:15:11,846 --> 00:15:15,364
+Master Gallia, you go ahead.
+I'll get Eeth back to the shuttle.
+
+131
+00:15:16,166 --> 00:15:18,205
+May the Force be with you.
+
+132
+00:15:21,485 --> 00:15:24,644
+Get back to the bridge. We need to detach
+before Grievous jumps ship.
+
+133
+00:15:26,524 --> 00:15:28,763
+Cody, come in!
+- Yes, sir.
+
+134
+00:15:28,844 --> 00:15:30,643
+Grievous is headed your way.
+
+135
+00:15:37,123 --> 00:15:40,321
+Open fire on the Republic ship.
+Target their engines!
+
+136
+00:15:40,402 --> 00:15:42,881
+But, sir, the ships are still attached.
+
+137
+00:15:42,962 --> 00:15:46,601
+It doesn't matter. Prepare all troops
+for our landing on Saleucami.
+
+138
+00:16:03,439 --> 00:16:07,118
+The circuits are fried. We have no controls.
+I can't even get the engines online.
+
+139
+00:16:37,955 --> 00:16:40,433
+- We've lost our stabilizers!
+- I can't hold her steady!
+
+140
+00:17:07,431 --> 00:17:10,429
+Until we meet again, Kenobi!
+
+141
+00:17:49,625 --> 00:17:51,624
+Hurry! We can still catch him!
+
+142
+00:17:51,705 --> 00:17:55,024
+Obi-Wan, Anakin's leaving.
+We'll be trapped on the ship.
+
+143
+00:17:58,144 --> 00:17:59,344
+Anakin, come in.
+
+144
+00:18:02,584 --> 00:18:05,702
+We're in a bit of a spot
+and we need a way off of Grievous' ship.
+
+145
+00:18:05,784 --> 00:18:09,702
+There's a large hangar near your position.
+Make your way there and I'll pick you up.
+
+146
+00:18:12,302 --> 00:18:14,341
+All droids to the landing craft.
+
+147
+00:18:14,423 --> 00:18:16,541
+All droids to the landing craft.
+
+148
+00:18:16,622 --> 00:18:18,020
+Hey!
+
+149
+00:18:30,860 --> 00:18:33,139
+Get to your stations,
+we're going to detach.
+
+150
+00:18:39,779 --> 00:18:41,177
+Prepare to launch.
+
+151
+00:18:52,497 --> 00:18:54,856
+The reactor's been breached.
+I can't lock it down!
+
+152
+00:19:10,455 --> 00:19:11,454
+Here we go!
+
+153
+00:19:29,812 --> 00:19:31,492
+Anakin, get me Admiral Yularen.
+
+154
+00:19:33,812 --> 00:19:37,610
+Several craft detached from Grievous' ship
+and attempted to land on Saleucami.
+
+155
+00:19:38,011 --> 00:19:39,810
+Then we'll have to land and follow them.
+
+156
+00:19:39,891 --> 00:19:41,610
+- Prepare the tanks.
+Yes, sir.
+
+157
+00:19:41,891 --> 00:19:46,009
+There must be several landing sites.
+It may be hard to locate the good general.
+
+158
+00:19:46,090 --> 00:19:49,488
+You'll have to command the space battle
+while Rex, Cody and I head to the surface.
+
+159
+00:19:49,810 --> 00:19:51,329
+You sure you can handle this on your own?
+
+160
+00:19:51,650 --> 00:19:53,168
+I think I can manage.
+
+161
+00:20:15,126 --> 00:20:17,605
+I'll get Master Koth to a medical frigate.
+
+162
+00:20:18,086 --> 00:20:22,325
+- You all took a great risk rescuing me.
+- You're welcome, Master Koth.
+
+163
+00:20:22,646 --> 00:20:26,124
+Since you divided your forces,
+Grievous is still at large.
+
+164
+00:20:27,005 --> 00:20:28,324
+I would have gladly given my life
+
+165
+00:20:28,405 --> 00:20:30,923
+if it meant bringing that monster
+to justice.
+
+166
+00:20:31,324 --> 00:20:34,283
+Well, at least we all live
+to fight another day.
+

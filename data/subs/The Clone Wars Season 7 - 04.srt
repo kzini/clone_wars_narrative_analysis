@@ -1,0 +1,1346 @@
+1
+00:00:20,998 --> 00:00:22,053
+Reunited.
+
+2
+00:00:22,615 --> 00:00:24,256
+With the help of the Bad Batch,
+
+3
+00:00:24,405 --> 00:00:27,735
+Captain Rex rescues his 
+old friend, ARC Trooper Echo,
+
+4
+00:00:27,760 --> 00:00:29,186
+from the Techno Union.
+
+5
+00:00:29,358 --> 00:00:32,311
+The separatist loss of Echo's 
+strategic algorithm
+
+6
+00:00:32,381 --> 00:00:35,090
+ provides a chance for 
+the Republic to turn the tide
+
+7
+00:00:35,115 --> 00:00:36,756
+in the battle for Anaxis.
+
+8
+00:00:36,787 --> 00:00:40,584
+However, Echo's horrifying 
+experience behind enemy lines
+
+9
+00:00:40,669 --> 00:00:43,794
+ leaves lingering questions 
+of his true loyalty
+
+10
+00:00:43,865 --> 00:00:45,560
+and uncertain future.
+
+11
+00:00:59,480 --> 00:01:02,249
+We have more than a dozen 
+active battlefronts on Anaxis,
+
+12
+00:01:02,428 --> 00:01:04,480
+and we are losing nearly every one.
+
+13
+00:01:05,392 --> 00:01:08,598
+But, if Admiral Trench can no 
+longer anticipate our moves,
+
+14
+00:01:08,631 --> 00:01:11,165
+we now have the opportunity to
+retake the planet.
+
+15
+00:01:11,704 --> 00:01:13,657
+I can improve your chances.
+
+16
+00:01:16,200 --> 00:01:18,524
+Uh, excuse me, Generals.
+
+17
+00:01:20,640 --> 00:01:22,736
+Echo, I'm sorry,
+
+18
+00:01:22,963 --> 00:01:25,123
+but I just don't think 
+you're ready for battle yet.
+
+19
+00:01:25,148 --> 00:01:27,148
+I am not a liability, Rex.
+
+20
+00:01:27,314 --> 00:01:30,642
+I'm the best chance we have to take
+back Anaxis.
+
+21
+00:01:32,419 --> 00:01:34,161
+If the Trooper has a plan,
+
+22
+00:01:34,318 --> 00:01:35,820
+I'd like to hear it.
+
+23
+00:01:36,320 --> 00:01:37,320
+May I?
+
+24
+00:01:45,493 --> 00:01:49,182
+While Master Windu leads a team 
+to retake the Assembly Complex,
+
+25
+00:01:49,338 --> 00:01:52,650
+the Bad Batch will escort
+me into Trench's new com-port,
+
+26
+00:01:52,720 --> 00:01:54,541
+which, according to code intel,
+
+27
+00:01:54,572 --> 00:01:58,766
+ is now located on this separatist 
+dreadnought above Anaxis.
+
+28
+00:01:59,438 --> 00:02:00,891
+Once I'm plugged in,
+
+29
+00:02:00,945 --> 00:02:03,163
+I can feed Trench strategies,
+
+30
+00:02:03,297 --> 00:02:04,562
+but this time,
+
+31
+00:02:04,587 --> 00:02:07,660
+you'll know every move 
+before he makes it.
+
+32
+00:02:07,840 --> 00:02:08,856
+And you are certain
+
+33
+00:02:08,911 --> 00:02:10,512
+that if we get you on board that ship,
+
+34
+00:02:10,590 --> 00:02:12,614
+that you can convince Trench's army
+
+35
+00:02:12,661 --> 00:02:13,888
+to do what you want?
+
+36
+00:02:13,943 --> 00:02:14,943
+Absolutely.
+
+37
+00:02:15,285 --> 00:02:16,793
+Unfortunately,
+
+38
+00:02:16,987 --> 00:02:18,675
+I've been doing this for a while,
+
+39
+00:02:18,700 --> 00:02:19,942
+but this time,
+
+40
+00:02:20,270 --> 00:02:22,950
+I can help bring about a Republic victory
+
+41
+00:02:23,106 --> 00:02:24,340
+ instead of a defeat.
+
+42
+00:02:37,340 --> 00:02:39,058
+Tech, is everything ready?
+
+43
+00:02:39,183 --> 00:02:40,183
+Yup, Sarge.
+
+44
+00:02:40,208 --> 00:02:41,208
+We are ready.
+
+45
+00:02:41,233 --> 00:02:43,816
+Still not sure how we're 
+gonna land on that ship.
+
+46
+00:02:43,841 --> 00:02:44,691
+Don't worry.
+
+47
+00:02:44,716 --> 00:02:45,940
+Echo says he's got a plan.
+
+48
+00:02:46,042 --> 00:02:48,755
+That makes me feel so much better.
+
+49
+00:02:48,880 --> 00:02:50,051
+What do you mean by that?
+
+50
+00:02:50,300 --> 00:02:52,280
+To be blunt, his mind belonged to the
+
+51
+00:02:52,280 --> 00:02:53,960
+separatists until we unplugged him.
+
+52
+00:02:54,260 --> 00:02:56,440
+We don't really know 
+where his loyalties lie.
+
+53
+00:02:56,755 --> 00:02:58,482
+Yeah, well I know.
+
+54
+00:02:58,920 --> 00:02:59,951
+Now get moving.
+
+55
+00:03:18,220 --> 00:03:20,345
+Please tell me we are 
+blowing something up!
+
+56
+00:03:21,079 --> 00:03:22,235
+Sorry, Wrecker.
+
+57
+00:03:22,260 --> 00:03:23,540
+This is strictly stealth.
+
+58
+00:03:25,220 --> 00:03:27,095
+I hate that word!
+
+59
+00:03:27,516 --> 00:03:28,906
+Echo, you're up.
+
+60
+00:03:29,055 --> 00:03:30,156
+Don't worry.
+
+61
+00:03:30,181 --> 00:03:31,312
+As soon as I plug in,
+
+62
+00:03:31,337 --> 00:03:33,273
+I'll send a signal to the command ship.
+
+63
+00:03:34,069 --> 00:03:35,789
+What type of signal are you gonna send?
+
+64
+00:03:36,380 --> 00:03:38,616
+Nothing that will give us away, right?
+
+65
+00:03:39,147 --> 00:03:41,022
+As far as the droids are concerned,
+
+66
+00:03:41,272 --> 00:03:43,566
+we're just gonna be another 
+one of their shuttles
+
+67
+00:03:43,591 --> 00:03:44,871
+coming in for a landing.
+
+68
+00:03:45,828 --> 00:03:48,441
+The regs think we take risks.
+
+69
+00:04:05,906 --> 00:04:07,913
+We have an incoming ship.
+
+70
+00:04:08,637 --> 00:04:10,077
+Is this one of ours?
+
+71
+00:04:10,117 --> 00:04:11,870
+I've never seen this model.
+
+72
+00:04:17,187 --> 00:04:18,427
+Sending the signal.
+
+73
+00:04:18,930 --> 00:04:19,930
+Now.
+
+74
+00:04:22,560 --> 00:04:24,429
+Yep, it's one of ours.
+
+75
+00:04:24,898 --> 00:04:27,700
+Roger, roger, shuttle TC-159.
+
+76
+00:04:28,060 --> 00:04:29,920
+You may approach and land.
+
+77
+00:04:31,835 --> 00:04:34,175
+I'd still rather blow it up.
+
+78
+00:04:34,200 --> 00:04:36,874
+I have a feeling you'll get your chance.
+
+79
+00:05:20,910 --> 00:05:22,941
+Gold Leader, you're cleared for launch.
+
+80
+00:05:29,533 --> 00:05:32,273
+Copy that, General. We're going in.
+
+81
+00:05:46,088 --> 00:05:47,516
+Admiral Trench,
+
+82
+00:05:47,541 --> 00:05:50,148
+the Jedi are attacking the assembly plant
+
+83
+00:05:50,173 --> 00:05:51,654
+with a large force.
+
+84
+00:05:51,830 --> 00:05:52,830
+Yes.
+
+85
+00:05:53,872 --> 00:05:58,004
+Now I will use their 
+arrogance and desperation
+
+86
+00:05:58,492 --> 00:06:00,113
+to our advantage.
+
+87
+00:06:22,514 --> 00:06:25,029
+Tech, can you rig an interface.
+
+88
+00:06:25,054 --> 00:06:27,318
+I assume that's a rhetorical question.
+
+89
+00:06:27,481 --> 00:06:30,418
+We should make sure this comvault 
+has no other entrances.
+
+90
+00:06:30,443 --> 00:06:31,443
+I'm on it.
+
+91
+00:06:40,120 --> 00:06:41,738
+Contact Skako.
+
+92
+00:06:42,060 --> 00:06:44,971
+I want to use the algorithm to calculate
+
+93
+00:06:44,996 --> 00:06:47,080
+the best possible counterattack.
+
+94
+00:06:47,300 --> 00:06:48,956
+As you command.
+
+95
+00:06:56,185 --> 00:06:56,945
+All right.
+
+96
+00:06:56,970 --> 00:06:58,425
+I have access to everything.
+
+97
+00:06:58,450 --> 00:06:59,628
+And good timing.
+
+98
+00:06:59,964 --> 00:07:03,300
+I just scanned a strategy request
+Trench sent to the techno-union.
+
+99
+00:07:03,441 --> 00:07:04,441
+Wait!
+
+100
+00:07:04,473 --> 00:07:06,387
+You can't just send a signal from here.
+
+101
+00:07:06,496 --> 00:07:07,425
+Why not?
+
+102
+00:07:07,450 --> 00:07:08,930
+We have to make it appear as if
+
+103
+00:07:08,930 --> 00:07:11,340
+your signal is originating 
+from Skako Minor.
+
+104
+00:07:11,650 --> 00:07:13,310
+Otherwise they'll know we are here.
+
+105
+00:07:40,066 --> 00:07:43,043
+My name is General Mace Windu 
+of the Jedi Order.
+
+106
+00:07:43,669 --> 00:07:45,341
+At this point of the Clone War,
+
+107
+00:07:45,366 --> 00:07:46,722
+I have dismantled and destroyed
+
+108
+00:07:46,747 --> 00:07:49,070
+over 100,000 of you
+Type-1 battle droids.
+
+109
+00:07:49,710 --> 00:07:53,303
+I'm giving you an opportunity to 
+peacefully lay down your weapons,
+
+110
+00:07:53,460 --> 00:07:55,255
+ so that you may be reprogrammed
+
+111
+00:07:55,280 --> 00:07:56,895
+to serve a better
+purpose than spreading
+
+112
+00:07:56,920 --> 00:07:58,545
+the mindless violence and chaos
+
+113
+00:07:58,670 --> 00:08:00,888
+which you have
+inflicted upon the galaxy.
+
+114
+00:08:02,710 --> 00:08:03,710
+Blast him!
+
+115
+00:08:05,719 --> 00:08:08,239
+Well, I guess it was worth a try.
+
+116
+00:08:29,795 --> 00:08:32,435
+Here is the new strategy 
+from Skako, Admiral.
+
+117
+00:08:32,709 --> 00:08:35,873
+Mobilize all troops on Anaxis to the
+Assembly Complex.
+
+118
+00:08:36,500 --> 00:08:38,875
+The Republic will not 
+send reinforcements.
+
+119
+00:08:39,061 --> 00:08:40,811
+They will put all their faith
+
+120
+00:08:41,085 --> 00:08:42,320
+in the Jedi.
+
+121
+00:08:45,680 --> 00:08:47,808
+Give the order.
+
+122
+00:08:53,725 --> 00:08:55,230
+I'm intercepting a transmission.
+
+123
+00:08:55,800 --> 00:08:58,456
+Trench is ordering all of his droids
+
+124
+00:08:59,073 --> 00:09:01,143
+to the Assembly Complex.
+
+125
+00:09:01,893 --> 00:09:03,995
+All right, Echo.
+What are you trying to pull?
+
+126
+00:09:04,155 --> 00:09:05,315
+Don't worry.
+
+127
+00:09:05,520 --> 00:09:06,680
+That's what I told him to do.
+
+128
+00:09:07,020 --> 00:09:09,800
+But our troops will be 
+vastly outnumbered.
+
+129
+00:09:10,220 --> 00:09:12,460
+Not when I send them a feedback pulse
+
+130
+00:09:12,460 --> 00:09:14,160
+that shuts down all the droids.
+
+131
+00:09:14,720 --> 00:09:17,100
+How do we know that's what 
+you're really going to do?
+
+132
+00:09:18,153 --> 00:09:19,793
+We have to trust him.
+
+133
+00:09:20,505 --> 00:09:21,654
+Rex is right.
+
+134
+00:09:22,232 --> 00:09:24,380
+Echo, we're all counting on you.
+
+135
+00:09:31,175 --> 00:09:33,800
+Master Windu, I know 
+this sounds crazy, but
+
+136
+00:09:33,800 --> 00:09:36,200
+it's about to get a little more 
+crowded where you are.
+
+137
+00:09:36,580 --> 00:09:38,020
+We have our hands full as it is.
+
+138
+00:09:38,480 --> 00:09:39,736
+What is your plan?
+
+139
+00:09:39,908 --> 00:09:42,020
+If it makes you feel any 
+better, it isn't my plan.
+
+140
+00:09:42,150 --> 00:09:43,960
+Echo is drawing all the droids to your
+
+141
+00:09:43,960 --> 00:09:46,640
+position so he can neutralize 
+them all at the same time.
+
+142
+00:09:56,200 --> 00:09:59,080
+Obi-Wan, Skywalker just contacted me.
+
+143
+00:09:59,480 --> 00:10:01,838
+He said we've got a lot more droids
+headed our way.
+
+144
+00:10:02,260 --> 00:10:04,956
+I see Anakin is being as 
+insightful as ever.
+
+145
+00:10:05,160 --> 00:10:06,699
+I was told not to worry.
+
+146
+00:10:06,959 --> 00:10:08,753
+It was all part of their plan?
+
+147
+00:10:08,910 --> 00:10:11,180
+If I know Anakin, we've got the easy part.
+
+148
+00:10:18,297 --> 00:10:21,399
+The droids are going to 
+overwhelm the Jedi.
+
+149
+00:10:22,150 --> 00:10:24,977
+They don't stand a chance.
+
+150
+00:10:39,153 --> 00:10:42,230
+Well, there weren't as many as I thought
+there were going to be.
+
+151
+00:10:48,570 --> 00:10:51,099
+Does this meet your expectations?
+
+152
+00:10:51,428 --> 00:10:54,029
+This exceeds my expectations.
+
+153
+00:11:05,301 --> 00:11:06,903
+Hey there.
+
+154
+00:11:07,403 --> 00:11:08,949
+Shutting down.
+
+155
+00:11:08,974 --> 00:11:10,535
+Awaiting orders.
+
+156
+00:11:16,877 --> 00:11:18,073
+What?!
+
+157
+00:11:18,688 --> 00:11:21,208
+What was that?
+
+158
+00:11:21,340 --> 00:11:23,788
+We monitored a powerful energy surge,
+
+159
+00:11:23,813 --> 00:11:26,054
+which has overloaded the droid circuitry.
+
+160
+00:11:26,673 --> 00:11:29,833
+We are tracking the 
+origin of this pulse now.
+
+161
+00:11:30,240 --> 00:11:31,660
+I am pleased to report that we are
+
+162
+00:11:31,660 --> 00:11:33,388
+in control of the assembly complex,
+
+163
+00:11:33,450 --> 00:11:35,747
+and all other fronts are 
+falling to the Republic,
+
+164
+00:11:35,772 --> 00:11:37,193
+ thanks to Echo's plan.
+
+165
+00:11:37,450 --> 00:11:39,240
+That's good news, Master Windu.
+
+166
+00:11:39,585 --> 00:11:41,085
+We're on our way back to the base.
+
+167
+00:11:41,147 --> 00:11:42,366
+May the Force be with you.
+
+168
+00:11:42,764 --> 00:11:43,999
+Good job, Echo.
+
+169
+00:11:44,440 --> 00:11:46,631
+Well, I guess you 
+actually are on our side.
+
+170
+00:11:47,303 --> 00:11:49,124
+Was there ever any doubt?
+
+171
+00:11:49,838 --> 00:11:50,838
+Some?
+
+172
+00:11:51,326 --> 00:11:53,287
+Well, thanks.
+
+173
+00:11:54,503 --> 00:11:55,599
+Come on, brother.
+
+174
+00:11:55,624 --> 00:11:57,080
+Unplug and let's get out of here.
+
+175
+00:11:57,661 --> 00:12:00,553
+The algorithm has never 
+been wrong before.
+
+176
+00:12:01,311 --> 00:12:03,451
+How could we have missed this?
+
+177
+00:12:03,701 --> 00:12:06,420
+The source originated on board this ship.
+
+178
+00:12:07,036 --> 00:12:08,974
+Dispatch security droids.
+
+179
+00:12:09,146 --> 00:12:11,052
+What about our apparent defeat?
+
+180
+00:12:13,840 --> 00:12:16,860
+A wise leader does not rely completely on
+
+181
+00:12:16,885 --> 00:12:19,914
+things such as algorithms.
+
+182
+00:12:20,969 --> 00:12:26,360
+My personal strategy for victory
+is through total annihilation.
+
+183
+00:12:27,600 --> 00:12:28,600
+Wait.
+
+184
+00:12:28,700 --> 00:12:30,637
+I just scanned a new order from Trench.
+
+185
+00:12:31,113 --> 00:12:32,573
+He's initiated a countdown.
+
+186
+00:12:33,011 --> 00:12:34,120
+There's a bomb,
+
+187
+00:12:34,238 --> 00:12:36,105
+hidden at the assembly complex.
+
+188
+00:12:36,420 --> 00:12:39,099
+But it's big enough to 
+destroy most of Anaxes.
+
+189
+00:12:39,139 --> 00:12:40,240
+Can you stop it?
+
+190
+00:12:40,505 --> 00:12:43,138
+Well, I can try.
+
+191
+00:12:43,466 --> 00:12:44,887
+General, where are you going?
+
+192
+00:12:45,080 --> 00:12:46,786
+If you can't stop the detonation,
+
+193
+00:12:46,811 --> 00:12:48,231
+perhaps Trench can.
+
+194
+00:12:51,255 --> 00:12:52,536
+You're clear.
+
+195
+00:12:54,580 --> 00:12:56,005
+Continue your sweep, Jesse.
+
+196
+00:12:56,030 --> 00:12:56,683
+Sir.
+
+197
+00:12:56,708 --> 00:12:57,945
+General Windu, this is Tech.
+
+198
+00:12:58,180 --> 00:13:00,254
+We've discovered a bomb 
+in the fusion reactor.
+
+199
+00:13:00,480 --> 00:13:02,731
+We need someone to go down 
+there and help disarm it.
+
+200
+00:13:03,114 --> 00:13:04,145
+I'm on my way.
+
+201
+00:13:08,933 --> 00:13:10,053
+Get the men out of here.
+
+202
+00:13:11,418 --> 00:13:12,775
+You heard General Windu.
+
+203
+00:13:12,800 --> 00:13:15,596
+Organize your platoons and have
+them evacuated as soon as possible.
+
+204
+00:13:15,621 --> 00:13:16,644
+Sir, yes, sir.
+
+205
+00:14:07,884 --> 00:14:08,884
+Ray shield.
+
+206
+00:14:09,830 --> 00:14:11,675
+Echo, I found the bomb.
+
+207
+00:14:11,802 --> 00:14:13,669
+Tell me the sequence to shut it down.
+
+208
+00:14:13,880 --> 00:14:15,122
+I'm decrypting it now.
+
+209
+00:14:15,147 --> 00:14:16,271
+You have to unplug.
+
+210
+00:14:16,296 --> 00:14:17,630
+They're going to detect us.
+
+211
+00:14:17,700 --> 00:14:19,177
+No, no, we need these codes.
+
+212
+00:14:19,990 --> 00:14:22,305
+The first number in 
+the sequence is three.
+
+213
+00:14:28,778 --> 00:14:30,778
+The next is one.
+
+214
+00:14:34,360 --> 00:14:35,360
+Eight.
+
+215
+00:14:36,185 --> 00:14:38,605
+We have located the source of the pulse.
+
+216
+00:14:39,840 --> 00:14:40,840
+Seven.
+
+217
+00:14:42,064 --> 00:14:44,324
+Jam the signal at its source.
+
+218
+00:14:44,775 --> 00:14:45,655
+They're on to us.
+
+219
+00:14:45,680 --> 00:14:47,032
+We need to unplug now.
+
+220
+00:14:52,055 --> 00:14:53,055
+Echo.
+
+221
+00:14:53,080 --> 00:14:54,880
+The server overloaded its neural system.
+
+222
+00:14:55,299 --> 00:14:56,540
+And it appears deliberate.
+
+223
+00:14:56,565 --> 00:14:57,101
+Echo!
+
+224
+00:14:57,126 --> 00:14:58,986
+That means Trench knows we're here.
+
+225
+00:14:59,560 --> 00:15:00,560
+Echo, are you there?
+
+226
+00:15:01,740 --> 00:15:03,688
+General Windu, Trench took out Echo.
+
+227
+00:15:03,860 --> 00:15:05,800
+We can't get to the last number in
+the sequence.
+
+228
+00:15:06,160 --> 00:15:07,160
+Sorry, General.
+
+229
+00:15:07,226 --> 00:15:08,969
+You'll have to disarm 
+that bomb without us.
+
+230
+00:15:08,994 --> 00:15:10,243
+Don't worry about me, Captain.
+
+231
+00:15:10,399 --> 00:15:11,665
+Just get your men out of there.
+
+232
+00:15:11,751 --> 00:15:12,751
+Yes, sir.
+
+233
+00:15:19,952 --> 00:15:21,272
+We got company.
+
+234
+00:15:28,913 --> 00:15:32,580
+The Jedi lacks the final 
+sequences to stop
+
+235
+00:15:32,752 --> 00:15:33,872
+the detonation.
+
+236
+00:15:34,781 --> 00:15:37,100
+The loss of clones at the shipyard will
+
+237
+00:15:37,100 --> 00:15:39,020
+seal the Republic's fate.
+
+238
+00:15:39,868 --> 00:15:43,640
+Dispatch more units to deal
+with the infiltrators on the ship.
+
+239
+00:15:44,160 --> 00:15:47,900
+And prepare our landing 
+craft for our next assault.
+
+240
+00:15:48,539 --> 00:15:49,900
+As you command.
+
+241
+00:15:56,320 --> 00:15:58,020
+Jedi scum.
+
+242
+00:16:13,710 --> 00:16:15,820
+Tell me the sequence 
+to disarm the bomb.
+
+243
+00:16:15,984 --> 00:16:16,984
+Never.
+
+244
+00:16:17,360 --> 00:16:21,172
+Dooku would kill me for losing Anaxes.
+
+245
+00:16:21,305 --> 00:16:22,800
+And you think I won't?
+
+246
+00:16:23,008 --> 00:16:25,234
+You're a Jedi.
+
+247
+00:16:25,600 --> 00:16:26,843
+Your nobility...
+
+248
+00:16:30,421 --> 00:16:32,137
+I don't have such weaknesses!
+
+249
+00:16:32,867 --> 00:16:34,567
+Now let's try that again.
+
+250
+00:16:43,147 --> 00:16:45,390
+Mace, if you can't stop the detonation,
+
+251
+00:16:45,415 --> 00:16:47,040
+you must leave now.
+
+252
+00:16:47,510 --> 00:16:48,813
+That is not an option.
+
+253
+00:16:48,979 --> 00:16:50,673
+I still have a chance to stop this,
+
+254
+00:16:51,010 --> 00:16:52,950
+even if it's down to my best guess.
+
+255
+00:16:53,230 --> 00:16:55,673
+How about I take the 
+guesswork out of it, Master?
+
+256
+00:16:56,009 --> 00:16:58,150
+Admiral Trent was kind 
+enough to give me
+
+257
+00:16:58,150 --> 00:16:59,977
+the final number himself.
+
+258
+00:17:00,128 --> 00:17:01,128
+Try seven.
+
+259
+00:17:14,819 --> 00:17:16,615
+Good work, Skywalker.
+
+260
+00:17:16,990 --> 00:17:18,390
+The bomb has been disarmed.
+
+261
+00:17:18,690 --> 00:17:20,342
+You both owe me one now.
+
+262
+00:17:40,735 --> 00:17:42,995
+Wrecker is gonna love this.
+
+263
+00:17:43,880 --> 00:17:45,780
+Admiral, it was a pleasure.
+
+264
+00:17:59,732 --> 00:18:01,396
+Hey! Fire!
+
+265
+00:18:06,230 --> 00:18:07,490
+Can't blast our way out.
+
+266
+00:18:07,515 --> 00:18:08,769
+There's too many of them.
+
+267
+00:18:16,534 --> 00:18:17,885
+What's he doing?
+
+268
+00:18:17,917 --> 00:18:20,143
+Time to release the wrecking ball!
+
+269
+00:18:20,760 --> 00:18:21,846
+Yeah!
+
+270
+00:18:26,674 --> 00:18:27,674
+Hey!
+
+271
+00:18:27,910 --> 00:18:30,205
+I honestly feel bad for those droids.
+
+272
+00:18:38,662 --> 00:18:40,302
+It's all clear.
+
+273
+00:18:40,469 --> 00:18:41,850
+Please, not the face.
+
+274
+00:18:42,164 --> 00:18:43,490
+Not the face.
+
+275
+00:18:49,511 --> 00:18:50,591
+More droids.
+
+276
+00:18:50,616 --> 00:18:51,631
+Go.
+
+277
+00:18:51,656 --> 00:18:53,176
+I'll buy you some time.
+
+278
+00:18:56,880 --> 00:18:57,960
+Stickey.
+
+279
+00:19:03,189 --> 00:19:05,029
+We'll meet you at the infiltration point.
+
+280
+00:19:06,141 --> 00:19:07,352
+Oh.
+
+281
+00:19:07,480 --> 00:19:09,120
+He's gonna try and top me.
+
+282
+00:19:09,471 --> 00:19:10,811
+You watch.
+
+283
+00:19:24,263 --> 00:19:26,083
+This is the infiltration point.
+
+284
+00:19:26,970 --> 00:19:29,633
+I'm picking up dozens of 
+droids on my sensors,
+
+285
+00:19:29,899 --> 00:19:31,123
+all heading this way.
+
+286
+00:19:31,690 --> 00:19:33,485
+Hope you're not waiting on me.
+
+287
+00:19:34,883 --> 00:19:37,102
+Now all we're missing is Crosshair.
+
+288
+00:19:43,805 --> 00:19:44,933
+You miss me?
+
+289
+00:19:47,790 --> 00:19:49,516
+How touching.
+
+290
+00:20:03,844 --> 00:20:05,124
+Relax, Wrecker.
+
+291
+00:20:05,435 --> 00:20:07,175
+You'll top him next time.
+
+292
+00:20:07,330 --> 00:20:08,797
+No, he won't.
+
+293
+00:20:19,870 --> 00:20:21,770
+I've got a present for you, Wrecker.
+
+294
+00:20:22,207 --> 00:20:24,431
+Oh, seriously?
+
+295
+00:20:24,691 --> 00:20:25,751
+I get to blow it up?
+
+296
+00:20:26,027 --> 00:20:27,753
+The whole stinkin' thing?
+
+297
+00:20:31,934 --> 00:20:37,043
+This is the happiest day of my life.
+
+298
+00:20:54,517 --> 00:20:57,597
+Captain Rex, Corporal Echo 
+and Clone Force 99.
+
+299
+00:20:58,220 --> 00:21:00,349
+You have all done a great 
+service for the Republic.
+
+300
+00:21:00,660 --> 00:21:02,113
+Thanks to your courage and effort,
+
+301
+00:21:02,238 --> 00:21:05,245
+Republic shipyards will soon 
+be up and running again.
+
+302
+00:21:05,620 --> 00:21:07,753
+You've got some medals 
+coming your way.
+
+303
+00:21:08,286 --> 00:21:09,286
+Thank you, General.
+
+304
+00:21:15,515 --> 00:21:16,515
+You coming?
+
+305
+00:21:17,232 --> 00:21:19,120
+Not really our thing.
+
+306
+00:21:19,518 --> 00:21:20,529
+Accolades.
+
+307
+00:21:21,189 --> 00:21:23,580
+Yeah, we're just in it for the thrill.
+
+308
+00:21:23,949 --> 00:21:24,949
+Go!
+
+309
+00:21:25,057 --> 00:21:27,322
+You sure it's your thing?
+
+310
+00:21:28,442 --> 00:21:29,442
+What do you mean?
+
+311
+00:21:29,860 --> 00:21:31,060
+Your path is different.
+
+312
+00:21:32,595 --> 00:21:33,655
+Like ours.
+
+313
+00:21:34,698 --> 00:21:37,361
+If you ever feel like you 
+don't fit in with them,
+
+314
+00:21:37,611 --> 00:21:40,033
+well, find us.
+
+315
+00:21:45,985 --> 00:21:48,870
+Those are some of 
+the finest troopers I've
+
+316
+00:21:48,870 --> 00:21:50,446
+ever fought alongside.
+
+317
+00:21:52,046 --> 00:21:53,085
+Echo,
+
+318
+00:21:54,326 --> 00:21:55,902
+you and I go way back.
+
+319
+00:21:56,866 --> 00:22:00,046
+If that's where you feel your place is,
+
+320
+00:22:00,497 --> 00:22:02,684
+then that's where you belong.
+

@@ -1,0 +1,969 @@
+1
+00:00:17,643 --> 00:00:19,202
+The final surge!
+
+2
+00:00:19,323 --> 00:00:21,441
+Having learned
+of warlord Poggle the Lesser's plot
+
+3
+00:00:21,563 --> 00:00:24,481
+to rebuild a Separatist droid foundry
+on Geonosis,
+
+4
+00:00:24,522 --> 00:00:27,721
+Jedi Knight Anakin Skywalker
+and his Padawan, Ahsoka Tano,
+
+5
+00:00:27,842 --> 00:00:30,680
+prepare to assault
+this heavily fortified installation.
+
+6
+00:00:31,161 --> 00:00:34,680
+Their mission,
+destroy the factory at all cost.
+
+7
+00:00:34,721 --> 00:00:36,519
+Anticipating stiff resistance,
+
+8
+00:00:36,641 --> 00:00:39,519
+Republic commanders send
+Jedi Master Luminara Unduli
+
+9
+00:00:39,559 --> 00:00:43,078
+and her Padawan, Barriss Offee,
+to reinforce the attack.
+
+10
+00:00:43,319 --> 00:00:45,798
+But time runs short for our intrepid heroes
+
+11
+00:00:45,919 --> 00:00:48,278
+as the dreaded droid mill
+nears completion.
+
+12
+00:00:50,917 --> 00:00:55,076
+Captain, the only safe landing zone
+is south of Skywalker's position.
+
+13
+00:00:55,197 --> 00:00:56,276
+Yes, General.
+
+14
+00:00:57,916 --> 00:01:01,275
+Barriss, I assume
+you've made the necessary preparations.
+
+15
+00:01:01,396 --> 00:01:03,555
+Precisely as you instructed, Master.
+
+16
+00:01:04,316 --> 00:01:07,355
+Buckle your belts and
+check your cells, soldiers. We're going in.
+
+17
+00:01:20,473 --> 00:01:22,591
+This bridge is our first waypoint.
+
+18
+00:01:22,713 --> 00:01:26,112
+Focus your fire on the gun emplacements,
+here and here, because it's only...
+
+19
+00:01:26,232 --> 00:01:28,151
+Because it's only
+after we neutralize the guns
+
+20
+00:01:28,272 --> 00:01:31,031
+- that we can push for the factory.
+- I was...
+
+21
+00:01:31,072 --> 00:01:34,870
+Yes, we can push for the factory.
+Now, expect stiff resistance from...
+
+22
+00:01:34,911 --> 00:01:38,269
+And don't forget to top off
+your energy cells and ration packs.
+
+23
+00:01:38,390 --> 00:01:41,909
+Once we leave, there'll be no resupply.
+Anything else, Ahsoka?
+
+24
+00:01:41,990 --> 00:01:45,108
+No. I think you've pretty much
+covered everything
+
+25
+00:01:45,149 --> 00:01:46,708
+in my briefing.
+
+26
+00:01:47,269 --> 00:01:49,108
+Very well. Squad dismissed.
+
+27
+00:01:52,148 --> 00:01:53,907
+Okay. What's next?
+
+28
+00:01:53,948 --> 00:01:56,506
+You know, Master,
+my briefings might go better
+
+29
+00:01:56,627 --> 00:01:59,506
+if you didn't interrupt me
+every time I tried to...
+
+30
+00:01:59,547 --> 00:02:01,586
+I wasn't interrupting.
+I was trying to help you.
+
+31
+00:02:01,667 --> 00:02:06,145
+Which I would appreciate,
+if you didn't interrupt me to do it.
+
+32
+00:02:06,226 --> 00:02:08,785
+I just think maybe you don't trust me
+to give the briefing.
+
+33
+00:02:08,825 --> 00:02:11,584
+It's not about trust.
+It's about getting the job done right.
+
+34
+00:02:11,665 --> 00:02:14,664
+So you don't trust me
+to get the job done right! I knew it!
+
+35
+00:02:14,704 --> 00:02:18,943
+- Snips, I never said...
+- No. No, it's okay. I understand.
+
+36
+00:02:19,024 --> 00:02:21,462
+I'm the Padawan, you're the Master.
+
+37
+00:02:27,823 --> 00:02:30,221
+Good day, General.
+Skywalker's waiting for you.
+
+38
+00:02:32,862 --> 00:02:35,501
+At it again, are they?
+Again, Master?
+
+39
+00:02:35,541 --> 00:02:38,620
+Let's just say that they have a penchant
+for playing loose
+
+40
+00:02:38,700 --> 00:02:41,100
+- with regulations and rules of command.
+Yeah, but when I say it,
+
+41
+00:02:41,141 --> 00:02:43,099
+- they actually listen to me.
+- Well, if you don't trust me,
+
+44
+00:02:49,619 --> 00:02:51,737
+we do have a factory to destroy.
+
+45
+00:02:53,258 --> 00:02:56,177
+Well, Barriss?
+Aren't you going to introduce yourself?
+
+46
+00:02:56,298 --> 00:02:59,337
+Padawan learner Barriss Offee
+at your service.
+
+47
+00:03:03,697 --> 00:03:05,895
+Glad to meet you. I'm Ahsoka.
+
+48
+00:03:08,776 --> 00:03:10,215
+It's good to see both of you again.
+
+49
+00:03:10,856 --> 00:03:13,734
+I wish it was
+under more peaceful circumstances.
+
+50
+00:03:22,374 --> 00:03:25,413
+A frontal assault is risky.
+Our losses will be high.
+
+51
+00:03:25,493 --> 00:03:28,012
+But not as high as they'll be
+if that factory comes online.
+
+52
+00:03:28,133 --> 00:03:30,612
+Indeed, but there is an alternative.
+
+53
+00:03:31,173 --> 00:03:34,211
+Every Geonosian building has a series
+of catacombs beneath it
+
+54
+00:03:34,292 --> 00:03:35,651
+that run deep underground.
+
+55
+00:03:36,171 --> 00:03:38,690
+Some of the tunnels are close enough
+to this cliff wall
+
+56
+00:03:38,771 --> 00:03:41,290
+so that you could cut a hole
+and make an entry point.
+
+57
+00:03:41,411 --> 00:03:43,650
+Once inside,
+we could find the main reactor,
+
+58
+00:03:43,730 --> 00:03:46,689
+plant the explosives
+and blow the factory inside out.
+
+59
+00:03:46,850 --> 00:03:49,409
+Well, looks like a good way to get lost,
+if you ask me.
+
+60
+00:03:49,489 --> 00:03:51,168
+For the unprepared, perhaps.
+
+61
+00:03:51,210 --> 00:03:55,647
+But I have instructed Barriss to memorize
+the labyrinth, all 200 junctions.
+
+62
+00:03:56,129 --> 00:03:57,887
+You always were thorough.
+
+63
+00:03:57,968 --> 00:04:00,807
+It pays for one to be prepared.
+Right, Barriss?
+
+64
+00:04:00,928 --> 00:04:03,807
+Especially when other people's lives
+depend on your success.
+
+65
+00:04:04,047 --> 00:04:08,206
+How do we keep the Geonosians occupied
+while someone else is setting the bombs?
+
+66
+00:04:08,607 --> 00:04:11,765
+Good point, Snips. If whoever is going
+in there is going to be successful,
+
+67
+00:04:11,806 --> 00:04:13,085
+we'll need to create a diversion.
+
+68
+00:04:13,166 --> 00:04:17,284
+Precisely. That task will be carried out
+by you and I, Skywalker,
+
+69
+00:04:17,365 --> 00:04:20,364
+while the destruction of the factory
+falls to the Padawans.
+
+70
+00:04:20,444 --> 00:04:24,363
+Now, hold on. Who decided that?
+Walking into that factory could be suicide.
+
+71
+00:04:24,444 --> 00:04:27,683
+Not if you and I are successful
+holding Poggle's attention at the bridge.
+
+72
+00:04:27,764 --> 00:04:31,402
+Master, I can do this!
+I've had riskier assignments.
+
+73
+00:04:31,483 --> 00:04:34,561
+But unlike Barriss,
+you aren't prepared for this mission.
+
+74
+00:04:34,643 --> 00:04:39,401
+Not to worry, my Padawan is reliable.
+She can lead them both through the maze.
+
+75
+00:04:39,482 --> 00:04:41,200
+We'll be in and out, Master.
+
+76
+00:04:41,281 --> 00:04:44,600
+See? Dependable Barriss
+will get us through.
+
+77
+00:04:44,681 --> 00:04:48,639
+Don't worry, Master.
+As you well know, I can follow orders.
+
+78
+00:04:49,081 --> 00:04:50,599
+It's decided, then.
+
+79
+00:04:51,839 --> 00:04:53,199
+I guess it is.
+
+80
+00:04:53,440 --> 00:04:56,238
+We'll monitor your progress
+on these chronometers.
+
+81
+00:04:56,319 --> 00:05:00,598
+Synchronize on my mark. Three, two, one,
+
+82
+00:05:01,078 --> 00:05:03,477
+mark.
+
+83
+00:05:04,278 --> 00:05:06,716
+Let's get going. After you, Barriss.
+
+84
+00:05:15,516 --> 00:05:17,395
+You feel Ahsoka is not up to the task?
+
+85
+00:05:18,075 --> 00:05:20,195
+- I never said that.
+- What is it, then?
+
+86
+00:05:21,155 --> 00:05:23,513
+Nothing. Let's prepare the men.
+
+87
+00:05:27,594 --> 00:05:30,672
+We'll have to make a bold move
+if we're to draw them out of the factory
+
+88
+00:05:30,754 --> 00:05:33,912
+and keep their attention on us
+and not the Padawans.
+
+89
+00:05:33,993 --> 00:05:36,592
+The best way to do that is to
+march our troops straight up the middle,
+
+90
+00:05:36,673 --> 00:05:38,992
+parade style. They can't resist that.
+
+91
+00:05:39,352 --> 00:05:42,671
+- With no cover?
+- Well, we have to make it tempting.
+
+92
+00:05:46,431 --> 00:05:49,550
+The factory is operating
+at 50% production capacity.
+
+93
+00:05:49,631 --> 00:05:52,589
+We have 10 garrisons of new droids
+ready to deploy.
+
+94
+00:05:55,469 --> 00:05:57,548
+No, the Super Tanks are not ready,
+
+95
+00:05:57,630 --> 00:06:00,428
+but when they are,
+the Republic forces will be routed.
+
+96
+00:06:00,509 --> 00:06:03,147
+They have no weapon
+that can penetrate its heavy armor.
+
+97
+00:06:14,187 --> 00:06:18,705
+Here come the droids. Everybody steady.
+Steady. Keep marching.
+
+98
+00:06:19,465 --> 00:06:22,305
+I hope the Padawans have made it
+past the bridge by now.
+
+99
+00:06:34,463 --> 00:06:38,502
+- That looks like a lot of droids.
+- Well, it is a droid factory.
+
+100
+00:06:38,983 --> 00:06:41,541
+As long as we can destroy them
+faster than they can make them,
+
+101
+00:06:41,623 --> 00:06:42,941
+we'll come out on top.
+
+102
+00:06:42,982 --> 00:06:45,701
+I love
+your simple logic, Skywalker.
+
+103
+00:06:45,782 --> 00:06:46,821
+Here we go!
+
+104
+00:06:54,180 --> 00:06:56,060
+Let them fall into the trap.
+
+105
+00:07:06,859 --> 00:07:08,897
+You may now commence attack.
+
+106
+00:07:43,573 --> 00:07:49,211
+- Nice work. Well, here goes nothing.
+- I should go in first. I know the way.
+
+107
+00:07:50,212 --> 00:07:51,610
+Be my guest.
+
+108
+00:08:27,246 --> 00:08:30,204
+- They're sleeping.
+- We have to find another way.
+
+109
+00:08:30,285 --> 00:08:33,044
+We don't have time.
+This direction is the fastest.
+
+110
+00:08:33,125 --> 00:08:35,564
+- Maybe you're wrong.
+- Trust me.
+
+111
+00:08:48,442 --> 00:08:50,361
+Ahsoka. Ahsoka!
+
+112
+00:09:20,077 --> 00:09:22,076
+They should have entered the catacombs
+by now.
+
+113
+00:09:22,317 --> 00:09:23,956
+I sure hope they're not lost down there.
+
+114
+00:09:25,757 --> 00:09:27,795
+Left at the next junction.
+
+115
+00:09:31,595 --> 00:09:33,914
+Dead end.
+- If we make a wrong turn,
+
+116
+00:09:33,995 --> 00:09:38,073
+we may never find our way out.
+You do remember the way, don't you?
+
+117
+00:09:38,675 --> 00:09:40,353
+Of course I do.
+
+118
+00:09:43,354 --> 00:09:45,192
+It's not left. It's up.
+
+119
+00:09:46,793 --> 00:09:47,952
+It's this way.
+
+120
+00:10:04,630 --> 00:10:07,269
+- Rex! A little help here.
+Get up there, trooper!
+
+121
+00:10:20,107 --> 00:10:23,426
+My lord, I beg you
+to let us use the secret weapons.
+
+122
+00:10:25,627 --> 00:10:29,305
+We have 20 units ready now
+and many more on the way.
+
+123
+00:10:32,826 --> 00:10:33,984
+Thank you, my lord.
+
+124
+00:10:35,505 --> 00:10:37,744
+Deploy the Super Tanks. Attack formation.
+
+125
+00:10:48,983 --> 00:10:52,621
+- Looks like the Separatists have a new toy.
+- Rex, pick your targets.
+
+126
+00:10:52,703 --> 00:10:55,141
+Yes, sir. Elevation 427.
+
+127
+00:11:06,261 --> 00:11:08,699
+Whoa! That's a lot of droids.
+
+128
+00:11:10,540 --> 00:11:12,619
+Come on.
+The main control room is this way.
+
+129
+00:11:18,138 --> 00:11:21,617
+Steady. Steady. Fire!
+
+130
+00:11:34,376 --> 00:11:37,015
+Our shields are holding.
+They can't touch us.
+
+131
+00:11:37,096 --> 00:11:38,414
+That's a relief.
+
+132
+00:11:41,655 --> 00:11:45,013
+- Sir, nothing could withstand that.
+- They must be ray-shielded.
+
+133
+00:11:47,654 --> 00:11:49,652
+This is it. We're here.
+
+134
+00:12:01,652 --> 00:12:04,770
+Two Jedi in the control room?
+That is impossible.
+
+135
+00:12:04,852 --> 00:12:06,570
+How could they have gotten past security?
+
+136
+00:12:10,690 --> 00:12:13,169
+And now, we make ourselves scarce.
+
+137
+00:12:23,968 --> 00:12:26,167
+Green light. The bombs are active!
+
+138
+00:12:26,848 --> 00:12:29,247
+- The Padawans did it.
+- And just in time!
+
+139
+00:12:31,567 --> 00:12:32,526
+Fire!
+
+140
+00:12:34,246 --> 00:12:35,246
+Get down!
+
+141
+00:12:52,603 --> 00:12:54,122
+You heard His Highness.
+
+142
+00:12:54,163 --> 00:12:57,202
+Collect their pathetic little bombs,
+then we will kill them.
+
+143
+00:13:06,761 --> 00:13:08,720
+See if your stupid tank can take this.
+
+144
+00:13:09,481 --> 00:13:11,320
+Fool.
+
+145
+00:13:11,400 --> 00:13:13,199
+The Super Tank is impervious
+to all weapons.
+
+146
+00:13:36,517 --> 00:13:39,075
+Rex! Tell the men to fall back!
+
+147
+00:13:39,116 --> 00:13:42,315
+But, sir, you can't be asking us
+to turn tail and run!
+
+148
+00:13:42,436 --> 00:13:44,194
+I'm not asking you to run, Rex.
+
+149
+00:13:44,236 --> 00:13:46,954
+I wanna draw those tanks out
+onto the bridge.
+
+150
+00:13:47,075 --> 00:13:51,873
+- I see what you have in mind.
+- I always come prepared, Master. Let's go!
+
+151
+00:13:57,033 --> 00:13:58,272
+The bombs!
+
+152
+00:14:08,352 --> 00:14:11,070
+Stupid green bugger!
+
+153
+00:14:29,229 --> 00:14:30,587
+Fall back! Fall back!
+
+154
+00:15:03,543 --> 00:15:05,022
+Give everything you've got.
+
+155
+00:15:26,420 --> 00:15:28,178
+- Uh-oh.
+- Roger, roger.
+
+156
+00:15:42,896 --> 00:15:45,935
+Where are they? Those bombs
+are gonna go off any second now.
+
+157
+00:15:46,577 --> 00:15:48,775
+Rex, any sign of Ahsoka or Barriss
+on your side?
+
+158
+00:15:49,335 --> 00:15:51,694
+No, sir.
+But this place is getting ready to blow.
+
+159
+00:15:51,735 --> 00:15:54,694
+The evacuation ships are arriving.
+I suggest you get on one.
+
+160
+00:15:54,895 --> 00:15:58,573
+- Not without Ahsoka.
+- My Padawan will not fail.
+
+161
+00:15:58,734 --> 00:16:01,812
+Ahsoka, can you hear me?
+Ahsoka, where are you?
+
+162
+00:16:14,692 --> 00:16:15,850
+Where did she go?
+
+163
+00:16:26,130 --> 00:16:28,688
+- The bugs took the bombs.
+- What are we gonna do now?
+
+164
+00:16:28,969 --> 00:16:31,248
+I don't know what to do
+without the bombs.
+
+165
+00:16:32,049 --> 00:16:35,208
+Well, this tank could destroy
+the power generator,
+
+166
+00:16:36,049 --> 00:16:40,967
+- and probably us along with it.
+- I guess that's our only choice.
+
+167
+00:16:42,248 --> 00:16:43,686
+Master, can you hear me?
+
+168
+00:16:44,687 --> 00:16:48,286
+- Master!
+- Ahsoka, set off the bombs! We're trapped!
+
+169
+00:16:48,766 --> 00:16:52,485
+- I'm sorry, Master. We can't make it out.
+Can't make it out?
+
+170
+00:16:53,125 --> 00:16:54,924
+- Ahsoka, wait!
+Fire!
+
+171
+00:17:14,883 --> 00:17:16,761
+Get down! Get down!
+
+172
+00:17:28,760 --> 00:17:30,239
+Ahsoka.
+
+173
+00:17:30,360 --> 00:17:32,559
+Ahsoka! Can you hear me? Come in!
+
+174
+00:17:34,559 --> 00:17:37,957
+- Master Luminara, don't worry.
+- Be at ease, Skywalker.
+
+175
+00:17:38,398 --> 00:17:40,637
+At ease? We need to act now!
+
+176
+00:17:40,678 --> 00:17:43,397
+Ahsoka and Barriss may still be alive
+down there.
+
+177
+00:17:43,518 --> 00:17:46,837
+There's not enough time.
+I sense them drifting away.
+
+178
+00:17:47,357 --> 00:17:49,396
+No. We'll get them out.
+
+179
+00:17:57,116 --> 00:17:59,634
+The tank lifters are here to move
+the debris as ordered, General.
+
+180
+00:17:59,675 --> 00:18:01,274
+Get to it, Rex.
+
+181
+00:18:10,073 --> 00:18:13,912
+- How deep do you think we're buried?
+- It's probably best not to think about it.
+
+182
+00:18:15,193 --> 00:18:16,951
+Hand me that power cell, would you?
+
+183
+00:18:20,072 --> 00:18:23,670
+- Thanks. Mind holding the light?
+- Whatever you're doing, I hope it works,
+
+184
+00:18:23,791 --> 00:18:28,230
+because I'd sure rather have died fighting
+up there than starve to death down here.
+
+185
+00:18:28,430 --> 00:18:31,709
+Don't worry, we'll run out of air
+long before we starve.
+
+186
+00:18:32,390 --> 00:18:34,669
+That's a comforting thought. Thanks.
+
+187
+00:18:35,190 --> 00:18:37,548
+Master Skywalker has taught me
+a trick or two.
+
+188
+00:18:37,589 --> 00:18:40,868
+I think I can get
+this communicator working.
+
+189
+00:18:47,507 --> 00:18:49,866
+We cannot abandon our Padawans.
+
+190
+00:18:49,908 --> 00:18:53,706
+You misjudge me.
+I, too, care for my apprentice.
+
+191
+00:18:54,387 --> 00:18:58,225
+- But if their time has come...
+- I refuse to let Ahsoka die.
+
+192
+00:18:58,305 --> 00:18:59,905
+She will find a way out.
+
+193
+00:19:00,466 --> 00:19:03,984
+If my Padawan has perished,
+I will mourn her,
+
+194
+00:19:04,105 --> 00:19:06,663
+but I will celebrate her as well
+through her memory.
+
+195
+00:19:06,944 --> 00:19:11,063
+Well, I still plan on celebrating this victory
+with my Padawan, in person.
+
+196
+00:19:12,224 --> 00:19:15,662
+What happens to us now doesn't matter.
+By destroying this factory,
+
+197
+00:19:15,783 --> 00:19:21,421
+- we've saved countless lives elsewhere.
+- Well, I'm about to save two more.
+
+198
+00:19:27,741 --> 00:19:30,860
+Wait. I'm picking up a pulse
+on Ahsoka's comm channel.
+
+199
+00:19:31,181 --> 00:19:32,540
+It's coming from over there.
+
+200
+00:19:33,101 --> 00:19:37,859
+Master, I know you're up there,
+and I know you're looking for me.
+
+201
+00:19:47,018 --> 00:19:49,497
+- I'll move the heavy machinery over, sir.
+- No time!
+
+202
+00:20:00,776 --> 00:20:02,455
+Someone's digging!
+
+203
+00:20:16,694 --> 00:20:18,493
+- Barriss!
+Ahsoka!
+
+204
+00:20:22,133 --> 00:20:25,251
+I knew they were still alive.
+I told you we shouldn't give up on them.
+
+205
+00:20:25,332 --> 00:20:27,290
+It's not that I gave up, Skywalker,
+
+206
+00:20:27,332 --> 00:20:32,530
+but unlike you, when the time comes,
+I am prepared to let my student go.
+
+207
+00:20:32,611 --> 00:20:34,530
+Can you say the same?
+
+208
+00:20:38,490 --> 00:20:42,928
+- I knew you'd come looking for me.
+- I never doubted you for a second.
+
+209
+00:20:43,809 --> 00:20:46,808
+- Padawan, you did well.
+- Thank you, Master.
+
+210
+00:20:46,849 --> 00:20:49,567
+But if it weren't for Ahsoka,
+we'd still be down there.
+
+211
+00:20:50,648 --> 00:20:54,687
+Indeed.
+Your Master never lost faith in you.
+

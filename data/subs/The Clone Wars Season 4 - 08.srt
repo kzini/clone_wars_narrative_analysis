@@ -1,0 +1,955 @@
+﻿1
+00:00:18,450 --> 00:00:19,870
+<i>Turning the tide!</i>
+
+2
+00:00:19,950 --> 00:00:23,700
+<i>As Separatist control over vital
+but isolated supply routes expands,</i>
+
+3
+00:00:23,790 --> 00:00:28,130
+<i>Republic forces invade a key planet,
+the darkened world of Umbara.</i>
+
+4
+00:00:28,290 --> 00:00:30,840
+<i>In the midst of helping
+Obi-Wan Kenobi's battalion</i>
+
+5
+00:00:30,920 --> 00:00:32,380
+<i>conquer the Umbaran capital,</i>
+
+6
+00:00:32,470 --> 00:00:35,230
+<i>Anakin Skywalker
+is called away to Coruscant.</i>
+
+7
+00:00:35,300 --> 00:00:37,130
+<i>His battalion is temporarily placed</i>
+
+8
+00:00:37,180 --> 00:00:39,760
+<i>under the command
+of Jedi General Pong Krell,</i>
+
+9
+00:00:39,970 --> 00:00:42,310
+<i>a shrewd and temperamental leader.</i>
+
+10
+00:00:42,850 --> 00:00:44,310
+<i>Krell's reckless strategy</i>
+
+11
+00:00:44,350 --> 00:00:48,850
+<i>forced Captain Rex to retreat
+with his platoons in a disastrous defeat.</i>
+
+12
+00:01:11,300 --> 00:01:13,600
+We have got to move
+before those fighters come back.
+
+13
+00:01:13,670 --> 00:01:16,220
+Rex! Rex, over here!
+
+14
+00:01:18,680 --> 00:01:21,890
+Jesse, take the right flank.
+Dogma, take the left flank.
+
+15
+00:01:31,190 --> 00:01:33,690
+It'll be okay,
+buddy. This will ease the pain.
+
+16
+00:01:43,540 --> 00:01:45,450
+<i>The capital city's too fortified.</i>
+
+17
+00:01:45,540 --> 00:01:47,450
+<i>We need your battalion to help us take it.</i>
+
+18
+00:01:47,920 --> 00:01:51,140
+Resistance from the Umbarans
+has been greater than anticipated.
+
+19
+00:01:51,210 --> 00:01:52,770
+We're holding our ground at the moment.
+
+20
+00:01:52,920 --> 00:01:55,340
+<i>We've gathered intel
+on an airbase to the west.</i>
+
+21
+00:01:55,380 --> 00:01:57,060
+<i>It is re-supplying the capital's defenses.</i>
+
+22
+00:01:57,090 --> 00:01:58,220
+Incoming! Incoming!
+
+23
+00:01:58,970 --> 00:02:00,630
+Get down, get down!
+
+24
+00:02:03,060 --> 00:02:06,440
+<i>If you could capture that airbase,
+it will sever the capital's supply lines</i>
+
+25
+00:02:06,640 --> 00:02:08,770
+<i>allowing the rest of our forces to move in.</i>
+
+26
+00:02:09,100 --> 00:02:12,230
+I'll see to it that the airbase
+is placed under our control.
+
+27
+00:02:12,650 --> 00:02:13,860
+<i>Remember, General Krell,</i>
+
+28
+00:02:13,900 --> 00:02:17,780
+<i>the entire invasion
+depends on your battalion.</i>
+
+29
+00:02:18,400 --> 00:02:21,030
+Captain Rex,
+have those coordinates mapped
+
+30
+00:02:21,120 --> 00:02:23,380
+and all troops ready
+to move out immediately!
+
+31
+00:02:23,410 --> 00:02:24,580
+Yes, General!
+
+32
+00:02:49,190 --> 00:02:52,200
+There's a base there, all right,
+and it's heavily guarded.
+
+33
+00:02:53,110 --> 00:02:55,370
+At least three tank divisions, plus guns.
+
+34
+00:02:55,770 --> 00:02:57,980
+We'll advance along the central gorge
+
+35
+00:02:58,070 --> 00:03:01,610
+and engage their forces
+in a full-forward assault.
+
+36
+00:03:01,660 --> 00:03:03,290
+The gorge is narrow, sir.
+
+37
+00:03:03,450 --> 00:03:06,530
+We'll only be able to move our platoons
+in single squads.
+
+38
+00:03:07,160 --> 00:03:10,370
+Perhaps a closer recon will tell us
+if there's a more secure route.
+
+39
+00:03:11,120 --> 00:03:14,420
+Obi-Wan and the other battalions
+are holding off the enemy right now
+
+40
+00:03:14,630 --> 00:03:16,750
+while they wait for us
+to take out this base.
+
+41
+00:03:17,130 --> 00:03:19,800
+We don't have time
+to look for a more secure route.
+
+42
+00:03:21,380 --> 00:03:22,550
+Yes, sir.
+
+43
+00:03:33,980 --> 00:03:35,650
+All right, listen up.
+
+44
+00:03:35,690 --> 00:03:37,810
+We'll assemble the squads
+into two divisions.
+
+45
+00:03:37,940 --> 00:03:40,980
+We'll move straight up this gorge
+towards the airbase at the far side.
+
+46
+00:03:41,400 --> 00:03:43,150
+The casualties are going to be high.
+
+47
+00:03:43,280 --> 00:03:44,990
+Is Krell trying to get us killed?
+
+48
+00:03:45,160 --> 00:03:48,030
+You know, I wasn't sure
+that Krell was crazy before,
+
+49
+00:03:48,120 --> 00:03:50,120
+but now I'm positive.
+
+50
+00:03:50,410 --> 00:03:52,000
+We had to retreat from the capital
+
+51
+00:03:52,080 --> 00:03:55,330
+because the General pushed
+a flawed strategy. Now this?
+
+52
+00:03:55,670 --> 00:03:57,790
+I don't know! Could be fun.
+
+53
+00:03:57,880 --> 00:04:00,500
+Well, I, for one,
+agree with the General's plan.
+
+54
+00:04:00,710 --> 00:04:03,510
+We're running out of time
+and this is the best option.
+
+55
+00:04:03,800 --> 00:04:08,220
+No recon? No air support?
+We don't know what we're up against.
+
+56
+00:04:08,640 --> 00:04:10,930
+They have weapons
+we've never seen before.
+
+57
+00:04:11,270 --> 00:04:14,430
+A few of General Skywalker's plans
+seemed reckless, too,
+
+58
+00:04:14,690 --> 00:04:15,770
+but they worked.
+
+59
+00:04:15,850 --> 00:04:20,020
+Yeah, but General Skywalker is usually
+leading his men up in the front
+
+60
+00:04:20,280 --> 00:04:22,690
+not bringing up the
+rear like General Krell.
+
+61
+00:04:23,030 --> 00:04:26,030
+A full-forward assault
+would leave us too exposed.
+
+62
+00:04:30,700 --> 00:04:31,766
+We have to look at other options.
+
+63
+00:04:31,790 --> 00:04:33,950
+- It's going to be a meat grinder.
+- Fives.
+
+64
+00:04:38,880 --> 00:04:41,380
+It would help if you eased their minds.
+
+65
+00:04:41,840 --> 00:04:45,220
+What, you mean coax them into following
+another one of Krell's suicide missions?
+
+66
+00:04:45,340 --> 00:04:46,970
+We lost a lot of men last time.
+
+67
+00:04:47,180 --> 00:04:50,850
+Krell may do things differently,
+but he is effective in getting them done.
+
+68
+00:04:51,270 --> 00:04:52,690
+He's a recognized war hero.
+
+69
+00:04:53,100 --> 00:04:56,730
+He may have had some victories,
+but have you seen his casualty numbers?
+
+70
+00:04:56,770 --> 00:04:59,980
+More troopers have been killed
+under his command than anyone else!
+
+71
+00:05:00,770 --> 00:05:02,230
+That's the price of war, Fives.
+
+72
+00:05:03,320 --> 00:05:06,030
+We're soldiers.
+We have a duty to follow orders and,
+
+73
+00:05:06,070 --> 00:05:09,160
+if we must, lay down our lives for victory.
+
+74
+00:05:09,830 --> 00:05:11,460
+You believe that,
+
+75
+00:05:11,540 --> 00:05:14,090
+or is that what you were
+engineered to think?
+
+76
+00:05:14,120 --> 00:05:17,410
+I honor my code. That's what I believe.
+
+77
+00:05:28,800 --> 00:05:32,100
+- Is everyone clear on the plan? Hardcase?
+- Yes, sir.
+
+78
+00:05:32,140 --> 00:05:35,770
+- Fives, are you clear?
+- Yeah.
+
+79
+00:05:35,980 --> 00:05:38,770
+All right, get in your groups.
+Let's move out.
+
+80
+00:06:07,800 --> 00:06:10,680
+Everybody stay alert.
+Fingers on the trigger.
+
+81
+00:06:14,720 --> 00:06:16,640
+They look spooked.
+
+82
+00:06:18,520 --> 00:06:19,890
+What the...
+
+83
+00:06:27,360 --> 00:06:29,280
+Oh, skrag!
+
+84
+00:06:34,490 --> 00:06:35,490
+Blast it!
+
+85
+00:06:56,810 --> 00:06:57,970
+Look out!
+
+86
+00:07:00,190 --> 00:07:01,950
+Its head is ray-shielded!
+
+87
+00:07:02,020 --> 00:07:03,850
+We need rocket launchers!
+
+88
+00:07:15,030 --> 00:07:18,160
+Mayday, mayday!
+Rex, we need rocket launchers now!
+
+89
+00:07:20,710 --> 00:07:23,330
+Get those rocket launchers down there!
+Move it, troopers!
+
+90
+00:07:31,380 --> 00:07:33,550
+- Take it, take it.
+- Thanks, buddy.
+
+91
+00:07:33,640 --> 00:07:35,900
+I got him, I got him.
+
+92
+00:07:38,140 --> 00:07:39,560
+Go! Go, go, go!
+
+93
+00:07:40,310 --> 00:07:41,680
+Keep moving, keep moving!
+
+94
+00:08:09,130 --> 00:08:11,760
+- That was close.
+- You got a point there.
+
+95
+00:08:11,920 --> 00:08:13,550
+Move it, trooper.
+
+96
+00:08:16,390 --> 00:08:18,600
+Everyone regroup, now! Take cover!
+
+97
+00:08:19,010 --> 00:08:20,470
+Move it! Move it!
+
+98
+00:08:28,020 --> 00:08:30,940
+We're safe for the moment,
+but they'll be coming around any second.
+
+99
+00:08:31,400 --> 00:08:34,610
+Bring up the launchers,
+spread detonators along that corridor.
+
+100
+00:08:34,780 --> 00:08:38,200
+Trap them into the bottleneck.
+We're going to blow those things sky high.
+
+101
+00:08:40,830 --> 00:08:42,620
+Hurry up, we only have a few seconds.
+
+102
+00:08:49,500 --> 00:08:50,630
+Here they come!
+
+103
+00:08:53,260 --> 00:08:54,630
+Hey, come on! Over here!
+
+104
+00:08:54,680 --> 00:08:55,986
+- Let's see how tough you are!
+- Hey! Hey! Hey!
+
+105
+00:08:56,010 --> 00:08:57,300
+Right over here!
+
+106
+00:08:57,680 --> 00:08:58,800
+Over here!
+
+107
+00:09:19,370 --> 00:09:21,320
+We got her! We got them!
+
+108
+00:09:22,490 --> 00:09:24,910
+Good job! All right, let's move out.
+
+109
+00:09:51,400 --> 00:09:53,770
+That one's still got some juice in it,
+waste it!
+
+110
+00:09:53,860 --> 00:09:54,860
+Sure.
+
+111
+00:10:01,870 --> 00:10:03,370
+No juice left in him either.
+
+112
+00:10:08,370 --> 00:10:11,000
+Hey! Still hungry?
+
+113
+00:10:11,460 --> 00:10:12,670
+Chew on that!
+
+114
+00:10:16,090 --> 00:10:18,010
+Everyone, keep moving.
+
+115
+00:10:19,260 --> 00:10:20,630
+Hey, Kix, leave it.
+
+116
+00:10:43,240 --> 00:10:44,450
+We've got a problem.
+
+117
+00:10:47,660 --> 00:10:50,120
+Fall back! Fall back now!
+
+118
+00:11:06,560 --> 00:11:08,310
+What are they doing?
+
+119
+00:11:08,680 --> 00:11:10,770
+Captain, continue your attack!
+
+120
+00:11:10,850 --> 00:11:14,150
+Sir, we're overpowered.
+We need reinforcements!
+
+121
+00:11:14,560 --> 00:11:17,570
+The rest of the battalion is holding
+the entrance to the gorge, Captain.
+
+122
+00:11:17,650 --> 00:11:20,690
+They're guarding it so your troops
+can break through to the airbase.
+
+123
+00:11:23,120 --> 00:11:25,630
+- Sir, we can't possibly...
+- You must stand your ground!
+
+124
+00:11:25,660 --> 00:11:26,780
+Do you read me?
+
+125
+00:11:26,950 --> 00:11:28,950
+<i>Captain, are you listening?</i>
+
+126
+00:11:29,120 --> 00:11:31,870
+Do not fall back! That is an order!
+
+127
+00:11:36,040 --> 00:11:38,460
+The platoons are in the formation
+you requested, General.
+
+128
+00:11:38,840 --> 00:11:40,710
+Should I send them
+to support Captain Rex?
+
+129
+00:11:41,130 --> 00:11:44,470
+I'll give the order when I give it,
+Sergeant Appo.
+
+130
+00:11:56,230 --> 00:11:58,060
+Keep the wounded as quiet as possible.
+
+131
+00:11:58,320 --> 00:12:00,980
+All right, you heard the General. Let's go.
+
+132
+00:12:01,030 --> 00:12:02,820
+You can't be serious.
+
+133
+00:12:02,990 --> 00:12:05,240
+I used to think General Krell was reckless,
+
+134
+00:12:05,320 --> 00:12:07,530
+but now I'm beginning to think
+he just hates clones.
+
+135
+00:12:07,620 --> 00:12:10,200
+The Captain is right. Now let's move out.
+
+136
+00:12:11,160 --> 00:12:14,580
+We can't take them head-on.
+We need to find another way.
+
+137
+00:12:14,790 --> 00:12:16,420
+You got any ideas?
+
+138
+00:12:18,460 --> 00:12:19,750
+Then this is it.
+
+139
+00:12:21,300 --> 00:12:23,630
+Okay. Let's do it!
+
+140
+00:13:05,590 --> 00:13:07,800
+The rocket launchers
+don't work on these things!
+
+141
+00:13:20,770 --> 00:13:23,070
+Help me with the wounded!
+
+142
+00:13:25,900 --> 00:13:28,070
+We got to get these guys out of here.
+
+143
+00:13:36,120 --> 00:13:37,750
+Forget it, we have to leave them!
+
+144
+00:13:38,080 --> 00:13:39,280
+We can't just leave them, sir!
+
+145
+00:13:39,330 --> 00:13:41,460
+You don't have a choice. That's an order!
+
+146
+00:13:41,750 --> 00:13:43,590
+You sound like General Krell.
+
+147
+00:13:45,510 --> 00:13:48,630
+Look, Kix, it's more important
+to save yourself right now.
+
+148
+00:13:48,890 --> 00:13:51,480
+If we survive,
+you can patch up the wounded later.
+
+149
+00:13:53,930 --> 00:13:55,720
+We're finished.
+
+150
+00:13:55,770 --> 00:14:00,310
+We've still got some fight left in us, Tup,
+and I've got an idea.
+
+151
+00:14:01,060 --> 00:14:02,150
+What were you thinking?
+
+152
+00:14:02,360 --> 00:14:03,520
+Remember what you were saying
+
+153
+00:14:03,570 --> 00:14:06,030
+about finding another way
+to destroy those tanks?
+
+154
+00:14:06,110 --> 00:14:09,400
+- Yeah.
+- Well, I have a mission for you.
+
+155
+00:14:10,240 --> 00:14:12,950
+CT-7567, where are you?
+
+156
+00:14:13,200 --> 00:14:16,740
+<i>General Krell, we've come up with a plan
+to infiltrate the airbase.</i>
+
+157
+00:14:16,790 --> 00:14:18,290
+What is your plan?
+
+158
+00:14:18,500 --> 00:14:21,710
+<i>I've dispatched two men
+on a stealth incursion into the airbase.</i>
+
+159
+00:14:21,790 --> 00:14:25,340
+<i>They've been ordered to co-opt starfighters
+and use them against the tanks.</i>
+
+160
+00:14:25,510 --> 00:14:26,760
+You what?
+
+161
+00:14:26,800 --> 00:14:29,670
+You've put this entire assault on your hope
+
+162
+00:14:29,760 --> 00:14:33,220
+that two clones can do
+what your entire group could not?
+
+163
+00:14:33,760 --> 00:14:36,140
+<i>Sir, the rocket launchers
+don't work on these tanks</i>
+
+164
+00:14:36,390 --> 00:14:38,350
+<i>and it'll be easier to slip by undetected</i>
+
+165
+00:14:38,440 --> 00:14:40,490
+<i>while the rest of us
+keep the tanks occupied.</i>
+
+166
+00:14:40,650 --> 00:14:43,990
+Captain, you will launch
+a full-forward strike immediately
+
+167
+00:14:44,020 --> 00:14:46,520
+or you will be relieved of duty.
+
+168
+00:14:48,820 --> 00:14:50,650
+We need to hold out as long as we can.
+
+169
+00:14:50,860 --> 00:14:54,200
+I'm trusting Fives and Hardcase
+to pull this thing off.
+
+170
+00:14:54,910 --> 00:14:57,330
+The second they spot us, I start blasting.
+
+171
+00:14:57,750 --> 00:15:00,000
+Hardcase, can't you take it easy for once?
+
+172
+00:15:00,210 --> 00:15:02,920
+Stick to the plan, instead of guns blazing.
+
+173
+00:15:03,210 --> 00:15:05,040
+I'm sorry, it's just how I am.
+
+174
+00:15:05,170 --> 00:15:08,500
+My commander on Kamino said my
+growth acceleration chamber had a leak.
+
+175
+00:15:08,800 --> 00:15:10,630
+Made me hyper-active, I guess.
+
+176
+00:15:10,680 --> 00:15:12,270
+Shh! There's the airbase.
+
+177
+00:15:19,060 --> 00:15:20,060
+Hmm...
+
+178
+00:15:22,020 --> 00:15:23,480
+Some kind of sensor wall.
+
+179
+00:15:28,690 --> 00:15:30,360
+Use the tree to get over the sensor wall.
+
+180
+00:15:31,030 --> 00:15:34,700
+Uh, how am I supposed to do this, exactly?
+
+181
+00:15:35,330 --> 00:15:36,330
+Figure it out.
+
+182
+00:15:43,040 --> 00:15:46,040
+"Figure it out, Hardcase. Figure it out."
+
+183
+00:15:46,170 --> 00:15:47,970
+What's to figure out
+about climbing up a tree?
+
+184
+00:15:48,050 --> 00:15:49,750
+How about you try it next time?
+
+185
+00:15:53,050 --> 00:15:54,630
+Great, nice view.
+
+186
+00:16:00,180 --> 00:16:02,560
+I prefer a good fight
+to all this sneaking around.
+
+187
+00:16:36,010 --> 00:16:38,970
+Wow, I never actually thought
+that would work.
+
+188
+00:17:47,040 --> 00:17:49,170
+So, how do I start this thing?
+
+189
+00:17:49,330 --> 00:17:51,880
+Well, how should I know?
+Start pushing buttons!
+
+190
+00:18:11,020 --> 00:18:12,520
+Glad these things are ray-shielded.
+
+191
+00:18:27,500 --> 00:18:29,460
+I don't think I can do this!
+
+192
+00:18:35,590 --> 00:18:36,840
+Watch out!
+
+193
+00:18:54,900 --> 00:18:56,820
+Let's hope this trip was worth it.
+
+194
+00:18:57,030 --> 00:18:58,320
+All right, let's go!
+
+195
+00:19:07,250 --> 00:19:09,920
+Hey, Kix, put it down, you're wasting aim.
+
+196
+00:19:29,930 --> 00:19:32,810
+- Clear out, Captain!
+- The big guns have arrived, sir!
+
+197
+00:19:48,700 --> 00:19:49,910
+Take that!
+
+198
+00:20:01,470 --> 00:20:02,630
+That's the stuff!
+
+199
+00:20:08,310 --> 00:20:09,970
+Whoo-hoo!
+
+200
+00:20:10,810 --> 00:20:12,480
+Way to go, boys!
+
+201
+00:20:13,350 --> 00:20:14,770
+Attaboy, Hardcase!
+
+202
+00:20:17,230 --> 00:20:18,650
+All right, let's bring them home.
+
+203
+00:20:24,110 --> 00:20:25,360
+Impressive.
+
+204
+00:20:25,910 --> 00:20:28,320
+Sergeant, their defenses are down.
+
+205
+00:20:28,410 --> 00:20:31,790
+Send in the rest of our forces.
+Attack the airbase!
+
+206
+00:20:32,080 --> 00:20:33,870
+All units, move out.
+
+207
+00:21:04,400 --> 00:21:07,950
+Despite Hardcase's flying,
+you two saved us all.
+
+208
+00:21:08,320 --> 00:21:09,570
+That wasn't so tough.
+
+209
+00:21:09,870 --> 00:21:13,160
+You sure? You looked a little green
+when you came out of that fighter.
+
+210
+00:21:14,370 --> 00:21:17,420
+Captain. Report. What is our situation?
+
+211
+00:21:19,290 --> 00:21:23,050
+General, we have taken the base and
+cut off enemy supply lines to the capital.
+
+212
+00:21:23,550 --> 00:21:28,800
+Luck has smiled on you today, Captain.
+Consider yourself fortunate.
+
+213
+00:21:29,300 --> 00:21:33,560
+It wasn't all luck, sir.
+A lot of men died to take this base.
+
+214
+00:21:33,850 --> 00:21:38,230
+The price for such victory.
+Perhaps someday you'll realize this.
+
+215
+00:21:44,280 --> 00:21:45,610
+Dismissed.
+
+216
+00:21:47,320 --> 00:21:50,160
+He's the one who will never realize.
+

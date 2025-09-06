@@ -1,0 +1,1323 @@
+﻿1
+00:00:17,940 --> 00:00:20,110
+<i>Secret transmission intercepted!</i>
+
+2
+00:00:20,140 --> 00:00:22,610
+<i>The Jedi Council has intercepted</i>
+
+3
+00:00:22,640 --> 00:00:24,910
+<i>an encoded transmission
+of General Grievous.</i>
+
+4
+00:00:24,940 --> 00:00:27,340
+<i>However, Republic Intelligence officers</i>
+
+5
+00:00:27,380 --> 00:00:29,380
+<i>have failed to crack
+the new encryption code</i>
+
+6
+00:00:29,410 --> 00:00:30,980
+<i>being used by the droids.</i>
+
+7
+00:00:31,020 --> 00:00:33,256
+<i>Fears escalate that the Separatists</i>
+
+8
+00:00:33,280 --> 00:00:36,220
+<i>are about to mount a major offensive.</i>
+
+9
+00:00:36,250 --> 00:00:38,050
+<i>Having located the source
+of the transmission</i>
+
+10
+00:00:38,090 --> 00:00:39,820
+<i>deep in Separatist space,</i>
+
+11
+00:00:39,860 --> 00:00:41,390
+<i>the Jedi plan a counterstrike</i>
+
+12
+00:00:41,420 --> 00:00:43,690
+<i>to capture an enemy decoding chip</i>
+
+13
+00:00:43,730 --> 00:00:45,960
+<i>which will allow them
+to understand the transmission</i>
+
+14
+00:00:46,000 --> 00:00:50,110
+<i>and thwart the Separatist plot.</i>
+
+15
+00:00:52,500 --> 00:00:55,740
+Time is not on our side,
+so I'll make this short.
+
+16
+00:00:55,770 --> 00:00:58,510
+You droids have been chosen
+for a very important mission.
+
+17
+00:01:00,310 --> 00:01:02,140
+There's an encryption module
+
+18
+00:01:02,180 --> 00:01:04,080
+on board this Separatist dreadnought.
+
+19
+00:01:04,110 --> 00:01:06,880
+This device is scrambling
+all Separatist communication
+
+20
+00:01:06,910 --> 00:01:08,210
+in the region.
+
+21
+00:01:08,250 --> 00:01:11,120
+We believe you five
+can get behind enemy lines,
+
+22
+00:01:11,150 --> 00:01:12,320
+infiltrate the vault
+
+23
+00:01:12,350 --> 00:01:14,320
+without drawing attention to yourselves,
+
+24
+00:01:14,360 --> 00:01:17,070
+and steal that encryption module.
+
+25
+00:01:23,600 --> 00:01:26,270
+WAC-47, reporting for duty!
+
+26
+00:01:26,300 --> 00:01:27,300
+Sorry I am late.
+
+27
+00:01:27,340 --> 00:01:28,710
+I thought the message said to meet
+
+28
+00:01:28,740 --> 00:01:31,340
+in the "Jedi storeroom",
+whatever that is.
+
+29
+00:01:31,370 --> 00:01:32,470
+Heh.
+
+30
+00:01:32,510 --> 00:01:34,470
+So did I miss anything?
+
+31
+00:01:34,510 --> 00:01:37,110
+Fall in line, soldier.
+
+32
+00:01:45,650 --> 00:01:48,420
+So I hear we're
+gonna be taking out Separatists.
+
+33
+00:01:51,460 --> 00:01:52,830
+I will be honest.
+
+34
+00:01:52,860 --> 00:01:55,060
+Some of you may not make it back.
+
+35
+00:01:55,100 --> 00:01:56,936
+What... why is he looking at me?
+
+36
+00:01:56,960 --> 00:02:00,430
+Uh, were you just looking at me?
+
+37
+00:02:02,300 --> 00:02:04,200
+I... I was just kidding.
+
+38
+00:02:04,240 --> 00:02:06,370
+But I have faith in your abilities.
+
+39
+00:02:06,410 --> 00:02:08,870
+You are not ordinary droids.
+
+40
+00:02:08,910 --> 00:02:10,910
+You've worked with the Jedi before.
+
+41
+00:02:10,950 --> 00:02:14,256
+You are our secret weapons.
+
+42
+00:02:14,280 --> 00:02:17,120
+Now, let me turn you over
+to your mission leader.
+
+43
+00:02:17,150 --> 00:02:19,290
+The colonel is one of our top minds
+
+44
+00:02:19,320 --> 00:02:20,920
+at Strategic Command.
+
+45
+00:02:20,960 --> 00:02:23,790
+He's been with the Republic
+since the Battle of Geonosis,
+
+46
+00:02:23,830 --> 00:02:25,200
+Colonel Meebur Gascon.
+
+47
+00:02:35,570 --> 00:02:37,170
+Thank you, Master Windu.
+
+48
+00:02:37,210 --> 00:02:39,650
+I'll take it from here.
+
+49
+00:02:39,680 --> 00:02:42,120
+May the Force be with you.
+
+50
+00:02:51,720 --> 00:02:52,950
+Attention!
+
+51
+00:02:56,320 --> 00:02:58,860
+Now, I'm only gonna say this once,
+
+52
+00:02:58,890 --> 00:03:01,390
+so turn up your audio inputs.
+
+53
+00:03:03,430 --> 00:03:06,700
+Once we're inside the cruiser,
+we make our way to "C" deck.
+
+54
+00:03:06,730 --> 00:03:10,170
+That's where their
+communication center is housed.
+
+55
+00:03:10,200 --> 00:03:12,570
+We bypass security here and here,
+
+56
+00:03:12,610 --> 00:03:14,580
+divert the super battle droids here.
+
+57
+00:03:14,610 --> 00:03:16,970
+Then we break the vault code,
+beat the swarm mines,
+
+58
+00:03:17,010 --> 00:03:18,380
+steal the encryption module,
+
+59
+00:03:18,410 --> 00:03:20,840
+and return home in time
+for my promotion ceremony
+
+60
+00:03:20,880 --> 00:03:22,110
+to brigadier general.
+
+61
+00:03:22,150 --> 00:03:23,450
+Are we clear?
+
+62
+00:03:29,120 --> 00:03:30,860
+Uh... uh...
+
+63
+00:03:30,890 --> 00:03:32,560
+Good, that's what I like:
+
+64
+00:03:32,590 --> 00:03:34,230
+No questions.
+
+65
+00:03:34,260 --> 00:03:35,830
+Oh.
+
+66
+00:03:35,860 --> 00:03:40,100
+D-Squad, fall in line!
+
+67
+00:03:48,840 --> 00:03:51,210
+The line starts behind me, mech.
+
+68
+00:03:51,240 --> 00:03:52,580
+Clang!
+
+69
+00:04:14,400 --> 00:04:17,970
+Over here, you mechs, front and center.
+
+70
+00:04:18,000 --> 00:04:20,070
+This is Dr. Gubacher.
+
+71
+00:04:20,100 --> 00:04:23,200
+- He is...
+- Uh, uh, Corporal?
+
+72
+00:04:23,240 --> 00:04:24,217
+Colonel.
+
+73
+00:04:24,241 --> 00:04:25,440
+Right.
+
+74
+00:04:25,480 --> 00:04:27,810
+Well, I just want
+to set the record straight.
+
+75
+00:04:27,850 --> 00:04:29,086
+I am not a mech.
+
+76
+00:04:29,110 --> 00:04:30,850
+You called us all mechs back there,
+
+77
+00:04:30,880 --> 00:04:33,420
+but as you can see, I am a WAC.
+
+78
+00:04:33,450 --> 00:04:35,450
+Granted, my master's not a Jedi,
+
+79
+00:04:35,490 --> 00:04:37,890
+but I am a different class of droid...
+
+80
+00:04:37,920 --> 00:04:39,620
+better engineering.
+
+81
+00:04:42,530 --> 00:04:47,100
+As I was saying,
+before I was rudely interrupted,
+
+82
+00:04:47,130 --> 00:04:50,100
+Dr. Gubacher
+is going to equip each of you
+
+83
+00:04:50,140 --> 00:04:51,540
+with a tactical upgrade
+
+84
+00:04:51,570 --> 00:04:53,740
+specially designed for this mission.
+
+85
+00:04:55,010 --> 00:04:56,940
+All right, enough with the chatter.
+
+86
+00:04:56,980 --> 00:04:59,120
+Let's get this show on the road.
+
+87
+00:04:59,150 --> 00:05:00,656
+Cyclops,
+
+88
+00:05:00,680 --> 00:05:01,750
+you're not needed here.
+
+89
+00:05:01,780 --> 00:05:03,750
+Go prepare our shuttle for launch.
+
+90
+00:05:14,460 --> 00:05:16,530
+R2-D2,
+
+91
+00:05:16,560 --> 00:05:18,600
+these advanced rocket boosters
+
+92
+00:05:18,630 --> 00:05:22,270
+should give you better aerial mobility
+
+93
+00:05:22,300 --> 00:05:25,170
+and for longer periods of time.
+
+94
+00:05:25,200 --> 00:05:26,740
+Ah, but be advised:
+
+95
+00:05:26,770 --> 00:05:30,570
+The navigation controls
+are finely tuned.
+
+96
+00:05:30,610 --> 00:05:32,510
+QT-KT,
+
+97
+00:05:32,550 --> 00:05:36,590
+this coil
+is a remote-controlled magnet.
+
+98
+00:05:36,620 --> 00:05:40,830
+It can attract any metal object
+in a seven-meter radius.
+
+99
+00:05:41,850 --> 00:05:43,850
+But when dealing with mines,
+
+100
+00:05:43,890 --> 00:05:46,490
+you'll want to take care.
+
+101
+00:05:46,520 --> 00:05:50,530
+The magnetic force
+is extremely powerful.
+
+102
+00:05:50,560 --> 00:05:53,860
+U9-C4, this laser-cutter
+
+103
+00:05:53,900 --> 00:05:58,330
+will slice through most
+materials you encounter.
+
+104
+00:05:58,370 --> 00:06:00,670
+But make sure
+you're in a locked position.
+
+105
+00:06:03,500 --> 00:06:06,640
+The recoil packs quite a wallop.
+
+106
+00:06:12,510 --> 00:06:14,050
+No, no, no, no, no.
+
+107
+00:06:14,080 --> 00:06:18,680
+M5-BZ, we are not
+putting anything inside you.
+
+108
+00:06:18,720 --> 00:06:20,790
+We're taking something out:
+
+109
+00:06:20,820 --> 00:06:22,390
+Your memory banks.
+
+110
+00:06:24,160 --> 00:06:27,590
+I'll be making the extraction myself
+
+111
+00:06:27,630 --> 00:06:29,060
+in the salvage room.
+
+112
+00:06:32,900 --> 00:06:34,030
+I am sorry,
+
+113
+00:06:34,070 --> 00:06:35,130
+but we need to make room
+
+114
+00:06:35,170 --> 00:06:37,600
+for the colonel's command center.
+
+115
+00:06:37,640 --> 00:06:39,570
+No need to baby him.
+
+116
+00:06:39,610 --> 00:06:41,940
+He's just a droid.
+
+117
+00:06:41,980 --> 00:06:46,520
+Fortunately,
+he won't remember any of this.
+
+118
+00:07:01,890 --> 00:07:03,630
+What do you want, BZ?
+
+119
+00:07:03,660 --> 00:07:06,130
+It's me, you moron.
+
+120
+00:07:06,170 --> 00:07:07,970
+What are you doing in there, Corporal?
+
+121
+00:07:08,000 --> 00:07:10,900
+And how many times
+do I have to tell you?
+
+122
+00:07:10,940 --> 00:07:12,900
+It's colonel.
+
+123
+00:07:14,070 --> 00:07:16,040
+Nice setup.
+
+124
+00:07:16,080 --> 00:07:18,740
+I want to know
+why I did not get an upgrade.
+
+125
+00:07:18,780 --> 00:07:21,880
+Because you are just a pilot!
+
+126
+00:07:22,920 --> 00:07:24,120
+Now do your job
+
+127
+00:07:24,150 --> 00:07:25,880
+and pilot this ship!
+
+128
+00:07:27,130 --> 00:07:30,120
+Just a pilot...
+we will see about that.
+
+129
+00:07:47,750 --> 00:07:49,990
+All right, Cyclops, listen up.
+
+130
+00:07:50,020 --> 00:07:52,560
+I want you to alert me
+when we near the dreadnought.
+
+131
+00:07:52,630 --> 00:07:55,436
+I have a plan on how
+to attract their attention.
+
+132
+00:07:55,460 --> 00:07:56,660
+Relax.
+
+133
+00:07:56,700 --> 00:07:58,610
+I already took care of it.
+
+134
+00:08:02,230 --> 00:08:03,670
+What do you mean?
+
+135
+00:08:03,700 --> 00:08:05,600
+What did you do?
+
+136
+00:08:05,640 --> 00:08:09,810
+I put us on a collision course
+with the dreadnought.
+
+137
+00:08:24,520 --> 00:08:25,497
+See, Corporal?
+
+138
+00:08:25,521 --> 00:08:26,760
+I am not just a pilot.
+
+139
+00:08:26,790 --> 00:08:27,960
+You idiot!
+
+140
+00:08:27,990 --> 00:08:30,060
+We're caught in a tractor beam.
+
+141
+00:08:50,680 --> 00:08:52,050
+Hold it right there.
+
+142
+00:08:52,080 --> 00:08:54,020
+Out of the way, tin cans.
+
+143
+00:08:56,550 --> 00:08:59,890
+Let's check the cockpit.
+
+144
+00:09:04,800 --> 00:09:08,000
+No sign of life, just these droids.
+
+145
+00:09:08,040 --> 00:09:09,710
+Continue your search
+
+146
+00:09:09,740 --> 00:09:14,380
+while I take these droids
+in for interrogation.
+
+147
+00:09:22,080 --> 00:09:24,550
+Everyone just stay calm.
+
+148
+00:09:27,520 --> 00:09:28,760
+Oh, my gosh!
+
+149
+00:09:29,960 --> 00:09:32,030
+You are Republic droids!
+
+150
+00:09:32,060 --> 00:09:34,830
+That is right, and I am their leader.
+
+151
+00:09:36,930 --> 00:09:38,470
+Yeah, I got him.
+
+152
+00:09:41,070 --> 00:09:42,900
+Well, thanks for the assist, QT.
+
+153
+00:09:58,950 --> 00:10:00,650
+All right, listen up.
+
+154
+00:10:00,690 --> 00:10:03,820
+The next phase of my plan
+is to reach "C" deck.
+
+155
+00:10:04,860 --> 00:10:06,590
+We'll take this path here.
+
+156
+00:10:06,630 --> 00:10:08,530
+Since the mechs
+won't draw much attention,
+
+157
+00:10:08,560 --> 00:10:10,000
+we'll go in a convoy.
+
+158
+00:10:10,030 --> 00:10:11,960
+Cyclops, you lead the way.
+
+159
+00:10:12,000 --> 00:10:13,030
+If anyone asks,
+
+160
+00:10:13,100 --> 00:10:15,170
+you're taking the droids
+on a repair job.
+
+161
+00:10:15,200 --> 00:10:16,177
+Got it?
+
+162
+00:10:16,201 --> 00:10:18,870
+Yes, sir, uh...
+
+163
+00:10:18,910 --> 00:10:19,887
+Captain.
+
+164
+00:10:19,911 --> 00:10:21,140
+It's colonel!
+
+165
+00:10:21,180 --> 00:10:22,580
+I swear, Cyclops.
+
+166
+00:10:22,610 --> 00:10:25,480
+You are gonna drive me crazy.
+
+167
+00:10:30,150 --> 00:10:31,890
+Now, I want flat top
+
+168
+00:10:31,920 --> 00:10:34,960
+to locate the comm-vault
+power supply
+
+169
+00:10:35,020 --> 00:10:36,960
+then use his laser to cut the main line
+
+170
+00:10:36,990 --> 00:10:39,360
+and cause a temporary loss in power.
+
+171
+00:10:40,660 --> 00:10:42,700
+You can do it, C4!
+
+172
+00:10:56,280 --> 00:10:58,180
+Oh, do not forget
+to lock down your...
+
+173
+00:11:08,020 --> 00:11:12,790
+Sir, there was a temporary
+power loss on "C" deck.
+
+174
+00:11:12,830 --> 00:11:15,000
+Has
+the power been reestablished?
+
+175
+00:11:15,030 --> 00:11:16,560
+Yes.
+
+176
+00:11:16,600 --> 00:11:18,900
+It was only a temporary fluctuation.
+
+177
+00:11:18,930 --> 00:11:22,000
+Hmm, curious.
+
+178
+00:11:24,170 --> 00:11:25,570
+All right, listen up.
+
+179
+00:11:25,610 --> 00:11:26,587
+Cutting the power
+
+180
+00:11:26,611 --> 00:11:28,380
+put the comm-vault
+security system
+
+181
+00:11:28,410 --> 00:11:30,280
+in manual override.
+
+182
+00:11:30,310 --> 00:11:32,050
+But someone still has to distract
+
+183
+00:11:32,080 --> 00:11:33,550
+some super battle droids.
+
+184
+00:11:33,580 --> 00:11:35,350
+Oh, please, please, please.
+
+185
+00:11:35,420 --> 00:11:36,556
+Let me do it, come on, come on,
+
+186
+00:11:36,580 --> 00:11:39,890
+come on, come on, let me do it, please.
+
+187
+00:11:39,920 --> 00:11:40,920
+Come on, come on.
+
+188
+00:11:41,920 --> 00:11:42,990
+All right.
+
+189
+00:11:43,020 --> 00:11:45,360
+You will not regret this, corporal.
+
+190
+00:11:45,390 --> 00:11:47,390
+I am not a...
+
+191
+00:11:54,300 --> 00:11:56,040
+Halt.
+
+192
+00:11:56,070 --> 00:11:58,070
+I have been ordered by General Grievous
+
+193
+00:11:58,110 --> 00:11:59,670
+to test comm-vault security.
+
+194
+00:11:59,710 --> 00:12:01,540
+And I need your help.
+
+195
+00:12:01,580 --> 00:12:03,580
+Now, follow me.
+
+196
+00:12:10,890 --> 00:12:13,226
+Now, I will go inside
+the comm-vault
+
+197
+00:12:13,250 --> 00:12:15,020
+and send out a power surge.
+
+198
+00:12:16,260 --> 00:12:17,690
+I need you two to stay here.
+
+199
+00:12:22,230 --> 00:12:24,530
+It will not be safe for you
+while I am working.
+
+200
+00:12:24,570 --> 00:12:26,076
+Are we clear?
+
+201
+00:12:26,100 --> 00:12:27,370
+Yes, but...
+
+202
+00:12:27,400 --> 00:12:28,376
+Good.
+
+203
+00:12:28,400 --> 00:12:29,377
+That is what I like:
+
+204
+00:12:29,401 --> 00:12:30,570
+No questions.
+
+205
+00:12:30,600 --> 00:12:33,040
+Huh?
+
+206
+00:12:34,740 --> 00:12:37,010
+Thank you, thank you,
+thank you very much.
+
+207
+00:12:37,040 --> 00:12:38,026
+Shh.
+
+208
+00:12:38,050 --> 00:12:39,027
+Quiet.
+
+209
+00:12:39,051 --> 00:12:40,550
+We need to keep moving.
+
+210
+00:12:40,580 --> 00:12:43,280
+BZ, open the comm-vault
+security door.
+
+211
+00:12:43,320 --> 00:12:45,520
+Uh, make sure it
+is not booby-trapped.
+
+212
+00:12:56,160 --> 00:12:58,130
+You blockhead!
+
+213
+00:12:58,160 --> 00:13:01,400
+Now we're going to lose manual override.
+
+214
+00:13:01,430 --> 00:13:04,800
+You... you terminated BZ.
+
+215
+00:13:04,840 --> 00:13:08,710
+It's not my fault
+he fried his circuitry.
+
+216
+00:13:08,740 --> 00:13:13,180
+I didn't tell that nitwit
+to attack the access panel.
+
+217
+00:13:13,210 --> 00:13:16,750
+So what do we do now, Corporal?
+
+218
+00:13:19,150 --> 00:13:22,290
+Look, we can still salvage this mission.
+
+219
+00:13:22,320 --> 00:13:23,660
+If one of you could just...
+
+220
+00:13:23,690 --> 00:13:25,890
+you need to reaccess that panel,
+
+221
+00:13:25,930 --> 00:13:29,500
+and we have to open
+that comm-vault door fast
+
+222
+00:13:29,530 --> 00:13:33,400
+and grab the encryption module
+before we're caught red-handed.
+
+223
+00:13:34,870 --> 00:13:37,430
+No, I will not do it myself.
+
+224
+00:13:37,470 --> 00:13:38,800
+I'm an officer.
+
+225
+00:13:38,840 --> 00:13:44,410
+I've got no experience
+in this type of crisis maneuver.
+
+226
+00:13:44,440 --> 00:13:46,910
+You fought in the Battle of Geonosis.
+
+227
+00:13:46,950 --> 00:13:49,480
+That did not prepare you for a crisis?
+
+228
+00:13:49,520 --> 00:13:53,926
+Well, technically,
+I didn't fight in that battle.
+
+229
+00:13:53,950 --> 00:13:56,950
+I'm a military analyst
+by trade and...
+
+230
+00:13:56,990 --> 00:13:58,790
+You are a map reader?
+
+231
+00:14:01,330 --> 00:14:04,930
+I am an accomplished
+battlefield strategist.
+
+232
+00:14:04,960 --> 00:14:08,930
+I analyze the enemy terrain
+and plot a course to victory.
+
+233
+00:14:08,970 --> 00:14:11,000
+In other words, you read maps.
+
+234
+00:14:11,040 --> 00:14:13,976
+You're off base here, Cyclops!
+
+235
+00:14:14,000 --> 00:14:17,070
+I was chosen for my fearsome cunning,
+
+236
+00:14:17,110 --> 00:14:22,240
+although my size
+may have played a small factor.
+
+237
+00:14:23,910 --> 00:14:25,610
+But do not think for a moment
+
+238
+00:14:25,650 --> 00:14:27,610
+that Colonel Meebur Gascon
+
+239
+00:14:27,650 --> 00:14:31,250
+is going to relinquish command
+of this mission.
+
+240
+00:14:31,290 --> 00:14:34,420
+I have waited a lifetime
+for this opportunity,
+
+241
+00:14:34,460 --> 00:14:37,190
+and some ragtag collection of droids
+
+242
+00:14:37,230 --> 00:14:40,130
+is not going to deny me my destiny.
+
+243
+00:14:40,160 --> 00:14:41,530
+So one way or another,
+
+244
+00:14:41,560 --> 00:14:43,860
+I will open
+that comm-vault door.
+
+245
+00:14:46,740 --> 00:14:50,670
+Oh, there, just like I planned it.
+
+246
+00:14:53,580 --> 00:14:55,986
+Now, we're
+going to infiltrate this vault,
+
+247
+00:14:56,010 --> 00:14:58,280
+neutralize the swarm mines,
+
+248
+00:14:58,310 --> 00:15:00,550
+and then secure the encryption module.
+
+249
+00:15:00,580 --> 00:15:02,020
+Any questions?
+
+250
+00:15:02,050 --> 00:15:06,490
+Have you ever been in a battle before?
+
+251
+00:15:06,520 --> 00:15:08,250
+No, I have not.
+
+252
+00:15:08,290 --> 00:15:10,590
+But if you'd care to see
+what I'm made of,
+
+253
+00:15:10,630 --> 00:15:13,000
+we can go to war right now, you and me,
+
+254
+00:15:13,030 --> 00:15:16,600
+and probably get ourselves
+captured by a Separatist.
+
+255
+00:15:16,630 --> 00:15:19,330
+Or we can execute my plan
+
+256
+00:15:19,370 --> 00:15:22,370
+and come out of this mission
+looking like heroes.
+
+257
+00:15:22,400 --> 00:15:26,040
+The choice is yours, Cyclops.
+
+258
+00:15:29,410 --> 00:15:32,080
+First of all, my name is WAC.
+
+259
+00:15:32,110 --> 00:15:35,620
+Second of all,
+we will execute your plan.
+
+260
+00:15:35,650 --> 00:15:39,920
+But you have to stop calling us
+stupid names, Shorty.
+
+261
+00:15:43,990 --> 00:15:46,960
+Very well, WAC.
+
+262
+00:15:46,990 --> 00:15:48,660
+I'll play nice,
+
+263
+00:15:48,690 --> 00:15:52,300
+but only until one of you
+screws up again.
+
+264
+00:16:01,710 --> 00:16:05,880
+Sir, there has been another
+disturbance on "C" deck.
+
+265
+00:16:05,910 --> 00:16:07,710
+I will investigate
+
+266
+00:16:07,750 --> 00:16:10,750
+this situation personally.
+
+267
+00:16:19,940 --> 00:16:22,580
+All right, Pinky... I mean, QT.
+
+268
+00:16:22,610 --> 00:16:24,350
+This is your chance to shine.
+
+269
+00:16:24,380 --> 00:16:28,550
+Use your magnet
+to attract those swarm mines.
+
+270
+00:17:03,580 --> 00:17:09,150
+There it is, the encryption module.
+
+271
+00:17:09,190 --> 00:17:11,720
+It's all up to you now, R2.
+
+272
+00:17:16,000 --> 00:17:17,340
+Not so fast.
+
+273
+00:17:18,660 --> 00:17:19,830
+Arms up.
+
+274
+00:17:26,240 --> 00:17:27,540
+Gravity.
+
+275
+00:17:27,570 --> 00:17:28,547
+Pop!
+
+276
+00:17:28,571 --> 00:17:30,740
+Right, turn it off, quick!
+
+277
+00:18:07,810 --> 00:18:08,810
+Thud!
+
+278
+00:18:15,020 --> 00:18:16,750
+Ah!
+
+279
+00:18:25,900 --> 00:18:27,700
+I will help you, Corporal.
+
+280
+00:18:34,070 --> 00:18:36,540
+Oh, I'm gonna be sick.
+
+281
+00:18:36,570 --> 00:18:38,240
+Corporal, are you okay?
+
+282
+00:18:38,280 --> 00:18:39,280
+Look out!
+
+283
+00:18:51,990 --> 00:18:56,830
+I will turn the gravity back on.
+
+284
+00:18:56,860 --> 00:18:58,260
+Hurry, WAC, hurry!
+
+285
+00:19:11,110 --> 00:19:13,180
+Pop!
+
+286
+00:19:18,350 --> 00:19:19,420
+I'll take that.
+
+287
+00:19:20,450 --> 00:19:22,390
+Ha-ha, good work, R2.
+
+288
+00:19:22,420 --> 00:19:23,920
+Intruder alert.
+
+289
+00:19:23,960 --> 00:19:25,220
+Intruder alert.
+
+290
+00:19:25,260 --> 00:19:26,237
+Intruder alert.
+
+291
+00:19:26,261 --> 00:19:27,990
+Intruder alert.
+
+292
+00:19:28,030 --> 00:19:29,830
+Let's move it out, D-Squad.
+
+293
+00:19:40,410 --> 00:19:41,410
+What are you doing?
+
+294
+00:19:41,440 --> 00:19:42,810
+We're going to get caught!
+
+295
+00:19:44,080 --> 00:19:46,940
+R2 says
+we cannot leave BZ behind.
+
+296
+00:19:49,580 --> 00:19:50,880
+R2's right.
+
+297
+00:19:50,920 --> 00:19:52,820
+We can repair him on the shuttle.
+
+298
+00:19:55,950 --> 00:19:57,190
+There's trouble on "C" deck.
+
+299
+00:19:57,220 --> 00:19:58,720
+Report there immediately.
+
+300
+00:20:09,430 --> 00:20:13,070
+Get out of the way,
+you stupid astromechs.
+
+301
+00:20:20,680 --> 00:20:22,580
+Funny thing about droids
+
+302
+00:20:22,610 --> 00:20:25,110
+last thing they'd expect to betray them:
+
+303
+00:20:25,150 --> 00:20:26,680
+Another droid.
+
+304
+00:20:30,450 --> 00:20:33,320
+D-Squad, let's go home.
+
+305
+00:21:05,390 --> 00:21:09,330
+Ah, my first mission...
+a rousing success
+
+306
+00:21:09,360 --> 00:21:13,000
+and a brilliant plan
+if I do say so myself.
+
+307
+00:21:14,830 --> 00:21:17,400
+I agree, R2.
+
+308
+00:21:17,440 --> 00:21:20,200
+The team's execution was not too shabby.
+
+309
+00:21:21,510 --> 00:21:23,410
+Who knows, you droids
+
+310
+00:21:23,440 --> 00:21:26,540
+might just make decent soldiers
+after all.
+
+311
+00:21:28,580 --> 00:21:31,550
+Oh, and you, too, WAC.
+
+312
+00:21:31,580 --> 00:21:33,820
+Yes, sir, Colonel.
+

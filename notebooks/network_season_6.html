@@ -1,0 +1,321 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script>function neighbourhoodHighlight(params) {
+  // console.log("in nieghbourhoodhighlight");
+  allNodes = nodes.get({ returnType: "Object" });
+  // originalNodes = JSON.parse(JSON.stringify(allNodes));
+  // if something is selected:
+  if (params.nodes.length > 0) {
+    highlightActive = true;
+    var i, j;
+    var selectedNode = params.nodes[0];
+    var degrees = 2;
+
+    // mark all nodes as hard to read.
+    for (let nodeId in allNodes) {
+      // nodeColors[nodeId] = allNodes[nodeId].color;
+      allNodes[nodeId].color = "rgba(200,200,200,0.5)";
+      if (allNodes[nodeId].hiddenLabel === undefined) {
+        allNodes[nodeId].hiddenLabel = allNodes[nodeId].label;
+        allNodes[nodeId].label = undefined;
+      }
+    }
+    var connectedNodes = network.getConnectedNodes(selectedNode);
+    var allConnectedNodes = [];
+
+    // get the second degree nodes
+    for (i = 1; i < degrees; i++) {
+      for (j = 0; j < connectedNodes.length; j++) {
+        allConnectedNodes = allConnectedNodes.concat(
+          network.getConnectedNodes(connectedNodes[j])
+        );
+      }
+    }
+
+    // all second degree nodes get a different color and their label back
+    for (i = 0; i < allConnectedNodes.length; i++) {
+      // allNodes[allConnectedNodes[i]].color = "pink";
+      allNodes[allConnectedNodes[i]].color = "rgba(150,150,150,0.75)";
+      if (allNodes[allConnectedNodes[i]].hiddenLabel !== undefined) {
+        allNodes[allConnectedNodes[i]].label =
+          allNodes[allConnectedNodes[i]].hiddenLabel;
+        allNodes[allConnectedNodes[i]].hiddenLabel = undefined;
+      }
+    }
+
+    // all first degree nodes get their own color and their label back
+    for (i = 0; i < connectedNodes.length; i++) {
+      // allNodes[connectedNodes[i]].color = undefined;
+      allNodes[connectedNodes[i]].color = nodeColors[connectedNodes[i]];
+      if (allNodes[connectedNodes[i]].hiddenLabel !== undefined) {
+        allNodes[connectedNodes[i]].label =
+          allNodes[connectedNodes[i]].hiddenLabel;
+        allNodes[connectedNodes[i]].hiddenLabel = undefined;
+      }
+    }
+
+    // the main node gets its own color and its label back.
+    // allNodes[selectedNode].color = undefined;
+    allNodes[selectedNode].color = nodeColors[selectedNode];
+    if (allNodes[selectedNode].hiddenLabel !== undefined) {
+      allNodes[selectedNode].label = allNodes[selectedNode].hiddenLabel;
+      allNodes[selectedNode].hiddenLabel = undefined;
+    }
+  } else if (highlightActive === true) {
+    // console.log("highlightActive was true");
+    // reset all nodes
+    for (let nodeId in allNodes) {
+      // allNodes[nodeId].color = "purple";
+      allNodes[nodeId].color = nodeColors[nodeId];
+      // delete allNodes[nodeId].color;
+      if (allNodes[nodeId].hiddenLabel !== undefined) {
+        allNodes[nodeId].label = allNodes[nodeId].hiddenLabel;
+        allNodes[nodeId].hiddenLabel = undefined;
+      }
+    }
+    highlightActive = false;
+  }
+
+  // transform the object into an array
+  var updateArray = [];
+  if (params.nodes.length > 0) {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        // console.log(allNodes[nodeId]);
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  } else {
+    // console.log("Nothing was selected");
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        // console.log(allNodes[nodeId]);
+        // allNodes[nodeId].color = {};
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  }
+}
+
+function filterHighlight(params) {
+  allNodes = nodes.get({ returnType: "Object" });
+  // if something is selected:
+  if (params.nodes.length > 0) {
+    filterActive = true;
+    let selectedNodes = params.nodes;
+
+    // hiding all nodes and saving the label
+    for (let nodeId in allNodes) {
+      allNodes[nodeId].hidden = true;
+      if (allNodes[nodeId].savedLabel === undefined) {
+        allNodes[nodeId].savedLabel = allNodes[nodeId].label;
+        allNodes[nodeId].label = undefined;
+      }
+    }
+
+    for (let i=0; i < selectedNodes.length; i++) {
+      allNodes[selectedNodes[i]].hidden = false;
+      if (allNodes[selectedNodes[i]].savedLabel !== undefined) {
+        allNodes[selectedNodes[i]].label = allNodes[selectedNodes[i]].savedLabel;
+        allNodes[selectedNodes[i]].savedLabel = undefined;
+      }
+    }
+
+  } else if (filterActive === true) {
+    // reset all nodes
+    for (let nodeId in allNodes) {
+      allNodes[nodeId].hidden = false;
+      if (allNodes[nodeId].savedLabel !== undefined) {
+        allNodes[nodeId].label = allNodes[nodeId].savedLabel;
+        allNodes[nodeId].savedLabel = undefined;
+      }
+    }
+    filterActive = false;
+  }
+
+  // transform the object into an array
+  var updateArray = [];
+  if (params.nodes.length > 0) {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  } else {
+    for (let nodeId in allNodes) {
+      if (allNodes.hasOwnProperty(nodeId)) {
+        updateArray.push(allNodes[nodeId]);
+      }
+    }
+    nodes.update(updateArray);
+  }
+}
+
+function selectNode(nodes) {
+  network.selectNodes(nodes);
+  neighbourhoodHighlight({ nodes: nodes });
+  return nodes;
+}
+
+function selectNodes(nodes) {
+  network.selectNodes(nodes);
+  filterHighlight({nodes: nodes});
+  return nodes;
+}
+
+function highlightFilter(filter) {
+  let selectedNodes = []
+  let selectedProp = filter['property']
+  if (filter['item'] === 'node') {
+    let allNodes = nodes.get({ returnType: "Object" });
+    for (let nodeId in allNodes) {
+      if (allNodes[nodeId][selectedProp] && filter['value'].includes((allNodes[nodeId][selectedProp]).toString())) {
+        selectedNodes.push(nodeId)
+      }
+    }
+  }
+  else if (filter['item'] === 'edge'){
+    let allEdges = edges.get({returnType: 'object'});
+    // check if the selected property exists for selected edge and select the nodes connected to the edge
+    for (let edge in allEdges) {
+      if (allEdges[edge][selectedProp] && filter['value'].includes((allEdges[edge][selectedProp]).toString())) {
+        selectedNodes.push(allEdges[edge]['from'])
+        selectedNodes.push(allEdges[edge]['to'])
+      }
+    }
+  }
+  selectNodes(selectedNodes)
+}</script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+            
+            
+            
+            
+            
+
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 1600px;
+                 height: 900px;
+                 background-color: #222222;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"font": {"color": "white"}, "group": "jedi", "id": "Anakin", "label": "Anakin", "shape": "dot", "size": 36, "title": "Anakin\nGrupo: jedi\nTemporada: 6"}, {"font": {"color": "white"}, "group": "politician", "id": "Clovis", "label": "Clovis", "shape": "dot", "size": 30, "title": "Clovis\nGrupo: politician\nTemporada: 6"}, {"font": {"color": "white"}, "group": "politician", "id": "Jar Jar Binks", "label": "Jar Jar Binks", "shape": "dot", "size": 28, "title": "Jar Jar Binks\nGrupo: politician\nTemporada: 6"}, {"font": {"color": "white"}, "group": "other", "id": "Julia", "label": "Julia", "shape": "dot", "size": 24, "title": "Julia\nGrupo: other\nTemporada: 6"}, {"font": {"color": "white"}, "group": "jedi", "id": "Mace Windu", "label": "Mace Windu", "shape": "dot", "size": 24, "title": "Mace Windu\nGrupo: jedi\nTemporada: 6"}, {"font": {"color": "white"}, "group": "sith", "id": "Dooku", "label": "Dooku", "shape": "dot", "size": 42, "title": "Dooku\nGrupo: sith\nTemporada: 6"}, {"font": {"color": "white"}, "group": "jedi", "id": "Yoda", "label": "Yoda", "shape": "dot", "size": 34, "title": "Yoda\nGrupo: jedi\nTemporada: 6"}, {"font": {"color": "white"}, "group": "politician", "id": "Padm\u00e9", "label": "Padm\u00e9", "shape": "dot", "size": 30, "title": "Padm\u00e9\nGrupo: politician\nTemporada: 6"}, {"font": {"color": "white"}, "group": "jedi", "id": "Sifo-Dyas", "label": "Sifo-Dyas", "shape": "dot", "size": 32, "title": "Sifo-Dyas\nGrupo: jedi\nTemporada: 6"}, {"font": {"color": "white"}, "group": "clone", "id": "Rush", "label": "Rush", "shape": "dot", "size": 30, "title": "Rush\nGrupo: clone\nTemporada: 6"}, {"font": {"color": "white"}, "group": "clone", "id": "Fives", "label": "Fives", "shape": "dot", "size": 28, "title": "Fives\nGrupo: clone\nTemporada: 6"}, {"font": {"color": "white"}, "group": "clone", "id": "Tup", "label": "Tup", "shape": "dot", "size": 40, "title": "Tup\nGrupo: clone\nTemporada: 6"}, {"font": {"color": "white"}, "group": "other", "id": "Silman", "label": "Silman", "shape": "dot", "size": 26, "title": "Silman\nGrupo: other\nTemporada: 6"}, {"font": {"color": "white"}, "group": "other", "id": "Nala", "label": "Nala", "shape": "dot", "size": 24, "title": "Nala\nGrupo: other\nTemporada: 6"}, {"font": {"color": "white"}, "group": "clone", "id": "Rex", "label": "Rex", "shape": "dot", "size": 28, "title": "Rex\nGrupo: clone\nTemporada: 6"}, {"font": {"color": "white"}, "group": "politician", "id": "Valorum", "label": "Valorum", "shape": "dot", "size": 24, "title": "Valorum\nGrupo: politician\nTemporada: 6"}, {"font": {"color": "white"}, "group": "jedi", "id": "Obi-Wan", "label": "Obi-Wan", "shape": "dot", "size": 26, "title": "Obi-Wan\nGrupo: jedi\nTemporada: 6"}, {"font": {"color": "white"}, "group": "clone", "id": "Ringo", "label": "Ringo", "shape": "dot", "size": 24, "title": "Ringo\nGrupo: clone\nTemporada: 6"}, {"font": {"color": "white"}, "group": "jedi", "id": "Shaak Ti", "label": "Shaak Ti", "shape": "dot", "size": 22, "title": "Shaak Ti\nGrupo: jedi\nTemporada: 6"}, {"font": {"color": "white"}, "group": "politician", "id": "Peteen", "label": "Peteen", "shape": "dot", "size": 22, "title": "Peteen\nGrupo: politician\nTemporada: 6"}, {"font": {"color": "white"}, "group": "politician", "id": "Palpatine", "label": "Palpatine", "shape": "dot", "size": 24, "title": "Palpatine\nGrupo: politician\nTemporada: 6"}, {"font": {"color": "white"}, "group": "other", "id": "Lom", "label": "Lom", "shape": "dot", "size": 22, "title": "Lom\nGrupo: other\nTemporada: 6"}, {"font": {"color": "white"}, "group": "clone", "id": "Tiplar", "label": "Tiplar", "shape": "dot", "size": 22, "title": "Tiplar\nGrupo: clone\nTemporada: 6"}, {"font": {"color": "white"}, "group": "jedi", "id": "Nema", "label": "Nema", "shape": "dot", "size": 22, "title": "Nema\nGrupo: jedi\nTemporada: 6"}, {"font": {"color": "white"}, "group": "other", "id": "Teckla", "label": "Teckla", "shape": "dot", "size": 22, "title": "Teckla\nGrupo: other\nTemporada: 6"}, {"font": {"color": "white"}, "group": "sith", "id": "Darth Sidious", "label": "Darth Sidious", "shape": "dot", "size": 22, "title": "Darth Sidious\nGrupo: sith\nTemporada: 6"}, {"font": {"color": "white"}, "group": "other", "id": "Lama", "label": "Lama", "shape": "dot", "size": 22, "title": "Lama\nGrupo: other\nTemporada: 6"}, {"font": {"color": "white"}, "group": "jedi", "id": "Qui-Gon", "label": "Qui-Gon", "shape": "dot", "size": 22, "title": "Qui-Gon\nGrupo: jedi\nTemporada: 6"}, {"font": {"color": "white"}, "group": "mandalorian", "id": "Satine", "label": "Satine", "shape": "dot", "size": 22, "title": "Satine\nGrupo: mandalorian\nTemporada: 6"}, {"font": {"color": "white"}, "group": "other", "id": "Joseph", "label": "Joseph", "shape": "dot", "size": 22, "title": "Joseph\nGrupo: other\nTemporada: 6"}]);
+                  edges = new vis.DataSet([{"from": "Anakin", "title": "Intera\u00e7\u00f5es: 45\nTemporada: 6", "to": "Clovis", "value": 45}, {"from": "Anakin", "title": "Intera\u00e7\u00f5es: 23\nTemporada: 6", "to": "Padm\u00e9", "value": 23}, {"from": "Anakin", "title": "Intera\u00e7\u00f5es: 17\nTemporada: 6", "to": "Tup", "value": 17}, {"from": "Anakin", "title": "Intera\u00e7\u00f5es: 12\nTemporada: 6", "to": "Rex", "value": 12}, {"from": "Anakin", "title": "Intera\u00e7\u00f5es: 8\nTemporada: 6", "to": "Rush", "value": 8}, {"from": "Anakin", "title": "Intera\u00e7\u00f5es: 6\nTemporada: 6", "to": "Dooku", "value": 6}, {"from": "Anakin", "title": "Intera\u00e7\u00f5es: 4\nTemporada: 6", "to": "Sifo-Dyas", "value": 4}, {"from": "Anakin", "title": "Intera\u00e7\u00f5es: 3\nTemporada: 6", "to": "Ringo", "value": 3}, {"from": "Clovis", "title": "Intera\u00e7\u00f5es: 26\nTemporada: 6", "to": "Padm\u00e9", "value": 26}, {"from": "Clovis", "title": "Intera\u00e7\u00f5es: 15\nTemporada: 6", "to": "Dooku", "value": 15}, {"from": "Clovis", "title": "Intera\u00e7\u00f5es: 12\nTemporada: 6", "to": "Rush", "value": 12}, {"from": "Clovis", "title": "Intera\u00e7\u00f5es: 3\nTemporada: 6", "to": "Teckla", "value": 3}, {"from": "Jar Jar Binks", "title": "Intera\u00e7\u00f5es: 36\nTemporada: 6", "to": "Julia", "value": 36}, {"from": "Jar Jar Binks", "title": "Intera\u00e7\u00f5es: 34\nTemporada: 6", "to": "Mace Windu", "value": 34}, {"from": "Jar Jar Binks", "title": "Intera\u00e7\u00f5es: 5\nTemporada: 6", "to": "Peteen", "value": 5}, {"from": "Jar Jar Binks", "title": "Intera\u00e7\u00f5es: 3\nTemporada: 6", "to": "Joseph", "value": 3}, {"from": "Julia", "title": "Intera\u00e7\u00f5es: 14\nTemporada: 6", "to": "Mace Windu", "value": 14}, {"from": "Dooku", "title": "Intera\u00e7\u00f5es: 29\nTemporada: 6", "to": "Yoda", "value": 29}, {"from": "Dooku", "title": "Intera\u00e7\u00f5es: 25\nTemporada: 6", "to": "Sifo-Dyas", "value": 25}, {"from": "Dooku", "title": "Intera\u00e7\u00f5es: 13\nTemporada: 6", "to": "Silman", "value": 13}, {"from": "Dooku", "title": "Intera\u00e7\u00f5es: 8\nTemporada: 6", "to": "Tup", "value": 8}, {"from": "Dooku", "title": "Intera\u00e7\u00f5es: 5\nTemporada: 6", "to": "Obi-Wan", "value": 5}, {"from": "Dooku", "title": "Intera\u00e7\u00f5es: 5\nTemporada: 6", "to": "Lom", "value": 5}, {"from": "Dooku", "title": "Intera\u00e7\u00f5es: 4\nTemporada: 6", "to": "Rex", "value": 4}, {"from": "Dooku", "title": "Intera\u00e7\u00f5es: 4\nTemporada: 6", "to": "Padm\u00e9", "value": 4}, {"from": "Dooku", "title": "Intera\u00e7\u00f5es: 3\nTemporada: 6", "to": "Rush", "value": 3}, {"from": "Yoda", "title": "Intera\u00e7\u00f5es: 7\nTemporada: 6", "to": "Sifo-Dyas", "value": 7}, {"from": "Yoda", "title": "Intera\u00e7\u00f5es: 6\nTemporada: 6", "to": "Obi-Wan", "value": 6}, {"from": "Yoda", "title": "Intera\u00e7\u00f5es: 4\nTemporada: 6", "to": "Nema", "value": 4}, {"from": "Yoda", "title": "Intera\u00e7\u00f5es: 3\nTemporada: 6", "to": "Darth Sidious", "value": 3}, {"from": "Yoda", "title": "Intera\u00e7\u00f5es: 3\nTemporada: 6", "to": "Rush", "value": 3}, {"from": "Yoda", "title": "Intera\u00e7\u00f5es: 3\nTemporada: 6", "to": "Qui-Gon", "value": 3}, {"from": "Padm\u00e9", "title": "Intera\u00e7\u00f5es: 21\nTemporada: 6", "to": "Rush", "value": 21}, {"from": "Padm\u00e9", "title": "Intera\u00e7\u00f5es: 3\nTemporada: 6", "to": "Satine", "value": 3}, {"from": "Sifo-Dyas", "title": "Intera\u00e7\u00f5es: 21\nTemporada: 6", "to": "Silman", "value": 21}, {"from": "Sifo-Dyas", "title": "Intera\u00e7\u00f5es: 10\nTemporada: 6", "to": "Valorum", "value": 10}, {"from": "Sifo-Dyas", "title": "Intera\u00e7\u00f5es: 10\nTemporada: 6", "to": "Obi-Wan", "value": 10}, {"from": "Fives", "title": "Intera\u00e7\u00f5es: 21\nTemporada: 6", "to": "Tup", "value": 21}, {"from": "Fives", "title": "Intera\u00e7\u00f5es: 5\nTemporada: 6", "to": "Palpatine", "value": 5}, {"from": "Fives", "title": "Intera\u00e7\u00f5es: 4\nTemporada: 6", "to": "Nala", "value": 4}, {"from": "Fives", "title": "Intera\u00e7\u00f5es: 3\nTemporada: 6", "to": "Rex", "value": 3}, {"from": "Tup", "title": "Intera\u00e7\u00f5es: 12\nTemporada: 6", "to": "Nala", "value": 12}, {"from": "Tup", "title": "Intera\u00e7\u00f5es: 11\nTemporada: 6", "to": "Rex", "value": 11}, {"from": "Tup", "title": "Intera\u00e7\u00f5es: 6\nTemporada: 6", "to": "Ringo", "value": 6}, {"from": "Tup", "title": "Intera\u00e7\u00f5es: 6\nTemporada: 6", "to": "Shaak Ti", "value": 6}, {"from": "Tup", "title": "Intera\u00e7\u00f5es: 5\nTemporada: 6", "to": "Palpatine", "value": 5}, {"from": "Tup", "title": "Intera\u00e7\u00f5es: 5\nTemporada: 6", "to": "Tiplar", "value": 5}, {"from": "Tup", "title": "Intera\u00e7\u00f5es: 3\nTemporada: 6", "to": "Lama", "value": 3}, {"from": "Silman", "title": "Intera\u00e7\u00f5es: 7\nTemporada: 6", "to": "Valorum", "value": 7}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"physics": {"enabled": true, "stabilization": {"iterations": 100}, "solver": "forceAtlas2Based", "forceAtlas2Based": {"gravitationalConstant": -50, "centralGravity": 0.01, "springLength": 100, "springConstant": 0.08, "damping": 0.4}}, "interaction": {"hover": true, "hoverConnectedEdges": true, "tooltipDelay": 200, "navigationButtons": true, "keyboard": true}, "nodes": {"font": {"size": 20, "face": "Tahoma", "color": "white", "strokeWidth": 2, "strokeColor": "#222222"}, "shadow": {"enabled": true, "color": "rgba(0,0,0,0.5)", "size": 10, "x": 5, "y": 5}, "shapeProperties": {"useBorderWithImage": true}, "borderWidth": 2, "borderWidthSelected": 4, "color": {"border": "#2B7CE9", "background": "#97C2FC", "highlight": {"border": "#2B7CE9", "background": "#D2E5FF"}, "hover": {"border": "#2B7CE9", "background": "#FFFF00"}}}, "edges": {"color": {"color": "rgba(255,255,255,0.5)", "highlight": "#FFA500", "hover": "#FFD700"}, "width": 2, "hoverWidth": 3, "selectionWidth": 4, "smooth": {"enabled": true, "type": "continuous"}, "arrows": {"to": {"enabled": false, "scaleFactor": 1.5}}, "shadow": {"enabled": true, "color": "rgba(0,0,0,0.3)", "size": 5, "x": 3, "y": 3}}, "layout": {"improvedLayout": true, "hierarchical": {"enabled": false, "direction": "UD", "sortMethod": "directed"}}, "groups": {"jedi": {"color": {"border": "#00FF00", "background": "#00CC00", "highlight": {"border": "#00FF00", "background": "#00FF99"}}, "font": {"color": "white"}}, "sith": {"color": {"border": "#FF0000", "background": "#CC0000", "highlight": {"border": "#FF0000", "background": "#FF6666"}}}, "bounty_hunter": {"color": {"border": "#888888", "background": "#FF9900", "highlight": {"border": "#888888", "background": "#EEEEEE"}}}, "clone": {"color": {"border": "#4169E1", "background": "#87CEEB", "highlight": {"border": "#4169E1", "background": "#ADD8E6"}}}, "politician": {"color": {"border": "#800080", "background": "#D8BFD8", "highlight": {"border": "#800080", "background": "#E6E6FA"}}}, "mandalorian": {"color": {"border": "#6600ff", "background": "#660000", "highlight": {"border": "#660033", "background": "#E6E6FA"}}}, "other": {"color": {"border": "#A9A9A9", "background": "#D3D3D3", "highlight": {"border": "#A9A9A9", "background": "#E8E8E8"}}}}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
