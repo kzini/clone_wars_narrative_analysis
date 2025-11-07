@@ -1,23 +1,15 @@
-# Ambiente base
-python==3.11.0
-
-# Manipulação e análise de dados
+python-louvain==0.16
 numpy==1.26.4
 pandas==2.2.2
 scipy==1.14.1
 
-# Visualização
 matplotlib==3.9.2
 pyvis==0.3.2
 
-# Redes complexas
 networkx==3.3
 
-# Processamento de linguagem natural
-spacy==3.7.4
-transformers==4.44.2
+spacy==3.7.2
 torch==2.4.1
-sentencepiece==0.2.0
 
-# Ambiente interativo
-notebook==7.3.2
+chardet==5.2.0
+nltk==3.9.1

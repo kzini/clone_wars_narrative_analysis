@@ -100,7 +100,7 @@ def create_season_network(relationship_df, season_number, min_occurrences):
     for _, row in rel_filtered.iterrows():
         G_season.add_edge(row['source'], row['target'], weight=row['value'])
     
-    net = Network(notebook=True, cdn_resources='remote', width="1600px", height="900px", 
+    net = Network(notebook=True, cdn_resources='remote', width="800px", height="600px", 
                   bgcolor='#222222', font_color='white')
     
     # Configurações
