@@ -81,12 +81,12 @@ name_mapping = {
     'Ani': 'Anakin', 
     'Skywalker': 'Anakin',
     'Skyguy': 'Anakin',  
-    'Obi': 'Obi-Wan',
     # Obi-Wan
+    'Obi': 'Obi-Wan',
     'Kenobi': 'Obi-Wan',
     'Wan': 'Obi-Wan',
+    '-Wan': 'Obi-Wan',
     'Ben': 'Obi-Wan',
-    'Oba': 'Obi-Wan',
     # Ahsoka
     'Ahsoka': 'Ahsoka',
     'Snips': 'Ahsoka',
@@ -145,6 +145,7 @@ name_mapping = {
     'Tambor': 'Wat Tambor',
     'Wat': 'Wat Tambor',
     "Sifo-Dyas's": 'Sifo-Dyas',
+    "Sifo-Dyas?": 'Sifo-Dyas',
     'Sifo': 'Sifo-Dyas',
     'Barriss': 'Barriss Offee',
     'Luminara': 'Luminara Unduli', 
@@ -259,6 +260,10 @@ name_mapping = {
     'Bardotta': None,
     'Quarren': None,
     'Nal': None,
+    'HUTTESE': None,
+    'this': None,
+    'Your': None,
+    'Oba': None,
     # Personagens que são apenas citados
     'Jango': None,
     'Qui-Gon': None    

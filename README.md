@@ -1,68 +1,133 @@
-# Análise narrativa de *Star Wars: The Clone Wars*
+# Star Wars: The Clone Wars  
+## Análise narrativa com NLP e redes complexas
 
-Este projeto investiga padrões narrativos, evolução temática e centralidade de personagens na série animada Star Wars: The Clone Wars (2008–2020). Utilizando técnicas de NLP e análise de redes complexas, o objetivo é entender como histórias e personagens se desenvolvem ao longo das sete temporadas.
+## Visão geral
 
-## Motivação
+Este projeto analisa a estrutura narrativa da série *Star Wars: The Clone Wars* a partir de legendas em texto, combinando técnicas de processamento de linguagem natural (NLP), análise de redes complexas e classificação temática.
 
-Séries animadas longas como *The Clone Wars* apresentam múltiplas linhas narrativas e dezenas de personagens recorrentes. Com tantas interações, torna-se difícil identificar padrões de narrativa, temas recorrentes e a evolução de personagens ao longo do tempo. Este projeto visa responder perguntas como:
+O objetivo não é prever eventos ou personagens, mas compreender como a narrativa evolui estrutural e semanticamente ao longo das temporadas, identificando padrões de centralidade, fragmentação e mudança temática.
 
-- Quais temas narrativos predominam em cada temporada?
+---
 
-- Como a presença e centralidade de personagens evoluem ao longo da série?
+## Questão analítica
 
-- Como o “Lado Sombrio” se manifesta e cresce na narrativa através das sete temporadas?
+A série apresenta múltiplos núcleos narrativos e dezenas de personagens recorrentes.  
+A questão central do projeto é:
 
-A análise permite visualizar o ritmo da narrativa, conflitos centrais e evolução dos personagens, demonstrando competências de ciência de dados aplicadas a storytelling.
+> Como a complexidade estrutural das relações entre personagens e os temas narrativos evoluem ao longo das temporadas?
 
-## Abordagem
+A análise investiga como mudanças na densidade relacional e na centralidade dos personagens se associam a momentos de transição narrativa ao longo da série.
 
-O projeto foi dividido em dois eixos complementares:
+---
 
-### 1. Análise de personagens e redes de interação (character_network/)
+## Metodologia
 
-- Coleta e pré-processamento: limpeza de legendas (.srt) e normalização de nomes de personagens.
+### 1. Processamento de linguagem natural
 
-- Reconhecimento de entidades: spaCy (en_core_web_trf) para identificar personagens.
+- Extração de entidades nomeadas (`PERSON`) com spaCy (`en_core_web_trf`)
+- Normalização extensiva de nomes (aliases, títulos e variações)
+- Filtragem semântica de entidades irrelevantes
 
-- Extração de coocorrências: construção de redes de interação com NetworkX.
+**Decisão metodológica**  
+Foi priorizado controle semântico e coerência narrativa em vez de pipelines totalmente automáticos.
 
-- Visualização e análise: grafos interativos (PyVis) e métricas de centralidade para identificar personagens-chave e suas mudanças de relevância ao longo das temporadas.
+---
 
-### 2. Análise Temática de Roteiros (theme_classifier/)
+### 2. Modelagem das relações narrativas
 
-- Classificação zero-shot: uso de modelos transformers para identificar temas narrativos em episódios.
+- Relações inferidas por coocorrência textual
+- Arestas ponderadas pela frequência de coocorrência
+- Agregação das relações por temporada
 
-- Dicionários de temas customizados: incluindo tópicos como guerra, lealdade, traição, esperança, poder e Lado Sombrio.
+> As relações representam proximidade narrativa, não necessariamente interação social direta.
 
-- Análise temporal: evolução da intensidade de temas por temporada, com destaque para a progressão do Lado Sombrio.
+---
 
-- Visualização: gráficos de barras e linhas para comparar temas ao longo do tempo e identificar padrões recorrentes.
+### 3. Análise de redes de personagens
 
-## Principais descobertas
+- Construção de grafos sazonais com NetworkX
+- Métricas analisadas:
+  - número de personagens
+  - número de relações
+  - grau médio
+  - personagem mais central por temporada
+- Detecção de comunidades
+- Visualização interativa com PyVis
 
-**Padrões temáticos dominantes**
-Guerra, lealdade e traição emergem como pilares narrativos consistentes.
+Notebook principal:  
+`notebooks/character_network.ipynb`
 
-Esperança e amizade aparecem estrategicamente em arcos específicos como contrapontos emocionais.
+---
 
-**Estrutura narrativa dinâmica**
-Alternância entre elencos amplos (Temporada 2: 64 personagens) e focos restritos (Temporada 6: 29 personagens).
+### 4. Análise temporal
 
-Integração progressiva: Redução de 8 para 3 comunidades entre temporadas, indicando narrativas mais entrelaçadas.
+- Comparação longitudinal entre temporadas
+- Séries temporais de métricas estruturais
+- Avaliação da estabilidade e ruptura de relações centrais
 
-**Evolução do Lado Sombrio**
-Aumento consistente da presença temática do Lado Sombrio através das temporadas.
+**Insight-chave**  
+A redução progressiva de interações entre personagens centrais antecipa rupturas narrativas explícitas, sugerindo o uso consciente da densidade relacional como ferramenta narrativa.
 
-Alinhamento com o arco de transformação de Anakin Skywalker na trilogia cinematográfica.
+---
 
-**Rotatividade de protagonismo**
-Personagens centrais variam estrategicamente: Anakin (temps 1-2-4), Ahsoka (temps 3-5), Dooku (temp 6), Rex (temp 7).
+### 5. Classificação temática
 
-Reflete mudanças intencionais no foco dos arcos dramáticos
+- Classificação temática via zero-shot learning
+- Modelo: `facebook/bart-large-mnli`
+- Definição manual de conjuntos semânticos de temas
+- Agregação temporal por temporada
 
-## Melhorias Futuras
+**Nota**  
+Os scores representam tendências relativas, não medidas absolutas.
 
-- **Sistema automatizado de classificação de personagens**: Atualmente, a identificação de facções e normalização de nomes é feita manualmente. Uma melhoria seria implementar um sistema baseado em aprendizado de máquina para classificação automática.
+Notebook:  
+`notebooks/theme_classification.ipynb`
+
+---
+
+## Principais resultados
+
+- Temporadas iniciais apresentam redes mais densas e centralizadas
+- Temporadas intermediárias mostram fragmentação narrativa e aumento do número de comunidades
+- Temporadas finais apresentam redução estrutural e reconcentração narrativa
+- Mudanças na centralidade dos personagens acompanham arcos narrativos
+- A evolução temática antecipa eventos-chave da narrativa
+- O Lado Sombrio apresenta intensificação progressiva até a temporada final
+
+---
+
+## Estrutura do projeto
+
+```
+clone_wars_narrative_analysis
+├── data/
+│   └── subs/
+├── src/
+│   ├── data_processing.py
+│   ├── network_analysis.py
+│   └── visualization.py
+├── notebooks/
+│   ├── character_network.ipynb
+│   └── theme_classification.ipynb
+└── README.md
+
+```
+
+---
+
+## Limitações
+
+- Relações baseadas em coocorrência não garantem interação direta
+- Dependência da qualidade textual das legendas
+- Classificação temática baseada em inferência semântica
+
+---
+
+## Tecnologias utilizadas
+
+Python · spaCy · NetworkX · PyVis · Transformers · pandas · NumPy · matplotlib
+
+---
 
 ## Como Reproduzir
 
@@ -77,8 +142,16 @@ cd clone_wars_narrative_analysis
 pip install -r requirements.txt
 ```
 
-### 3. Execute os notebooks na pasta `notebooks/` para reproduzir os experimentos
+### 3. Baixe o modelo de NLP do spaCy:
+python -m spacy download en_core_web_trf
 
-> Desenvolvido por Bruno Casini  
-> Contato: kzini1701@gmail.com   
-> LinkedIn: www.linkedin.com/in/kzini
+### 4. Execute os notebooks:
+notebooks/character_network.ipynb  
+notebooks/theme_classification.ipynb
+
+---
+
+## Autor
+
+**Bruno Casini**  
+LinkedIn: https://www.linkedin.com/in/kzini

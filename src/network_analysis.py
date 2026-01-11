@@ -58,12 +58,12 @@ def assign_group(character_name):
         'Lunker', 'Hawk', 'Red', 'Sarge', 'Meebur', 'Jax', 'Jiro', 'Jinx',
         'Thorn', 'Wooley', 'Vaughn', 'Havoc', 'Rys', 'Shiney', 'Tiplar',
         'Rush', 'Hunter', 'Wrecker', 'Tech', 'Boil', 'Gree', 'Spark', 'Crys', 
-        'Cut', 'Tup', 'Boss', 'Ringo', 'Crasher'
+        'Cut', 'Tup', 'Boss', 'Ringo', 'Crasher', 'Crosshair'
     ]
    
     bounty_hunters = [
     'Cad Bane', 'Bossk', 'Aurra', 'Embo', 'Boba Fett', 'Castas',
-    'Dengar', 'Highsinger', 'Latts', 'Aurra', 'Dengar', 'Cato'
+    'Dengar', 'Highsinger', 'Latts', 'Aurra', 'Dengar', 'Cato', 'Greedo'
 ]
 
     politicians = [

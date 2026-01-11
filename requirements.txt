@@ -4,12 +4,16 @@ pandas==2.2.2
 scipy==1.14.1
 
 matplotlib==3.9.2
+seaborn==0.13.0
 pyvis==0.3.2
 
 networkx==3.3
 
 spacy==3.7.2
-torch==2.4.1
+transformers==4.44.0
+torch
 
-chardet==5.2.0
 nltk==3.9.1
+tqdm==4.66.5
+chardet==5.2.0
+
