@@ -28,6 +28,7 @@ def load_and_process_subtitles(subtitles_path):
         
         script = ' '.join(text_lines).replace('\n', ' ').replace('  ', ' ')
         
+        # Extrai temporada e episódio a partir do nome do arquivo
         filename = path.split('\\')[-1]
         match = re.search(r'Season\s+(\d+)\s*-\s*(\d+)', filename)
         

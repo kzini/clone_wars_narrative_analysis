@@ -23,7 +23,7 @@ def generate_relationships_by_season(df, window=10):
                     for entity_in_window in previous_entities_flattened:
                         if entity != entity_in_window:
                             entity_rel = sorted([entity, entity_in_window])
-                            entity_relationship.append(entity_rel)
+                            entity_relationship.append(entity_rel) # Adiciona o par de entidades à lista de relações detectadas
         
         if entity_relationship:
             relationship_df = pd.DataFrame({'value': entity_relationship})
@@ -93,7 +93,7 @@ def create_season_network(relationship_df, season_number, min_occurrences):
     rel_filtered = relationship_df[relationship_df['value'] >= min_occurrences]
     
     if rel_filtered.empty:
-        print(f"Temporada {season_number}: Não há relações significativas!")
+        print(f"Temporada {season_number}: Não há relações significativas")
         return None
     
     G_season = nx.Graph()
@@ -278,7 +278,7 @@ def analyze_seasons_comparison(season_networks):
     
     for season, G in season_networks.items():
         if G:
-            # Calcular métricas
+            # Calcula métricas
             degrees = dict(G.degree())
             centrality = nx.degree_centrality(G)
             
@@ -289,7 +289,6 @@ def analyze_seasons_comparison(season_networks):
                 'avg_degree': sum(degrees.values()) / len(degrees),
                 'density': nx.density(G),
                 'top_character': max(degrees.items(), key=lambda x: x[1])[0],
-                'top_centrality': max(centrality.items(), key=lambda x: x[1])[0]
             })
     
     comparison_df = pd.DataFrame(comparison_data)
