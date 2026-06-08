@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![spaCy](https://img.shields.io/badge/spaCy-NLP-green)
+![NetworkX](https://img.shields.io/badge/NetworkX-Graphs-yellow)
+![Transformers](https://img.shields.io/badge/Transformers-BART-red)
+
 # Análise narrativa de The Clone Wars com redes de personagens e classificação temática via NLP
 
 ## Visão geral
